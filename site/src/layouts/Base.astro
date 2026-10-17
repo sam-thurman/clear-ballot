@@ -1,0 +1,61 @@
+---
+import DraftBanner from '../components/DraftBanner.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** Required on content pages; omit (undefined) only on site pages without a content file. */
+  status?: 'draft' | 'reviewed';
+  contentPath?: string;
+}
+const { title, description, status, contentPath } = Astro.props;
+const REPO = 'https://github.com/sam-thurman/clear-ballot';
+const pageUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://clear-ballot.pages.dev').toString();
+const issueTitle = `Error report: ${title}`;
+const issueBody = `**Page:** ${pageUrl}\n${contentPath ? `**Content file:** \`${contentPath}\`\n` : ''}\n**What is wrong?**\n\n\n**What is the correct information, and what source shows it?**\n\n`;
+const reportUrl = `${REPO}/issues/new?labels=error-report&title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>{title} · Clear Ballot</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' rx='3' fill='%23245'/><path d='M4 8.5l2.5 2.5L12 5.5' stroke='white' stroke-width='2' fill='none'/></svg>" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">Clear Ballot</a>
+      <nav aria-label="Main">
+        <a href="/browse">Browse</a>
+        <a href="/methodology">Methodology</a>
+        <a href="/sources">Sources</a>
+        <a href="/about">About</a>
+      </nav>
+    </header>
+    <main class="container">
+      {status && <DraftBanner status={status} />}
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>
+        Nonpartisan, volunteer-made, not affiliated with any campaign.
+        <a href={reportUrl} rel="noopener" data-report-error>Report an error</a>.
+      </p>
+      <p>
+        King County, WA · November 3, 2026 General Election ·
+        <a href="/corrections">Corrections log</a> ·
+        <a href="https://kingcounty.gov/en/dept/elections" rel="noopener">King County Elections</a> ·
+        <a href="https://voter.votewa.gov/" rel="noopener">VoteWA (register, ballot status)</a>
+      </p>
+      <p class="small">
+        Everything here is drawn from the sources cited on each page. This site does not endorse candidates or measures.
+        <a href="/about">How this site works</a>.
+      </p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,68 @@
+---
+import Base from '../layouts/Base.astro';
+import { loadAll, contestSort, districts } from '../lib/ballot';
+const { measures, contests, candidateById } = await loadAll();
+const sorted = [...contests].sort(contestSort);
+const cds = sorted.filter((c) => c.data.district_type === 'cd');
+const sc = sorted.filter((c) => c.data.district_type === 'statewide');
+const ldNumbers = [...new Set(sorted.filter((c) => c.data.district_type === 'ld').map((c) => c.data.district_number!))].sort((a, b) => a - b);
+const cdNumbers = cds.map((c) => c.data.district_number!);
+
+function card(c: (typeof contests)[number]) {
+  return c;
+}
+---
+
+<Base title="Browse all contests" description="Every measure and contest covered by Clear Ballot, grouped by district.">
+  <h1>Browse by district</h1>
+  <p>
+    Everything on this site, grouped the way it appears on the ballot. Know your districts? Jump straight to a
+    combined ballot page:
+  </p>
+  <form class="lookup" method="get" action="/ballot">
+    <label>Congressional District
+      <select name="cd">{cdNumbers.map((n) => <option value={`53${String(n).padStart(2, '0')}`}>CD {n}</option>)}</select>
+    </label>
+    <label>Legislative District
+      <select name="ld">{ldNumbers.map((n) => <option value={`53${String(n).padStart(3, '0')}`}>LD {n}</option>)}</select>
+    </label>
+    <button type="submit">Show ballot</button>
+  </form>
+
+  <h2>State measures</h2>
+  {measures.map((m) => (
+    <a class="card" href={`/measures/${m.id}`}>
+      <h3>{m.data.title}</h3>
+      <div class="meta">{m.data.ballot_number} · {m.data.measure_type}{m.data.status === 'draft' && <span class="badge">unreviewed draft</span>}</div>
+    </a>
+  ))}
+
+  <h2>U.S. House</h2>
+  {cds.map((c) => (
+    <a class="card" href={`/contests/${c.id}`}>
+      <h3>{c.data.title}</h3>
+      <ul>{c.data.candidates.map((s) => <li>{candidateById.get(s)?.data.name}{candidateById.get(s)?.data.party_preference && <span class="muted"> ({candidateById.get(s)?.data.party_preference})</span>}</li>)}</ul>
+    </a>
+  ))}
+
+  <h2>State Legislature</h2>
+  {ldNumbers.map((n) => (
+    <section>
+      <h3 id={`ld-${n}`}>Legislative District {n}</h3>
+      {sorted.filter((c) => c.data.district_type === 'ld' && c.data.district_number === n).map((c) => (
+        <a class="card" href={`/contests/${c.id}`}>
+          <h3>{c.data.office}{c.data.term_note && <span class="badge">{c.data.term_note}</span>}</h3>
+          <ul>{c.data.candidates.map((s) => <li>{candidateById.get(s)?.data.name}{candidateById.get(s)?.data.party_preference && <span class="muted"> ({candidateById.get(s)?.data.party_preference})</span>}{candidateById.get(s)?.data.incumbent && <span class="badge inc">incumbent</span>}</li>)}</ul>
+        </a>
+      ))}
+    </section>
+  ))}
+
+  <h2>State Supreme Court</h2>
+  {sc.map((c) => (
+    <a class="card" href={`/contests/${c.id}`}>
+      <h3>{c.data.title}{c.data.term_note && <span class="badge">{c.data.term_note}</span>}</h3>
+      <ul>{c.data.candidates.map((s) => <li>{candidateById.get(s)?.data.name}{candidateById.get(s)?.data.incumbent && <span class="badge inc">incumbent</span>}</li>)}</ul>
+    </a>
+  ))}
+</Base>

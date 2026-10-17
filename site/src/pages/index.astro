@@ -1,16 +1,79 @@
 ---
+import Base from '../layouts/Base.astro';
+import { loadAll, clientBallotData } from '../lib/ballot';
+const { measures, contests, candidates } = await loadAll();
+const data = clientBallotData(measures, contests, candidates);
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Base title="What's on my ballot?" description="Plain-English, cited guide to the King County, WA ballot for the November 3, 2026 general election.">
+  <h1>What's on my King County ballot?</h1>
+  <p>
+    Enter your address to see the state measures, U.S. House race, state legislative races, and state Supreme Court
+    races you will vote on in the <strong>November 3, 2026 general election</strong>. Every claim on this site is
+    cited to a public source; see <a href="/methodology">how it's made</a>.
+  </p>
+
+  <form class="lookup" id="lookup">
+    <label for="address" style="position:absolute;left:-9999px">Street address</label>
+    <input type="text" id="address" name="address" autocomplete="street-address" placeholder="Street, city, zip (e.g. 401 5th Ave, Seattle, 98104)" required />
+    <button type="submit" id="go">Find my ballot</button>
+  </form>
+  <p id="status" class="small" aria-live="polite"></p>
+  <p class="small">
+    Your address is sent only to the U.S. Census Bureau's geocoder to find your districts and is not stored.
+    Prefer not to type it? <a href="/browse">Browse by district</a> instead.
+  </p>
+
+  <h2>What this covers</h2>
+  <ul>
+    <li>The 3 statewide initiatives (IP26-645, IL26-001, IL26-638)</li>
+    <li>U.S. Representative, Congressional Districts 1, 7, 8, and 9</li>
+    <li>State Senator and State Representative races in the 17 legislative districts that touch King County</li>
+    <li>State Supreme Court Justice, Positions 1, 3, 4, 5, and 7</li>
+  </ul>
+  <p class="small">
+    County offices, lower-court judges, and city, school, and special-district measures are not covered in this version.
+    Your official ballot and your county's local voters' pamphlet are at
+    <a href="https://kingcounty.gov/en/dept/elections/election-information/2026/november-general" rel="noopener">King County Elections</a>.
+    Ballots must be postmarked or in a drop box by 8 p.m. on November 3.
+  </p>
+
+  <script type="application/json" id="ballot-data" set:html={JSON.stringify({ county_geoid: data.county_geoid, districts: data.districts })} />
+  <script>
+    const form = document.getElementById('lookup') as HTMLFormElement;
+    const input = document.getElementById('address') as HTMLInputElement;
+    const status = document.getElementById('status') as HTMLParagraphElement;
+    const button = document.getElementById('go') as HTMLButtonElement;
+    const data = JSON.parse(document.getElementById('ballot-data')!.textContent || '{}');
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const address = input.value.trim();
+      if (!address) return;
+      button.disabled = true;
+      status.textContent = 'Looking up your districts…';
+      try {
+        const res = await fetch(`/api/geocode?address=${encodeURIComponent(address)}`);
+        if (!res.ok) throw new Error(`geocoder returned ${res.status}`);
+        const g = await res.json();
+        if (!g.matched) {
+          status.innerHTML = `We couldn't find that address. Try adding the city and zip code, or <a href="/browse">browse by district</a>.`;
+          return;
+        }
+        if (g.county !== data.county_geoid) {
+          status.innerHTML = `That address (${g.matched_address}) is outside King County, so this site can't show its ballot. <a href="/browse">Browse King County districts</a> instead.`;
+          return;
+        }
+        if (!data.districts[g.cd] || !data.districts[g.ld]) {
+          status.innerHTML = `We found the address but its districts (CD ${g.cd}, LD ${g.ld}) aren't in our data. <a href="/browse">Browse by district</a>.`;
+          return;
+        }
+        location.href = `/ballot?cd=${encodeURIComponent(g.cd)}&ld=${encodeURIComponent(g.ld)}`;
+      } catch (err) {
+        status.innerHTML = `The address lookup service isn't responding right now. <a href="/browse">Browse by district</a> instead.`;
+      } finally {
+        button.disabled = false;
+      }
+    });
+  </script>
+</Base>

@@ -1,0 +1,34 @@
+---
+// Full list of a page's sources, shown under the body. Body footnotes link to the same URLs.
+interface Props {
+  sources: { id: string; title: string; url: string; publisher: string; accessed: string; kind: string }[];
+}
+const { sources } = Astro.props;
+const label: Record<string, string> = {
+  official: 'Official',
+  finance: 'Campaign finance',
+  legislative: 'Legislative record',
+  news: 'News report',
+  'candidate-site': "Candidate's own site",
+  endorsement: 'Endorsement',
+};
+---
+
+{sources.length > 0 && (
+  <section class="sources">
+    <h2 id="sources">Sources for this page</h2>
+    <table>
+      <thead><tr><th>Source</th><th>Publisher</th><th>Type</th><th>Accessed</th></tr></thead>
+      <tbody>
+        {sources.map((s) => (
+          <tr id={`source-${s.id}`}>
+            <td><a href={s.url} rel="noopener">{s.title}</a></td>
+            <td>{s.publisher}</td>
+            <td>{label[s.kind] ?? s.kind}</td>
+            <td>{s.accessed}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+)}

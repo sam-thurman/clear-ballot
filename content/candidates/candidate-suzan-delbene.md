@@ -102,7 +102,7 @@ record:
     status_date: '2026-03-09'
     introduced: '2026-03-09'
     url: https://www.congress.gov/bill/119/house-bill/7868
-  - bill_id: H.R.ES 1049
+  - bill_id: H.Res. 1049
     title: Congratulating the Seattle Seahawks for winning Super Bowl LX and the 12th Man for their unwavering support.
     status: Referred to the House Committee on Oversight and Government Reform.
     status_date: '2026-02-10'
@@ -120,7 +120,7 @@ record:
     status_date: '2025-11-07'
     introduced: '2025-11-07'
     url: https://www.congress.gov/bill/119/house-bill/5940
-  - bill_id: H.R.ES 549
+  - bill_id: H.Res. 549
     title: Expressing support for the designation of June 26 as "LGBTQI+ Equality Day".
     status: Referred to the House Committee on the Judiciary.
     status_date: '2025-06-26'
@@ -160,7 +160,7 @@ record:
     url: https://www.congress.gov/bill/119/house-bill/6500
     roll_call_url: https://clerk.house.gov/evs/2026/roll286.xml
     question: On Motion to Suspend the Rules and Concur in the Senate Amendments
-  - bill_id: S 2
+  - bill_id: S. 2
     title: Secure America Act
     category: federal
     vote: nay

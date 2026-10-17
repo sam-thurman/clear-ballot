@@ -1,5 +1,5 @@
 {
-  "name": "site",
+  "name": "clear-ballot-site",
   "type": "module",
   "version": "0.0.1",
   "engines": {
@@ -7,11 +7,18 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "build": "astro build && node scripts/check-banner.mjs",
+    "preview": "wrangler pages dev dist",
+    "astro": "astro",
+    "check-banner": "node scripts/check-banner.mjs"
   },
   "dependencies": {
+    "@astrojs/markdown-remark": "^7.3.3",
     "astro": "^7.4.0"
-  }
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261016.1",
+    "wrangler": "^4.151.1"
+  },
+  "private": true
 }

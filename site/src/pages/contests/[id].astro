@@ -1,0 +1,51 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Sources from '../../components/Sources.astro';
+import { loadAll } from '../../lib/ballot';
+
+export async function getStaticPaths() {
+  const contests = await getCollection('contests');
+  return contests.map((c) => ({ params: { id: c.id }, props: { contest: c } }));
+}
+const { contest } = Astro.props;
+const { candidateById } = await loadAll();
+const { Content } = await render(contest);
+const d = contest.data;
+const hasBody = (contest.body ?? '').replace(/<!--[\s\S]*?-->/g, '').replace(/^#+.*$/gm, '').trim().length > 0;
+const districtLabel = d.district_type === 'cd' ? `Congressional District ${d.district_number}` : d.district_type === 'ld' ? `Legislative District ${d.district_number}` : 'Statewide';
+---
+
+<Base title={d.title} description={`${d.title}: candidates, background, funding, and record.`} status={d.status} contentPath={`content/contests/${contest.id}.md`}>
+  <p class="small"><a href="/browse">All contests</a> › {districtLabel}</p>
+  <h1>{d.title}</h1>
+  <p class="small">
+    {d.partisan ? 'Partisan office' : 'Nonpartisan office'}{d.term_note && ` · ${d.term_note}`} · vote for one · updated {d.updated_at}
+  </p>
+
+  <h2>Candidates</h2>
+  <p class="small">Listed in ballot order. A candidate's party preference is their own statement and does not imply party endorsement.</p>
+  {d.candidates.map((slug) => {
+    const k = candidateById.get(slug);
+    if (!k) return null;
+    const f = k.data.finance;
+    return (
+      <a class="card" href={`/candidates/${slug}`}>
+        <h3>{k.data.name}{k.data.incumbent && <span class="badge inc">incumbent</span>}{k.data.status === 'draft' && <span class="badge">unreviewed draft</span>}</h3>
+        <div class="meta">
+          {k.data.party_preference ?? 'Nonpartisan'}
+          {k.data.current_office && ` · ${k.data.current_office}`}
+          {f ? ` · raised ${f.total_raised?.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 })} as of ${f.as_of}` : k.data.finance_checked ? ` · no campaign finance filing found as of ${k.data.finance_checked}` : ''}
+        </div>
+      </a>
+    );
+  })}
+
+  {hasBody && (
+    <>
+      <h2>About this office</h2>
+      <Content />
+    </>
+  )}
+  <Sources sources={d.sources} />
+</Base>

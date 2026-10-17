@@ -1,0 +1,43 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "0.12.17"
+
+      - name: Set up Python
+        run: uv python install 3.12
+
+      - name: Pipeline tests (offline)
+        working-directory: pipeline
+        run: uv run pytest -q --deselect tests/test_geocode.py::test_geocode_resolves_to_correct_contests
+
+      - name: Validate content
+        working-directory: pipeline
+        run: uv run validate
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install site dependencies
+        working-directory: site
+        run: npm ci
+
+      - name: Build site and check draft banners
+        working-directory: site
+        run: npm run build

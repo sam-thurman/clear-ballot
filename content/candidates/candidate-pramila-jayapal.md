@@ -78,19 +78,19 @@ record:
     status_date: '2026-09-24'
     introduced: '2026-04-23'
     url: https://www.congress.gov/bill/119/house-concurrent-resolution/89
-  - bill_id: H.R.ES 1212
+  - bill_id: H.Res. 1212
     title: Expressing support for the staff of public, school, academic, and special libraries in the United States and the essential services those libraries provide to communities, recognizing the need for funding commensurate with the broad scope of social service and community supports provided by libraries, preserving the right of all citizens of the United States to freely access information and resources in their communities, supporting a strong union voice for library workers, and defending the civil rights of library staff.
     status: Referred to the House Committee on Education and Workforce.
     status_date: '2026-04-23'
     introduced: '2026-04-23'
     url: https://www.congress.gov/bill/119/house-resolution/1212
-  - bill_id: H.R.ES 1178
+  - bill_id: H.Res. 1178
     title: Commemorating the 5-year remembrance of the April 15, 2021, mass shooting at a FedEx Ground facility in Indianapolis, Indiana, and denouncing all forms of anti-Asian hate, including the resurgence of xenophobic and anti-immigrant rhetoric.
     status: Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
     status_date: '2026-04-15'
     introduced: '2026-04-15'
     url: https://www.congress.gov/bill/119/house-resolution/1178
-  - bill_id: H.R.ES 1179
+  - bill_id: H.Res. 1179
     title: Condemning attacks on civilians in Sudan and calling for an end to external support to the warring parties and for efforts to promote a negotiated settlement of the war.
     status: 'Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 44 - 2.'
     status_date: '2026-05-13'
@@ -180,7 +180,7 @@ record:
     status_date: '2026-02-12'
     introduced: '2026-02-12'
     url: https://www.congress.gov/bill/119/house-bill/7541
-  - bill_id: H.R.ES 1058
+  - bill_id: H.Res. 1058
     title: Recognizing that it is the duty of the Federal Government to develop and implement a Transgender Bill of Rights to protect and codify the rights of transgender and nonbinary people under the law and ensure their access to medical care, shelter, safety, and economic security.
     status: Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Workforce, Energy and Commerce, Financial Services, Oversight and Government Reform, Armed Services, Veterans' Affairs, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
     status_date: '2026-02-11'
@@ -210,7 +210,7 @@ record:
     status_date: '2025-12-04'
     introduced: '2025-12-03'
     url: https://www.congress.gov/bill/119/house-bill/6397
-  - bill_id: H.R.ES 899
+  - bill_id: H.Res. 899
     title: Supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of violence toward transgender people and memorializing the lives lost this year.
     status: Referred to the House Committee on the Judiciary.
     status_date: '2025-11-20'
@@ -222,13 +222,13 @@ record:
     status_date: '2025-11-19'
     introduced: '2025-11-19'
     url: https://www.congress.gov/bill/119/house-bill/6145
-  - bill_id: H.R.ES 741
+  - bill_id: H.Res. 741
     title: Acknowledging that in the aftermath of September 11, 2001, individuals experienced hate and were targeted by the government on account of their faith, race, national origin and immigration status, and suggesting various forms of relief to support those affected.
     status: Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
     status_date: '2025-09-18'
     introduced: '2025-09-18'
     url: https://www.congress.gov/bill/119/house-resolution/741
-  - bill_id: H.R.ES 740
+  - bill_id: H.Res. 740
     title: Congratulating Seattle Sounders FC on becoming the first Major League Soccer team to win all 5 major North American soccer trophies.
     status: Referred to the House Committee on Oversight and Government Reform.
     status_date: '2025-09-18'
@@ -270,13 +270,13 @@ record:
     status_date: '2025-06-12'
     introduced: '2025-06-12'
     url: https://www.congress.gov/bill/119/house-bill/3971
-  - bill_id: H.R.ES 473
+  - bill_id: H.Res. 473
     title: Calling for the urgent delivery and disbursement of humanitarian aid to address the needs of civilians in Gaza.
     status: Referred to the House Committee on Foreign Affairs.
     status_date: '2025-06-04'
     introduced: '2025-06-04'
     url: https://www.congress.gov/bill/119/house-resolution/473
-  - bill_id: H.R.ES 445
+  - bill_id: H.Res. 445
     title: 'Supporting the goals and ideals of the month of May as Sex Ed For All Month: Equity and Access for All.'
     status: Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
     status_date: '2025-05-23'
@@ -306,7 +306,7 @@ record:
     status_date: '2025-04-10'
     introduced: '2025-04-10'
     url: https://www.congress.gov/bill/119/house-bill/2851
-  - bill_id: H.R.ES 328
+  - bill_id: H.Res. 328
     title: Expressing support for the staff of public, school, academic, and special libraries in the United States and the essential services those libraries provide to communities, recognizing the need for funding commensurate with the broad scope of social service and community supports provided by libraries, preserving the right of all citizens of the United States to freely access information and resources in their communities, supporting a strong union voice for library workers, and defending the civil rights of library staff.
     status: Referred to the House Committee on Education and Workforce.
     status_date: '2025-04-10'
@@ -364,7 +364,7 @@ record:
     url: https://www.congress.gov/bill/119/house-bill/6500
     roll_call_url: https://clerk.house.gov/evs/2026/roll286.xml
     question: On Motion to Suspend the Rules and Concur in the Senate Amendments
-  - bill_id: S 2
+  - bill_id: S. 2
     title: Secure America Act
     category: federal
     vote: nay

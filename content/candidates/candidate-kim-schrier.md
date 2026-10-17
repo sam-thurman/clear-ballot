@@ -196,7 +196,7 @@ record:
     url: https://www.congress.gov/bill/119/house-bill/6500
     roll_call_url: https://clerk.house.gov/evs/2026/roll286.xml
     question: On Motion to Suspend the Rules and Concur in the Senate Amendments
-  - bill_id: S 2
+  - bill_id: S. 2
     title: Secure America Act
     category: federal
     vote: nay

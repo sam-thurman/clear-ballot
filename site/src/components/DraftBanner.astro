@@ -1,0 +1,31 @@
+---
+// Shown at the top of every page whose content file has status: draft.
+// Throws at build time if it is rendered with an unexpected status value, so a page
+// that forgets to wire `status` cannot silently ship without the banner.
+interface Props {
+  status: 'draft' | 'reviewed';
+}
+const { status } = Astro.props;
+if (status !== 'draft' && status !== 'reviewed') {
+  throw new Error(`DraftBanner: status must be "draft" or "reviewed", got ${JSON.stringify(status)}`);
+}
+---
+
+{status === 'draft' && (
+  <div class="draft-banner" role="status" data-draft-banner>
+    <strong>Unreviewed draft.</strong> This page was drafted from the sources listed below and has not yet been
+    checked by a human reviewer.
+  </div>
+)}
+
+<style>
+  .draft-banner {
+    background: var(--warn-bg);
+    color: var(--warn-fg);
+    border: 2px solid var(--warn-border);
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    margin: 0 0 1.25rem;
+    font-size: 1rem;
+  }
+</style>

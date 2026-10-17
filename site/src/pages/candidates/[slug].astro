@@ -1,0 +1,118 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Sources from '../../components/Sources.astro';
+import { loadAll, money, pct } from '../../lib/ballot';
+
+export async function getStaticPaths() {
+  const candidates = await getCollection('candidates');
+  return candidates.map((c) => ({ params: { slug: c.id }, props: { candidate: c } }));
+}
+const { candidate } = Astro.props;
+const { contestById } = await loadAll();
+const { Content } = await render(candidate);
+const d = candidate.data;
+const contest = contestById.get(d.contest);
+const f = d.finance;
+const r = d.record;
+const financeSourceName = f?.source === 'fec' ? 'Federal Election Commission' : 'Washington Public Disclosure Commission';
+const smallDonorNote = f?.source === 'fec'
+  ? 'share of receipts reported as unitemized individual contributions ($200 or less)'
+  : 'share of contribution dollars from gifts of $100 or less, including lump-sum "small contributions"';
+const voteClass = (v: string | null) => (v === 'yea' ? 'vote-yea' : v === 'nay' ? 'vote-nay' : 'muted');
+const voteLabel = (v: string | null) => (v === null ? 'no floor vote' : v === 'absent' ? 'not voting' : v);
+---
+
+<Base title={d.name} description={`${d.name}, candidate for ${contest?.data.title ?? d.contest}: background, positions, funding, and record.`} status={d.status} contentPath={`content/candidates/${candidate.id}.md`}>
+  <p class="small"><a href="/browse">All contests</a> › <a href={`/contests/${d.contest}`}>{contest?.data.title ?? d.contest}</a></p>
+  <h1>{d.name}{d.incumbent && <span class="badge inc">incumbent</span>}</h1>
+
+  <dl class="facts">
+    <dt>Running for</dt><dd><a href={`/contests/${d.contest}`}>{contest?.data.title ?? d.contest}</a>{contest?.data.term_note && ` (${contest.data.term_note})`}</dd>
+    <dt>Party preference</dt><dd>{d.party_preference ?? 'Nonpartisan office'}{d.party_preference && <span class="small"> (as stated by the candidate on the ballot)</span>}</dd>
+    {d.current_office && <><dt>Current office</dt><dd>{d.current_office}</dd></>}
+    {d.website && <><dt>Campaign site</dt><dd><a href={d.website} rel="noopener nofollow">{d.website.replace(/^https?:\/\//, '')}</a></dd></>}
+    <dt>Pamphlet statement</dt>
+    <dd>
+      {d.pamphlet_statement_url
+        ? <a href={d.pamphlet_statement_url} rel="noopener">{d.pamphlet_statement_submitted === false ? 'No statement submitted (pamphlet page)' : "Read in the state Voters' Pamphlet"}</a>
+        : 'Not found'}
+    </dd>
+    <dt>Updated</dt><dd>{d.updated_at}</dd>
+  </dl>
+
+  <h2>Campaign finance</h2>
+  {f ? (
+    <>
+      <p class="small">From {financeSourceName} filings as of {f.as_of}. Figures are as filed by the campaign. {f.url && <a href={f.url} rel="noopener">See the full report</a>}.</p>
+      <table>
+        <tbody>
+          <tr><th>Total raised</th><td class="num">{money(f.total_raised)}</td></tr>
+          <tr><th>Total spent</th><td class="num">{money(f.total_spent)}</td></tr>
+          {f.cash_on_hand !== null && f.cash_on_hand !== undefined && <tr><th>Cash on hand</th><td class="num">{money(f.cash_on_hand)}</td></tr>}
+          {f.small_donor_share !== null && f.small_donor_share !== undefined && <tr><th>Small-donor share<br /><span class="small">{smallDonorNote}</span></th><td class="num">{pct(f.small_donor_share)}</td></tr>}
+        </tbody>
+      </table>
+      {f.top_contributors.length > 0 && (
+        <>
+          <h3>Top contributors (as filed)</h3>
+          <table>
+            <thead><tr><th>Contributor</th><th>Employer / occupation</th><th class="num">Amount</th></tr></thead>
+            <tbody>
+              {f.top_contributors.map((t) => (
+                <tr><td>{t.name}</td><td class="small">{[t.employer, t.occupation].filter(Boolean).join(' · ') || '—'}</td><td class="num">{money(t.amount)}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        </>
+      )}
+    </>
+  ) : (
+    <p class="notice">No campaign finance filing found as of {d.finance_checked ?? d.updated_at}.</p>
+  )}
+
+  {r && (
+    <>
+      <h2>Record</h2>
+      <p class="small">
+        Votes on the published <a href="/methodology#voting-record-shortlist">bill shortlist</a>, as recorded by the legislature, as of {r.as_of}.
+        Sponsored bills are every bill this legislator was prime sponsor of this term.
+      </p>
+      <table>
+        <thead><tr><th>Bill</th><th>Vote</th><th>Date</th></tr></thead>
+        <tbody>
+          {r.shortlist_votes.map((v) => (
+            <tr>
+              <td><a href={v.url} rel="noopener">{v.bill_id}</a> <span class="small">{v.title}</span></td>
+              <td class={voteClass(v.vote)}>{voteLabel(v.vote)}{v.roll_call_url && v.vote && <> <a class="small" href={v.roll_call_url} rel="noopener">(roll call)</a></>}</td>
+              <td class="small">{v.date ?? '—'}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <details>
+        <summary>Sponsored bills ({r.sponsored_bills.length}){r.sponsored_bills_url && <> · <a href={r.sponsored_bills_url} rel="noopener">source</a></>}</summary>
+        <table>
+          <thead><tr><th>Bill</th><th>Title</th><th>Status</th></tr></thead>
+          <tbody>
+            {r.sponsored_bills.map((b) => (
+              <tr><td><a href={b.url} rel="noopener">{b.bill_id}</a></td><td>{b.title}</td><td class="small">{b.status}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </details>
+    </>
+  )}
+
+  {d.endorsements.length > 0 && (
+    <>
+      <h2>Endorsements</h2>
+      <ul>
+        {d.endorsements.map((e) => <li><a href={e.url} rel="noopener nofollow">{e.org}</a>{e.self_reported && <span class="small"> (self-reported by the campaign)</span>}</li>)}
+      </ul>
+    </>
+  )}
+
+  <Content />
+  <Sources sources={d.sources} />
+</Base>

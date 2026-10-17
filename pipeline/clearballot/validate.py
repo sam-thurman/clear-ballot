@@ -245,7 +245,15 @@ def validate_file(path: Path, hosts: set[str], districts: dict, rep: Report) -> 
     if fm.get("id") != path.stem:
         rep.error(path, f"id '{fm.get('id')}' does not match filename")
     sources = check_sources(path, fm, hosts, rep)
-    check_body(path, body, sources, rep)
+    if kind == "pages":
+        # Site pages (methodology, about, corrections) are explanatory prose about the site itself;
+        # the per-sentence citation rule applies to measure, contest, and candidate bodies.
+        for section, ln, sent in body_sentences(body):
+            for c in CITE_RE.findall(sent):
+                if c not in sources:
+                    rep.error(path, f"line {ln}: citation [^{c}] not in sources")
+    else:
+        check_body(path, body, sources, rep)
     if kind == "contests":
         if fm.get("district_type") not in DISTRICT_TYPES:
             rep.error(path, f"district_type must be one of {sorted(DISTRICT_TYPES)}")

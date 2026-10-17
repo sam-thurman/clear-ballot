@@ -31,6 +31,7 @@ API = "https://api.congress.gov/v3"
 CONGRESS = 119
 MEMBER_PAGE = "https://www.congress.gov/member/{slug}/{bioguide}"
 BILL_PAGE = "https://www.congress.gov/bill/{congress}/{type_slug}/{number}"
+BILL_PREFIX = {"HR": "H.R.", "S": "S.", "HJRES": "H.J.Res.", "SJRES": "S.J.Res.", "HRES": "H.Res.", "SRES": "S.Res.", "HCONRES": "H.Con.Res.", "SCONRES": "S.Con.Res."}
 TYPE_SLUG = {"HR": "house-bill", "S": "senate-bill", "HJRES": "house-joint-resolution", "SJRES": "senate-joint-resolution", "HRES": "house-resolution", "HCONRES": "house-concurrent-resolution", "SCONRES": "senate-concurrent-resolution"}
 # A public law is on the shortlist if any of its titles matches this: appropriations acts (full-year,
 # continuing, consolidated) and budget reconciliation acts. "authorize appropriations" (e.g. the NDAA) does not match.
@@ -125,7 +126,7 @@ def sponsored(c: httpx.Client, bioguide: str) -> list[dict]:
         t = b.get("type", "")
         out.append(
             {
-                "bill_id": f"{t.replace('HR', 'H.R.').replace('HJRES', 'H.J.Res.').replace('HRES', 'H.Res.').replace('HCONRES', 'H.Con.Res.')} {b['number']}",
+                "bill_id": f"{BILL_PREFIX.get(t, t)} {b['number']}",
                 "title": b.get("title"),
                 "status": (b.get("latestAction") or {}).get("text"),
                 "status_date": (b.get("latestAction") or {}).get("actionDate"),
@@ -193,7 +194,7 @@ def main() -> int:
                 votes = []
                 for b in shortlist:
                     hv = b["house_vote"]
-                    rec = {"bill_id": f"{b['type'].replace('HR', 'H.R.').replace('HJRES', 'H.J.Res.')} {b['number']}", "title": b["title"], "category": "federal", "vote": None, "chamber": "House", "date": None, "url": b["url"], "roll_call_url": None, "question": None}
+                    rec = {"bill_id": f"{BILL_PREFIX.get(b['type'], b['type'])} {b['number']}", "title": b["title"], "category": "federal", "vote": None, "chamber": "House", "date": None, "url": b["url"], "roll_call_url": None, "question": None}
                     if hv:
                         k = (hv["sessionNumber"], hv["rollCallNumber"])
                         if k not in vote_cache:

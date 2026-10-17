@@ -66,7 +66,7 @@ record:
     status_date: '2026-08-10'
     introduced: '2026-08-10'
     url: https://www.congress.gov/bill/119/house-bill/10077
-  - bill_id: H.R.ES 1468
+  - bill_id: H.Res. 1468
     title: Encouraging Congress to pursue reforms to ensure that all United States citizens contribute to funding the operations of the Federal Government in proportion to the economic gains they realize.
     status: Referred to the House Committee on Ways and Means.
     status_date: '2026-07-30'
@@ -162,7 +162,7 @@ record:
     status_date: '2025-05-21'
     introduced: '2025-05-21'
     url: https://www.congress.gov/bill/119/house-bill/3569
-  - bill_id: H.R.ES 268
+  - bill_id: H.Res. 268
     title: Of inquiry requesting the President and directing the Secretary of Defense to transmit information to the House of Representatives relating to certain military activities against the Houthis and information referring or relating to certain laws and certain policies, guidance, instructions, standards, practices, and procedures of the Department of Defense applicable to the control, communication, transmission, or delivery of classified or sensitive information.
     status: Referred to the House Committee on Armed Services.
     status_date: '2025-03-27'
@@ -196,7 +196,7 @@ record:
     url: https://www.congress.gov/bill/119/house-bill/6500
     roll_call_url: https://clerk.house.gov/evs/2026/roll286.xml
     question: On Motion to Suspend the Rules and Concur in the Senate Amendments
-  - bill_id: S 2
+  - bill_id: S. 2
     title: Secure America Act
     category: federal
     vote: nay

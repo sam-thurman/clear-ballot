@@ -1,0 +1,51 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+type Src = { id: string; title: string; url: string; publisher: string; accessed: string; kind: string };
+const all = [
+  ...(await getCollection('measures')),
+  ...(await getCollection('contests')),
+  ...(await getCollection('candidates')),
+  ...(await getCollection('pages')),
+];
+// One row per URL; remember which pages use it.
+const byUrl = new Map<string, { src: Src; pages: { path: string; title: string }[] }>();
+for (const entry of all) {
+  const coll = entry.collection;
+  const path = coll === 'pages' ? `/${entry.id}` : `/${coll}/${entry.id}`;
+  for (const s of entry.data.sources as Src[]) {
+    const row = byUrl.get(s.url) ?? { src: s, pages: [] };
+    row.pages.push({ path, title: entry.data.title });
+    byUrl.set(s.url, row);
+  }
+}
+const byPublisher = new Map<string, { src: Src; pages: { path: string; title: string }[] }[]>();
+for (const row of byUrl.values()) {
+  const list = byPublisher.get(row.src.publisher) ?? [];
+  list.push(row);
+  byPublisher.set(row.src.publisher, list);
+}
+const publishers = [...byPublisher.keys()].sort((a, b) => byPublisher.get(b)!.length - byPublisher.get(a)!.length || a.localeCompare(b));
+---
+
+<Base title="Sources" description="Every source cited on Clear Ballot, grouped by publisher.">
+  <h1>Sources</h1>
+  <p>
+    Every source cited anywhere on this site, grouped by publisher. {byUrl.size} distinct documents from {publishers.length} publishers.
+    Only sources on the <a href="/methodology#sources-allowlist">allowlist</a> may be cited.
+  </p>
+  {publishers.map((pub) => (
+    <section>
+      <h2>{pub} <span class="badge">{byPublisher.get(pub)!.length}</span></h2>
+      <ul>
+        {byPublisher.get(pub)!.sort((a, b) => a.src.title.localeCompare(b.src.title)).map((row) => (
+          <li>
+            <a href={row.src.url} rel="noopener">{row.src.title}</a>
+            <span class="small"> · accessed {row.src.accessed} · used on {row.pages.length} page{row.pages.length === 1 ? '' : 's'}{row.pages.length <= 3 && <>: {row.pages.map((p, i) => <><a href={p.path}>{p.title}</a>{i < row.pages.length - 1 ? ', ' : ''}</>)}</>}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>

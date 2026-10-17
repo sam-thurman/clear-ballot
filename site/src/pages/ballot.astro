@@ -1,0 +1,56 @@
+---
+import Base from '../layouts/Base.astro';
+import { loadAll, clientBallotData } from '../lib/ballot';
+const { measures, contests, candidates } = await loadAll();
+const data = clientBallotData(measures, contests, candidates);
+---
+
+<Base title="Your ballot" description="The measures and contests for your Congressional and legislative district in King County.">
+  <h1 id="heading">Your ballot</h1>
+  <p id="intro" class="small">Reading your districts from the address bar…</p>
+  <div id="ballot"></div>
+  <noscript><p class="notice">This page needs JavaScript to read your districts from the link. <a href="/browse">Browse by district</a> instead.</p></noscript>
+
+  <script type="application/json" id="ballot-data" set:html={JSON.stringify(data)} />
+  <script>
+    const data = JSON.parse(document.getElementById('ballot-data')!.textContent || '{}');
+    const params = new URLSearchParams(location.search);
+    const cd = params.get('cd') || '';
+    const ld = params.get('ld') || '';
+    const heading = document.getElementById('heading')!;
+    const intro = document.getElementById('intro')!;
+    const root = document.getElementById('ballot')!;
+
+    const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
+    const draftBadge = (status: string) => (status === 'draft' ? ' <span class="badge">unreviewed draft</span>' : '');
+
+    function contestCard(id: string) {
+      const c = data.contests[id];
+      if (!c) return '';
+      const cands = c.candidates
+        .map((k: any) => `<li><a href="/candidates/${k.slug}">${esc(k.name)}</a>${k.party ? ` <span class="muted">(${esc(k.party)})</span>` : ''}${k.incumbent ? ' <span class="badge inc">incumbent</span>' : ''}</li>`)
+        .join('');
+      return `<a class="card" href="/contests/${id}"><h3>${esc(c.title)}</h3>${c.term_note ? `<div class="meta">${esc(c.term_note)}</div>` : ''}<ul>${cands}</ul></a>`;
+    }
+
+    const dcd = data.districts[cd];
+    const dld = data.districts[ld];
+    if (!dcd || !dld) {
+      heading.textContent = 'Ballot not found';
+      intro.innerHTML = `We need both a Congressional district and a legislative district in the link (for example <code>/ballot?cd=5309&amp;ld=53034</code>). <a href="/">Look up your address</a> or <a href="/browse">browse by district</a>.`;
+    } else {
+      heading.textContent = `Your ballot: ${dcd.name}, ${dld.name}`;
+      intro.innerHTML = `This is the King County ballot for <strong>${esc(dcd.name)}</strong> and <strong>${esc(dld.name)}</strong>. Bookmark or share this link; nothing about you is stored. Not your districts? <a href="/">Try another address</a> or <a href="/browse">browse all districts</a>.`;
+      const measuresHtml = data.measures
+        .map((m: any) => `<a class="card" href="/measures/${m.id}"><h3>${esc(m.title)}</h3><div class="meta">${esc(m.number)}${draftBadge(m.status)}</div></a>`)
+        .join('');
+      const statewide = data.districts['statewide'];
+      root.innerHTML =
+        `<h2>State measures</h2>${measuresHtml}` +
+        `<h2>U.S. House</h2>${dcd.contests.map(contestCard).join('')}` +
+        `<h2>State Legislature, ${esc(dld.name)}</h2>${dld.contests.map(contestCard).join('')}` +
+        `<h2>State Supreme Court</h2>${statewide.contests.map(contestCard).join('')}` +
+        `<p class="small">County offices, judges below the Supreme Court, and local measures also appear on your official ballot but are not covered here.</p>`;
+    }
+  </script>
+</Base>

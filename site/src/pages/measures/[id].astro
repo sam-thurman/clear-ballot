@@ -1,0 +1,29 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Sources from '../../components/Sources.astro';
+
+export async function getStaticPaths() {
+  const measures = await getCollection('measures');
+  return measures.map((m) => ({ params: { id: m.id }, props: { measure: m } }));
+}
+const { measure } = Astro.props;
+const { Content } = await render(measure);
+const d = measure.data;
+---
+
+<Base title={d.title} description={d.ballot_title.slice(0, 160)} status={d.status} contentPath={`content/measures/${measure.id}.md`}>
+  <p class="small"><a href="/browse">All contests</a> › State measures</p>
+  <h1>{d.title}</h1>
+  <p class="small">{d.ballot_number} · {d.measure_type} · updated {d.updated_at}</p>
+
+  <h2>What the ballot says</h2>
+  <blockquote class="ballot-title">{d.ballot_title}</blockquote>
+  <div class="yesno">
+    <div><strong class="yes">Yes means</strong><br />{d.yes_means}</div>
+    <div><strong class="no">No means</strong><br />{d.no_means}</div>
+  </div>
+
+  <Content />
+  <Sources sources={d.sources} />
+</Base>
