@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-todd-a-bloom",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "BLOOT--060",
+    "filer_name": "Todd A. Bloom",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/46208",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69774",
+    "total_raised": 32239.46,
+    "total_spent": 11549.1,
+    "carryforward": 0.0,
+    "loans": 835.7,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 433.97,
+    "independent_expenditures_against": 67270.58,
+    "as_of": "2026-10-15",
+    "top_contributors": [
+      {
+        "name": "Hathaway Collin",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Skylight Capital",
+        "occupation": "Owner"
+      },
+      {
+        "name": "Todd A. Bloom",
+        "amount": 3343.38,
+        "count": 5,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Kearney Connie",
+        "amount": 2400.0,
+        "count": 1,
+        "employer": null,
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "Goodman Real Estate Inc.",
+        "amount": 2400.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Kearney Lee",
+        "amount": 2400.0,
+        "count": 1,
+        "employer": null,
+        "occupation": "RETIRED"
+      }
+    ],
+    "small_donor_share": 0.087,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

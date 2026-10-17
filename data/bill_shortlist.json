@@ -1,0 +1,352 @@
+{
+  "rule": "For state legislators we show votes on a fixed shortlist, chosen by a rule published before any votes were looked up: (a) the bills the three 2026 initiatives respond to: the 2025 bill that amended the parental-rights statute created by Initiative 2081 (IL26-001), the 2026 bill that created the tax on income over $1 million (IP26-645), and the 2025-26 bills on K-12 athletics eligibility (IL26-638); (b) the 2025-27 operating budget and the major revenue bills passed alongside it; (c) the 2026 supplemental operating budget. Votes shown are the final passage vote in each chamber (the last 'final passage' roll call, which is the vote on the version that became law), as recorded by the Legislature, with a link to the bill page. Bills that never received a floor vote are listed with no votes. Sponsored bills are every bill the legislator was prime sponsor of in the 2025-26 biennium.",
+  "biennium": "2025-26",
+  "as_of": "2026-10-17",
+  "bills": [
+    {
+      "bill_id": "ESHB 1296",
+      "bill_number": 1296,
+      "title": "Promoting a safe and supportive public education system.",
+      "short_title": "Public education system",
+      "status": "C 369 L 25",
+      "history": "Effective date 5/20/2025*.",
+      "introduced": "2025-01-30",
+      "category": "a",
+      "note": "Amended RCW 28A.605.005, the parental-rights statute enacted by Initiative 2081. IL26-001 would repeal these amendments.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1296&Year=2025",
+      "final_passage": {
+        "House": {
+          "agency": "House",
+          "motion": "Final Passage as Amended by the Senate",
+          "date": "2025-04-24",
+          "sequence": "13",
+          "yea": 59,
+          "nay": 39,
+          "absent": 0,
+          "excused": 0
+        },
+        "Senate": {
+          "agency": "Senate",
+          "motion": "3rd Reading & Final Passage as Amended by the Senate",
+          "date": "2025-04-11",
+          "sequence": "12",
+          "yea": 30,
+          "nay": 19,
+          "absent": 0,
+          "excused": 0
+        }
+      }
+    },
+    {
+      "bill_id": "ESSB 6346",
+      "bill_number": 6346,
+      "title": "Establishing a tax on millionaires.",
+      "short_title": "Tax on millionaires",
+      "status": "C 238 L 26",
+      "history": "Effective date 6/11/2026*.",
+      "introduced": "2026-02-09",
+      "category": "a",
+      "note": "Created the 9.9% tax on individual income over $1,000,000. IP26-645 would repeal it.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026",
+      "final_passage": {
+        "House": {
+          "agency": "House",
+          "motion": "Final Passage as Amended by the House",
+          "date": "2026-03-09",
+          "sequence": "89",
+          "yea": 51,
+          "nay": 46,
+          "absent": 0,
+          "excused": 1
+        },
+        "Senate": {
+          "agency": "Senate",
+          "motion": "Final Passage As Amended by the House",
+          "date": "2026-03-11",
+          "sequence": "14",
+          "yea": 27,
+          "nay": 21,
+          "absent": 0,
+          "excused": 1
+        }
+      }
+    },
+    {
+      "bill_id": "HB 1699",
+      "bill_number": 1699,
+      "title": "Defending equity in interscholastic sports.",
+      "short_title": "Interscholastic sports",
+      "status": "H Education",
+      "history": "By resolution, reintroduced and retained in present status.",
+      "introduced": "2025-01-29",
+      "category": "a",
+      "note": "Would have barred 'biologically male' students from girls' interscholastic sports; same title as IL26-638. Died in House Education Committee; no floor vote.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1699&Year=2025",
+      "final_passage": {}
+    },
+    {
+      "bill_id": "SB 5097",
+      "bill_number": 5097,
+      "title": "Safeguarding competitiveness in girls' interscholastic athletic activities.",
+      "short_title": "Girls' athletic activities",
+      "status": "S EL/K-12",
+      "history": "By resolution, reintroduced and retained in present status.",
+      "introduced": "2025-01-13",
+      "category": "a",
+      "note": "Girls' interscholastic athletics eligibility. Died in Senate Early Learning & K-12 Committee; no floor vote.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5097&Year=2025",
+      "final_passage": {}
+    },
+    {
+      "bill_id": "SB 5012",
+      "bill_number": 5012,
+      "title": "Concerning the organization of interscholastic athletics.",
+      "short_title": "Interscholastic athletics",
+      "status": "S EL/K-12",
+      "history": "By resolution, reintroduced and retained in present status.",
+      "introduced": "2025-01-13",
+      "category": "a",
+      "note": "Organization of interscholastic athletics. Died in Senate Early Learning & K-12 Committee; no floor vote.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5012&Year=2025",
+      "final_passage": {}
+    },
+    {
+      "bill_id": "ESSB 5167",
+      "bill_number": 5167,
+      "title": "Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+      "short_title": "Operating budget",
+      "status": "C 424 L 25",
+      "history": "Effective date 5/20/2025*.",
+      "introduced": "2025-03-27",
+      "category": "b",
+      "note": "2025-27 biennial operating budget.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5167&Year=2025",
+      "final_passage": {
+        "House": {
+          "agency": "House",
+          "motion": "Final Passage as Recommended by the Conference Committee",
+          "date": "2025-04-27",
+          "sequence": "2",
+          "yea": 52,
+          "nay": 45,
+          "absent": 0,
+          "excused": 1
+        },
+        "Senate": {
+          "agency": "Senate",
+          "motion": "Final Passage as Recommended by Conference Committee",
+          "date": "2025-04-27",
+          "sequence": "4",
+          "yea": 28,
+          "nay": 19,
+          "absent": 0,
+          "excused": 1
+        }
+      }
+    },
+    {
+      "bill_id": "ESSB 5813",
+      "bill_number": 5813,
+      "title": "Increasing funding to the education legacy trust account by creating a more progressive rate structure for the capital gains tax and estate tax.",
+      "short_title": "Tax rates/cap. gains, estate",
+      "status": "C 421 L 25",
+      "history": "Effective date 5/20/2025.",
+      "introduced": "2025-04-18",
+      "category": "b",
+      "note": "Revenue: capital gains and estate tax changes (education legacy trust account).",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5813&Year=2025",
+      "final_passage": {
+        "House": {
+          "agency": "House",
+          "motion": "Final Passage as Amended by the House",
+          "date": "2025-04-23",
+          "sequence": "12",
+          "yea": 53,
+          "nay": 45,
+          "absent": 0,
+          "excused": 0
+        },
+        "Senate": {
+          "agency": "Senate",
+          "motion": "Final Passage as Amended by the House",
+          "date": "2025-04-24",
+          "sequence": "6",
+          "yea": 27,
+          "nay": 21,
+          "absent": 0,
+          "excused": 0
+        }
+      }
+    },
+    {
+      "bill_id": "ESSB 5814",
+      "bill_number": 5814,
+      "title": "Modifying the application and administration of certain excise taxes.",
+      "short_title": "Excise taxes",
+      "status": "C 422 L 25",
+      "history": "Effective date 7/27/2025*.",
+      "introduced": "2025-04-18",
+      "category": "b",
+      "note": "Revenue: extended sales tax to certain services and other excise tax changes.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5814&Year=2025",
+      "final_passage": {
+        "House": {
+          "agency": "House",
+          "motion": "Final Passage as Amended by the House",
+          "date": "2025-04-23",
+          "sequence": "14",
+          "yea": 50,
+          "nay": 47,
+          "absent": 0,
+          "excused": 1
+        },
+        "Senate": {
+          "agency": "Senate",
+          "motion": "Final Passage as Amended by the House",
+          "date": "2025-04-24",
+          "sequence": "7",
+          "yea": 26,
+          "nay": 22,
+          "absent": 0,
+          "excused": 0
+        }
+      }
+    },
+    {
+      "bill_id": "ESHB 2081",
+      "bill_number": 2081,
+      "title": "Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.",
+      "short_title": "Business and occupation tax",
+      "status": "C 420 L 25",
+      "history": "Effective date 7/27/2025*.",
+      "introduced": "2025-04-19",
+      "category": "b",
+      "note": "Revenue: business and occupation tax surcharges and rates.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2081&Year=2025",
+      "final_passage": {
+        "House": {
+          "agency": "House",
+          "motion": "3rd Reading & Final Passage",
+          "date": "2025-04-22",
+          "sequence": "4",
+          "yea": 50,
+          "nay": 48,
+          "absent": 0,
+          "excused": 0
+        },
+        "Senate": {
+          "agency": "Senate",
+          "motion": "3rd Reading & Final Passage",
+          "date": "2025-04-26",
+          "sequence": "17",
+          "yea": 26,
+          "nay": 22,
+          "absent": 0,
+          "excused": 0
+        }
+      }
+    },
+    {
+      "bill_id": "ESSB 5794",
+      "bill_number": 5794,
+      "title": "Adopting recommendations from the tax preference performance review process, eliminating obsolete tax preferences, clarifying legislative intent, and addressing changes in constitutional law.",
+      "short_title": "Tax preferences",
+      "status": "C 423 L 25",
+      "history": "Effective date 1/1/2026*.",
+      "introduced": "2025-04-18",
+      "category": "b",
+      "note": "Revenue: repeal of certain tax preferences.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5794&Year=2025",
+      "final_passage": {
+        "House": {
+          "agency": "House",
+          "motion": "Final Passage as Amended by the House",
+          "date": "2025-04-23",
+          "sequence": "13",
+          "yea": 53,
+          "nay": 45,
+          "absent": 0,
+          "excused": 0
+        },
+        "Senate": {
+          "agency": "Senate",
+          "motion": "Final Passage as Amended by the House",
+          "date": "2025-04-24",
+          "sequence": "9",
+          "yea": 26,
+          "nay": 22,
+          "absent": 0,
+          "excused": 0
+        }
+      }
+    },
+    {
+      "bill_id": "SHB 2077",
+      "bill_number": 2077,
+      "title": "Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program.",
+      "short_title": "Zero-emission vehicle prg.",
+      "status": "C 419 L 25",
+      "history": "Effective date 5/20/2025.",
+      "introduced": "2025-04-19",
+      "category": "b",
+      "note": "Revenue: tax on certain zero-emission vehicle credit sales.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2077&Year=2025",
+      "final_passage": {
+        "House": {
+          "agency": "House",
+          "motion": "3rd Reading & Final Passage",
+          "date": "2025-04-22",
+          "sequence": "7",
+          "yea": 52,
+          "nay": 45,
+          "absent": 0,
+          "excused": 1
+        },
+        "Senate": {
+          "agency": "Senate",
+          "motion": "3rd Reading & Final Passage",
+          "date": "2025-04-26",
+          "sequence": "29",
+          "yea": 28,
+          "nay": 19,
+          "absent": 0,
+          "excused": 1
+        }
+      }
+    },
+    {
+      "bill_id": "ESSB 5998",
+      "bill_number": 5998,
+      "title": "Making 2025-2027 fiscal biennium supplemental operating appropriations.",
+      "short_title": "Operating budget, supp.",
+      "status": "C 268 L 26",
+      "history": "Effective date 4/1/2026.",
+      "introduced": "2026-02-25",
+      "category": "c",
+      "note": "2026 supplemental operating budget.",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5998&Year=2026",
+      "final_passage": {
+        "House": {
+          "agency": "House",
+          "motion": "Final Passage as Recommended by the Conference Committee",
+          "date": "2026-03-12",
+          "sequence": "16",
+          "yea": 54,
+          "nay": 43,
+          "absent": 0,
+          "excused": 1
+        },
+        "Senate": {
+          "agency": "Senate",
+          "motion": "Final Passage as Recommended by Conference Committee",
+          "date": "2026-03-12",
+          "sequence": "17",
+          "yea": 28,
+          "nay": 21,
+          "absent": 0,
+          "excused": 0
+        }
+      }
+    }
+  ]
+}

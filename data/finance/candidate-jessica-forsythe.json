@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-jessica-forsythe",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "FORSJ  052",
+    "filer_name": "Jessica Forsythe",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/11324",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67417",
+    "total_raised": 190709.17,
+    "total_spent": 79327.15,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 304880.18,
+    "independent_expenditures_against": 78835.41,
+    "as_of": "2026-10-15",
+    "top_contributors": [
+      {
+        "name": "48th District Democrats",
+        "amount": 16000.0,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Abbett Ron",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Broadcom",
+        "occupation": "IT"
+      },
+      {
+        "name": "Andrews Tony",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "none",
+        "occupation": "None"
+      },
+      {
+        "name": "American Federation of State, County and Municipal Employees (AFSCME) Council 28",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Armstrong Jessica",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Homemaker",
+        "occupation": "HOMEMAKER"
+      }
+    ],
+    "small_donor_share": 0.111,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

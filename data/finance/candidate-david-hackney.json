@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-david-hackney",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "HACKG  104",
+    "filer_name": "George David Hackney (David Hackney)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/25401",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/62484",
+    "total_raised": 215153.34,
+    "total_spent": 157975.93,
+    "carryforward": 24500.0,
+    "loans": 0.0,
+    "debts": 22213.39,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 42832.26,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-16",
+    "top_contributors": [
+      {
+        "name": "MISCELLANEOUS RECEIPTS",
+        "amount": 94268.82,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Bradford Smith",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Microsoft",
+        "occupation": "PRESIDENT"
+      },
+      {
+        "name": "Amazon.com Services LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BECU",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Credit Union Legislative Action Fund",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.009,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

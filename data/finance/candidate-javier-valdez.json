@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-javier-valdez",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "VALDJ  103",
+    "filer_name": "Javier Valdez",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/502",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/50976",
+    "total_raised": 134225.0,
+    "total_spent": 75047.48,
+    "carryforward": 38149.8,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 75.8,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 9529.0,
+        "count": 66,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Electrical Workers 46 PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BENDICH JUDITH",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "RETIRED",
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "BENDICH ARNOLD",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "retired"
+      },
+      {
+        "name": "CREDIT UNION LEG ACTION FUND NW",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.096,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

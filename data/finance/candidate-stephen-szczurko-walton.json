@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-stephen-szczurko-walton",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "SZCZS--401",
+    "filer_name": "Stephen R Szczurko-Walton (Stephen Szczurko-Walton)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57508",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69488",
+    "total_raised": 16946.08,
+    "total_spent": 18567.95,
+    "carryforward": 0.0,
+    "loans": 1750.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 198.51,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 2531.14,
+        "count": 31,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Stephen R Szczurko-Walton",
+        "amount": 2014.71,
+        "count": 18,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Walker Amber",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": "Not Employed",
+        "occupation": "Not Employed"
+      },
+      {
+        "name": "Dickerman Wendy",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": "NOT EMPLOYED"
+      },
+      {
+        "name": "Kielty shawnkielty",
+        "amount": 1009.0,
+        "count": 1,
+        "employer": "Not Employed",
+        "occupation": "Not Employed"
+      }
+    ],
+    "small_donor_share": 0.191,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-jamie-pedersen",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "PEDEJ  104",
+    "filer_name": "Jamie Pedersen",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/26712",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/51357",
+    "total_raised": 565497.34,
+    "total_spent": 418409.76,
+    "carryforward": 9612.67,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 221060.17,
+    "independent_expenditures_against": 45830.72,
+    "as_of": "2026-10-16",
+    "top_contributors": [
+      {
+        "name": "WASHINGTON SENATE DEMOCRATIC CAMPAIGN",
+        "amount": 17861.74,
+        "count": 19,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 14958.0,
+        "count": 58,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BENSON SUSAN",
+        "amount": 5000.0,
+        "count": 4,
+        "employer": "SELF",
+        "occupation": "WRITER"
+      },
+      {
+        "name": "PUGET SOUND ENERGY",
+        "amount": 4800.0,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BENSON ERIC",
+        "amount": 4800.0,
+        "count": 3,
+        "employer": "SELF",
+        "occupation": "RETIRED"
+      }
+    ],
+    "small_donor_share": 0.058,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

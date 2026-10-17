@@ -1,0 +1,24 @@
+{
+  "slug": "candidate-michael-rutland",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "RUTLM--502",
+    "filer_name": "Michael Patrick Rutland (Michael Rutland)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57689",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69174",
+    "total_raised": 19417.36,
+    "total_spent": 2399.29,
+    "carryforward": 0.0,
+    "loans": 1687.36,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [],
+    "small_donor_share": null,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

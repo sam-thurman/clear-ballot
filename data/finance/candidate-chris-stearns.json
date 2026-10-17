@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-chris-stearns",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "STEAC  092",
+    "filer_name": "CHRISTOPHER T STEARNS (Chris Stearns)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/32620",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/62489",
+    "total_raised": 81707.32,
+    "total_spent": 61659.25,
+    "carryforward": 5804.36,
+    "loans": 0.0,
+    "debts": 10670.39,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 3319.6,
+        "count": 10,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "AMAZON.COM SERVICES LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "CREDIT UNION LEGISLATIVE ACTION FUND",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "CAMPAIGN FOR TRIBAL SELF-RELIANCE BY WA INDIAN GAMING ASSN",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "DELTA DENTAL OF WASHINGTON",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.041,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

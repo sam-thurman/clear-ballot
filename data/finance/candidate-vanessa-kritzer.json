@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-vanessa-kritzer",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "KRITV  103",
+    "filer_name": "Vanessa E. Kritzer (Vanessa Kritzer)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/1622",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68358",
+    "total_raised": 156615.06,
+    "total_spent": 129389.57,
+    "carryforward": 108.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 154.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-14",
+    "top_contributors": [
+      {
+        "name": "Blasi Timothy",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Google",
+        "occupation": "Software Engineer"
+      },
+      {
+        "name": "Boblit Allison",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Self",
+        "occupation": "Stay at Home Mom"
+      },
+      {
+        "name": "1910 PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Blasi Paula",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Kaiser",
+        "occupation": "Scientist"
+      },
+      {
+        "name": "Collins Paige",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Retired",
+        "occupation": "Retired"
+      }
+    ],
+    "small_donor_share": 0.135,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-cindy-ryu",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "RYU C2 133",
+    "filer_name": "Cindy Sinhi Kim Ryu (Cindy Ryu)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/557",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69055",
+    "total_raised": 247203.15,
+    "total_spent": 238979.07,
+    "carryforward": 0.0,
+    "loans": 15000.0,
+    "debts": 45349.38,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 198.51,
+    "independent_expenditures_against": 25188.02,
+    "as_of": "2026-10-16",
+    "top_contributors": [
+      {
+        "name": "Snohomish County Democratic Central Committee",
+        "amount": 25000.0,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 15515.64,
+        "count": 78,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Kyung L. Shin",
+        "amount": 3400.0,
+        "count": 4,
+        "employer": "self",
+        "occupation": "acupuncturist"
+      },
+      {
+        "name": "PEMCO Mutual Insurance Company",
+        "amount": 2900.0,
+        "count": 6,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Jed Doors, LLC",
+        "amount": 2500.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.077,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

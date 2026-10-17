@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-chris-martinez",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "MARTC--504",
+    "filer_name": "Christopher Elpidio Quisora Martinez JR (Chris Martinez)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57124",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68879",
+    "total_raised": 6435.35,
+    "total_spent": 4635.39,
+    "carryforward": 0.0,
+    "loans": 2186.83,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "Monroe Machined Products, Inc.",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Chris Martinez",
+        "amount": 1186.83,
+        "count": 9,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Monroe Bhrett",
+        "amount": 958.64,
+        "count": 1,
+        "employer": "Monroe Machined Products, Inc.",
+        "occupation": "Owner"
+      },
+      {
+        "name": "Sackett Margaret",
+        "amount": 500.0,
+        "count": 1,
+        "employer": null,
+        "occupation": "Retired"
+      },
+      {
+        "name": "Yokers Mark",
+        "amount": 500.0,
+        "count": 1,
+        "employer": "Self Employed",
+        "occupation": "Window Washer"
+      }
+    ],
+    "small_donor_share": 0.282,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

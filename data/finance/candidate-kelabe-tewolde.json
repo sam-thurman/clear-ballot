@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-kelabe-tewolde",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "TEWOK--570",
+    "filer_name": "Kelabe Tewolde",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57046",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68621",
+    "total_raised": 121941.89,
+    "total_spent": 89084.26,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 1442.95,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 40880.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-14",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 20834.14,
+        "count": 69,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Gebre Bisrat",
+        "amount": 3650.31,
+        "count": 3,
+        "employer": "Amazon",
+        "occupation": "Product Management"
+      },
+      {
+        "name": "Hausladen Mary",
+        "amount": 2450.31,
+        "count": 2,
+        "employer": "retired",
+        "occupation": "retired"
+      },
+      {
+        "name": "Goldwarg Jordan",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Progress Alliance",
+        "occupation": "Member Organizer"
+      },
+      {
+        "name": "black Cecelia",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "King county",
+        "occupation": "Ada & Disability equity specialist"
+      }
+    ],
+    "small_donor_share": 0.211,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-mary-anito",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "ANITM--628",
+    "filer_name": "Mary Anito",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57779",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69937",
+    "total_raised": 10865.32,
+    "total_spent": 9952.74,
+    "carryforward": 0.0,
+    "loans": 3336.32,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "Mary Anito",
+        "amount": 3336.32,
+        "count": 12,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Lozano David",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Fifteen Generations Holdings",
+        "occupation": "Member"
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 1259.0,
+        "count": 10,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Anito Lawrence",
+        "amount": 600.0,
+        "count": 1,
+        "employer": "Retired",
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "Fink Leonora",
+        "amount": 500.0,
+        "count": 1,
+        "employer": "Amazon",
+        "occupation": "DIRECTOR"
+      }
+    ],
+    "small_donor_share": 0.135,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

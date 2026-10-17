@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-stacy-willoughby",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "WILLS--205",
+    "filer_name": "Stacy Willoughby",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/56193",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70264",
+    "total_raised": 166693.07,
+    "total_spent": 159676.13,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 330.84,
+    "independent_expenditures_against": 7024.73,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "Washington State Democratic Central Committee",
+        "amount": 26973.48,
+        "count": 9,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "House Democratic Campaign Committee",
+        "amount": 15900.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 15730.79,
+        "count": 22,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "FISCHBACH PAUL",
+        "amount": 2400.0,
+        "count": 6,
+        "employer": null,
+        "occupation": "retired"
+      },
+      {
+        "name": "Chadwaney Ashok",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Google",
+        "occupation": "SOFTWARE ENGINEER"
+      }
+    ],
+    "small_donor_share": 0.117,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

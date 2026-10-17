@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-chipalo-street",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "STREC2-442",
+    "filer_name": "Chipalo Street",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/32715",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68643",
+    "total_raised": 86829.41,
+    "total_spent": 41259.84,
+    "carryforward": 0.0,
+    "loans": -1439.69,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 3901.45,
+        "count": 18,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Jim Buchanan",
+        "amount": 2500.62,
+        "count": 4,
+        "employer": "Retired",
+        "occupation": "Retired"
+      },
+      {
+        "name": "Credit Union Legislative Action Fund",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Amazon.com Services LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Javoen Byrd",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "The Freedmen education initiative",
+        "occupation": "Executive director"
+      }
+    ],
+    "small_donor_share": 0.05,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

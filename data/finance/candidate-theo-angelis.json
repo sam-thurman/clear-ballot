@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-theo-angelis",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "ANGET--422",
+    "filer_name": "Theodore John Angelis (Theo Angelis)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/56177",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68464",
+    "total_raised": 463356.01,
+    "total_spent": 455042.53,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 22110.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 85557.82,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-17",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 17676.0,
+        "count": 85,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Adler Richard",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Adler Giersch",
+        "occupation": "Attorney"
+      },
+      {
+        "name": "Cochran Wendy",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "retired",
+        "occupation": "retired"
+      },
+      {
+        "name": "Cochran Darrell",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "PCVA",
+        "occupation": "Attorney"
+      },
+      {
+        "name": "Connelly John",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Connelly Law Offices PLLC",
+        "occupation": "Attorney"
+      }
+    ],
+    "small_donor_share": 0.044,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

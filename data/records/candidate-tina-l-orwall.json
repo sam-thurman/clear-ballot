@@ -1,0 +1,377 @@
+{
+  "slug": "candidate-tina-l-orwall",
+  "member": {
+    "id": "14205",
+    "name": "Tina Orwall",
+    "party": "D",
+    "district": "33",
+    "chamber": "Senate",
+    "url": "https://leg.wa.gov/legislators/member/14205"
+  },
+  "as_of": "2026-10-17",
+  "sponsored_bills_source": "https://app.leg.wa.gov/bi/report/BillsBySponsor?SenateSponsorId=14205&biennium=2025-26&billsBySponsorReportType=primarybills&hasCompanionBills=false&sponsorType=Senate",
+  "sponsored_bills": [
+    {
+      "bill_id": "2ESSB 5105",
+      "title": "Sexually explicit depictions",
+      "status": "C 223 L 26",
+      "status_date": "03/25/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5105&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SSB 5163",
+      "title": "Child fatalities",
+      "status": "C 123 L 25",
+      "status_date": "04/22/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5163&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5227",
+      "title": "Child sex dolls",
+      "status": "S Rules X",
+      "status_date": "02/26/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5227&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5242",
+      "title": "Behavioral health resources",
+      "status": "S Health & Long-",
+      "status_date": "01/14/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5242&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5254",
+      "title": "Health care information",
+      "status": "S Ways & Means",
+      "status_date": "02/21/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5254&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5273",
+      "title": "Violence prevention services",
+      "status": "S Health & Long-",
+      "status_date": "01/15/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5273&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5295",
+      "title": "Sexual assault/rights",
+      "status": "S Law & Justice",
+      "status_date": "01/16/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5295&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5336",
+      "title": "Isolated employees",
+      "status": "S Rules X",
+      "status_date": "03/17/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5336&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "E2SSB 5337",
+      "title": "Memory care services",
+      "status": "C 187 L 25",
+      "status_date": "04/30/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5337&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "E2SSB 5355",
+      "title": "Higher education safety",
+      "status": "C 124 L 25",
+      "status_date": "04/22/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5355&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "2SSB 5356",
+      "title": "Criminal justice trainings",
+      "status": "C 125 L 25",
+      "status_date": "04/22/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5356&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5367",
+      "title": "Law enf. community grants",
+      "status": "S Ways & Means",
+      "status_date": "02/07/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5367&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5369",
+      "title": "Youth mental health/schools",
+      "status": "S Ways & Means",
+      "status_date": "02/14/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5369&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5386",
+      "title": "Schools/sexual assault",
+      "status": "S Rules X",
+      "status_date": "02/26/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5386&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "E2SSB 5395",
+      "title": "Prior authorization/health",
+      "status": "C 157 L 26",
+      "status_date": "03/23/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5395&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "ESSB 5486",
+      "title": "Motion picture captioning",
+      "status": "C 355 L 25",
+      "status_date": "05/19/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5486&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SSB 5520",
+      "title": "Wrongly convicted persons",
+      "status": "C 224 L 26",
+      "status_date": "03/25/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5520&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5546",
+      "title": "Solar energy systems/schools",
+      "status": "S EL/K-12",
+      "status_date": "01/28/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5546&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5580",
+      "title": "Corp. homeowner registration",
+      "status": "S Ways & Means",
+      "status_date": "02/17/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5580&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5652",
+      "title": "Environment/port districts",
+      "status": "S Ways & Means",
+      "status_date": "02/02/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5652&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "E2SSB 5686",
+      "title": "Foreclosure mediation prg.",
+      "status": "C 393 L 25",
+      "status_date": "05/20/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5686&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5762",
+      "title": "988 crisis hotline",
+      "status": "S Rules X",
+      "status_date": "02/26/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5762&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5934",
+      "title": "Postconviction DNA testing",
+      "status": "S Law & Justice",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5934&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5935",
+      "title": "Office of homeless youth",
+      "status": "S Human Services",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5935&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SSB 5936",
+      "title": "Human trafficking",
+      "status": "S Rules 3",
+      "status_date": "03/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5936&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SSB 5938",
+      "title": "Foreclosure prevention fee",
+      "status": "C 156 L 26",
+      "status_date": "03/23/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5938&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5957",
+      "title": "Homeless youth committee",
+      "status": "C 72 L 26",
+      "status_date": "03/16/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5957&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SSB 5985",
+      "title": "Endometriosis",
+      "status": "S Rules 3",
+      "status_date": "03/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5985&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 6017",
+      "title": "Crime victims & witnesses",
+      "status": "S Rules X",
+      "status_date": "02/26/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6017&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 6059",
+      "title": "Social workers board",
+      "status": "S Health & Long-",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6059&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 6060",
+      "title": "Social worker licensure",
+      "status": "S Health & Long-",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6060&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 6190",
+      "title": "Critical infrastructure",
+      "status": "S Rules X",
+      "status_date": "02/26/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6190&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 6240",
+      "title": "Aviation impacts grants",
+      "status": "S Ways & Means",
+      "status_date": "01/20/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6240&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 6286",
+      "title": "Detention facility fines/DOH",
+      "status": "S Ways & Means",
+      "status_date": "02/04/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6286&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SSB 6343",
+      "title": "Atmospheric river/tax relief",
+      "status": "S Rules 3",
+      "status_date": "03/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6343&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SR 8673",
+      "title": "Ireland",
+      "status": "S Adopted",
+      "status_date": "02/03/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=8673&Year=2025&Initiative=False"
+    }
+  ],
+  "shortlist_votes": [
+    {
+      "bill_id": "ESHB 1296",
+      "title": "Promoting a safe and supportive public education system.",
+      "category": "a",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-11",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1296&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 6346",
+      "title": "Establishing a tax on millionaires.",
+      "category": "a",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2026-03-11",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026"
+    },
+    {
+      "bill_id": "HB 1699",
+      "title": "Defending equity in interscholastic sports.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1699&Year=2025"
+    },
+    {
+      "bill_id": "SB 5097",
+      "title": "Safeguarding competitiveness in girls' interscholastic athletic activities.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5097&Year=2025"
+    },
+    {
+      "bill_id": "SB 5012",
+      "title": "Concerning the organization of interscholastic athletics.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5012&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5167",
+      "title": "Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-27",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5167&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5813",
+      "title": "Increasing funding to the education legacy trust account by creating a more progressive rate structure for the capital gains tax and estate tax.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-24",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5813&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5814",
+      "title": "Modifying the application and administration of certain excise taxes.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-24",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5814&Year=2025"
+    },
+    {
+      "bill_id": "ESHB 2081",
+      "title": "Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-26",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2081&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5794",
+      "title": "Adopting recommendations from the tax preference performance review process, eliminating obsolete tax preferences, clarifying legislative intent, and addressing changes in constitutional law.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-24",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5794&Year=2025"
+    },
+    {
+      "bill_id": "SHB 2077",
+      "title": "Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-26",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2077&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5998",
+      "title": "Making 2025-2027 fiscal biennium supplemental operating appropriations.",
+      "category": "c",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2026-03-12",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5998&Year=2026"
+    }
+  ]
+}

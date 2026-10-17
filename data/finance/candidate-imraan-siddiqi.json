@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-imraan-siddiqi",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "SIDDI--722",
+    "filer_name": "Imraan Siddiqi",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/55412",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67907",
+    "total_raised": 79207.59,
+    "total_spent": 70808.25,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 198.51,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 7435.0,
+        "count": 39,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SIDDIQI FASIH",
+        "amount": 2400.0,
+        "count": 3,
+        "employer": null,
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "TUFFAHA NASEEM",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "NOT EMPLOYED"
+      },
+      {
+        "name": "SIDDIQUI RAFI",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "AMERICA'S GOLD",
+        "occupation": "SALES"
+      },
+      {
+        "name": "SIDDIQUI SAMI",
+        "amount": 2200.0,
+        "count": 2,
+        "employer": "AMERICA'S GOLD",
+        "occupation": "SALES"
+      }
+    ],
+    "small_donor_share": 0.112,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

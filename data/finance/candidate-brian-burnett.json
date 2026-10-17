@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-brian-burnett",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "BURNB  807",
+    "filer_name": "Brian Burnett",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/900",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68635",
+    "total_raised": 156449.99,
+    "total_spent": 124725.71,
+    "carryforward": 7430.8,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 4230.49,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "House Republican Organizational Committee",
+        "amount": 64000.0,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 2595.0,
+        "count": 24,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "ASSOCIATED BUILDERS AND CONTRACTORS",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Aristotle International, Inc. FBO",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Associated General Contractors of Washington BUILD PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.017,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

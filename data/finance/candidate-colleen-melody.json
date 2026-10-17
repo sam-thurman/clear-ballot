@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-colleen-melody",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "MELOC--814",
+    "filer_name": "Colleen M. Melody (Colleen Melody)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/55396",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67899",
+    "total_raised": 270077.74,
+    "total_spent": 110500.72,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 4750.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 87557.82,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-15",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 10295.85,
+        "count": 56,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Lynn Prunhuber",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Retired",
+        "occupation": "Retired"
+      },
+      {
+        "name": "David Stobaugh",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Stobaugh & Strong",
+        "occupation": "Lawyer"
+      },
+      {
+        "name": "Ekta Saini",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Ekta Saini",
+        "occupation": "CEO"
+      },
+      {
+        "name": "Justice for All PAC",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.041,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-tiffany-bowyer",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "BOWYT--257",
+    "filer_name": "Tiffany Faren Bowyer (Tiffany Bowyer)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/55677",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68410",
+    "total_raised": 16021.82,
+    "total_spent": 7508.08,
+    "carryforward": 0.0,
+    "loans": 431.88,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "House Republican Organizational Committee",
+        "amount": 5000.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Thomas Terrance",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "PNW Equipment, Inc.",
+        "occupation": "Executive"
+      },
+      {
+        "name": "Tiffany Faren Bowyer",
+        "amount": 581.82,
+        "count": 20,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Jones Adrianne",
+        "amount": 500.0,
+        "count": 1,
+        "employer": "Self Employed",
+        "occupation": "Realtor"
+      },
+      {
+        "name": "Bowyer Dana",
+        "amount": 500.0,
+        "count": 1,
+        "employer": "Self Employed",
+        "occupation": "Director of Construction"
+      }
+    ],
+    "small_donor_share": 0.235,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

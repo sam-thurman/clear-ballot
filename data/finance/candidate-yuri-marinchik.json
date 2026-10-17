@@ -1,0 +1,53 @@
+{
+  "slug": "candidate-yuri-marinchik",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "MARIY--955",
+    "filer_name": "Yuri Marinchik",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57156",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69208",
+    "total_raised": 1581.76,
+    "total_spent": 937.01,
+    "carryforward": 0.0,
+    "loans": 804.88,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "Yuri Marinchik",
+        "amount": 804.88,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Sackett Margaret",
+        "amount": 500.0,
+        "count": 1,
+        "employer": null,
+        "occupation": "Retired"
+      },
+      {
+        "name": "King County Republican Party",
+        "amount": 176.88,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Rangel Charles",
+        "amount": 100.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.144,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

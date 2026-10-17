@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-ashley-fedan",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "FEDAA--956",
+    "filer_name": "Ashley Fedan",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/55908",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68195",
+    "total_raised": 91828.23,
+    "total_spent": 99937.1,
+    "carryforward": 0.0,
+    "loans": 9000.0,
+    "debts": 7961.5,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 15732.34,
+        "count": 98,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Tanguay Jennifer",
+        "amount": 3000.0,
+        "count": 3,
+        "employer": "Self",
+        "occupation": "CRNA"
+      },
+      {
+        "name": "Howley Sean",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Not Employed",
+        "occupation": "Not Employed"
+      },
+      {
+        "name": "Fedan Kathleen",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Not Employed",
+        "occupation": "Not Employed"
+      },
+      {
+        "name": "Fedan Jeffrey",
+        "amount": 2400.0,
+        "count": 3,
+        "employer": "Not Employed",
+        "occupation": "Not Employed"
+      }
+    ],
+    "small_donor_share": 0.209,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

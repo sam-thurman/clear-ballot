@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-brianna-k-thomas",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "THOMB  102",
+    "filer_name": "Brianna K.Thomas (Brianna K. Thomas)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/5063",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67763",
+    "total_raised": 34046.13,
+    "total_spent": 9856.77,
+    "carryforward": 30876.43,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SNOQUALMIE TRIBE",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SEIU 775 QUALITY CARE COMMITTEE",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BUILDING A STRONGER WASHINGTON",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "DELTA DENTAL OF WA",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "ALASKA AIRLINES",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.029,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

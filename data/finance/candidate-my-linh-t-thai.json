@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-my-linh-t-thai",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "THAIM  006",
+    "filer_name": "My-Linh Thai (My-Linh T Thai)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/30272",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/62482",
+    "total_raised": 60853.64,
+    "total_spent": 35644.57,
+    "carryforward": 20000.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 2667.0,
+        "count": 17,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "GENENTECH USA",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "DELTA DENTAL OF WA",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "HOSPITALS FOR A HEALTHY FUTURE PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "PUGET SOUND ENERGY",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.046,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

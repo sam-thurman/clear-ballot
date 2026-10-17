@@ -1,0 +1,24 @@
+{
+  "slug": "candidate-emily-alvarado",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "ALVAE--739",
+    "filer_name": "Emily Alvarado",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/32641",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67301",
+    "total_raised": 61367.86,
+    "total_spent": 54312.23,
+    "carryforward": 29630.09,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [],
+    "small_donor_share": null,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

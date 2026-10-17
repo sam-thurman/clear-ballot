@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-drew-stokesbary",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "STOKA  092",
+    "filer_name": "Andrew R Stokesbary (Drew Stokesbary)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/25525",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66875",
+    "total_raised": 395016.46,
+    "total_spent": 264328.83,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "MISCELLANEOUS RECEIPTS",
+        "amount": 8023.33,
+        "count": 27,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "ALTRIA CLIENT SERVICES LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "AIRBNB, INC.",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Affordable Reliable Energy Future PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "ALASKA AIRLINES",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.152,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "candidate-maggie-wang",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "WANGM--272",
+    "filer_name": "CHIU MEI WANG (Maggie Wang)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57999",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69495",
+    "total_raised": 11189.51,
+    "total_spent": 6891.6,
+    "carryforward": 0.0,
+    "loans": 1200.66,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [],
+    "small_donor_share": null,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

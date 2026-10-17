@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-shelley-kloba",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "KLOBS  033",
+    "filer_name": "Shelley Ann Kloba (Shelley Kloba)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/566",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70158",
+    "total_raised": 71993.94,
+    "total_spent": 48838.72,
+    "carryforward": 4219.15,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 198.51,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-15",
+    "top_contributors": [
+      {
+        "name": "MISCELLANEOUS RECEIPTS",
+        "amount": 10000.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Justice for All PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Credit Union Legislative Action Fund",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Delta Dental",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Nisqually Indian Tribe",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.058,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

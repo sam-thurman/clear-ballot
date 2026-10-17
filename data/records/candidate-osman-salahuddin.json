@@ -1,0 +1,328 @@
+{
+  "slug": "candidate-osman-salahuddin",
+  "member": {
+    "id": "35655",
+    "name": "Osman Salahuddin",
+    "party": "D",
+    "district": "48",
+    "chamber": "House",
+    "url": "https://leg.wa.gov/legislators/member/35655"
+  },
+  "as_of": "2026-10-17",
+  "sponsored_bills_source": "https://app.leg.wa.gov/bi/report/BillsBySponsor?HouseSponsorId=35655&biennium=2025-26&billsBySponsorReportType=primarybills&hasCompanionBills=false&sponsorType=House",
+  "sponsored_bills": [
+    {
+      "bill_id": "HB 1434",
+      "title": "Eid al-Fitr & Eid al-Adha",
+      "status": "H Rules X",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1434&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 1484",
+      "title": "Victim of rape/pregnancy",
+      "status": "C 90 L 25",
+      "status_date": "04/21/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1484&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 1485",
+      "title": "Services and activities fees",
+      "status": "H Approps",
+      "status_date": "02/21/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1485&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SHB 1486",
+      "title": "Student member on SBCTC",
+      "status": "C 91 L 25",
+      "status_date": "04/21/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1486&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 1492",
+      "title": "Students with dependents",
+      "status": "H Postsec Ed & W",
+      "status_date": "01/21/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1492&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "ESHB 1604",
+      "title": "Jail searches/gender",
+      "status": "C 17 L 26",
+      "status_date": "03/11/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1604&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 1748",
+      "title": "Insurance & credit study",
+      "status": "H ConsPro&Bus",
+      "status_date": "01/30/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1748&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SHB 1811",
+      "title": "Crisis co-response",
+      "status": "C 346 L 25",
+      "status_date": "05/19/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1811&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "2SHB 1859",
+      "title": "Housing dev./religious orgs.",
+      "status": "C 2 L 26",
+      "status_date": "03/09/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1859&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "ESHB 1875",
+      "title": "Sick leave/immigration",
+      "status": "C 170 L 25",
+      "status_date": "04/25/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1875&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 1883",
+      "title": "Employment training program",
+      "status": "H Finance",
+      "status_date": "02/07/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1883&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 1956",
+      "title": "Public defense recruitment",
+      "status": "H Civil R & Judi",
+      "status_date": "02/12/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1956&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 1963",
+      "title": "Media literacy & civic ed.",
+      "status": "H Education",
+      "status_date": "02/13/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1963&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2009",
+      "title": "Controlling interest/REET",
+      "status": "H Finance",
+      "status_date": "02/20/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2009&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SHB 2248",
+      "title": "Corporate filings",
+      "status": "C 80 L 26",
+      "status_date": "03/17/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2248&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2249",
+      "title": "Civil service/WaTech",
+      "status": "C 89 L 26",
+      "status_date": "03/17/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2249&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2307",
+      "title": "Commute trip reduction/times",
+      "status": "H Rules R",
+      "status_date": "02/09/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2307&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2312",
+      "title": "Shared leave/immigration",
+      "status": "H State Govt & T",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2312&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "ESHB 2320",
+      "title": "Firearm manufacturing",
+      "status": "C 203 L 26",
+      "status_date": "03/24/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2320&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2321",
+      "title": "3D printer blocking tech.",
+      "status": "H Civil R & Judi",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2321&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2332",
+      "title": "Driver privacy",
+      "status": "H Civil R & Judi",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2332&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2372",
+      "title": "Workers' compensation",
+      "status": "H Approps",
+      "status_date": "01/30/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2372&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2377",
+      "title": "Pay transparency/applicants",
+      "status": "H Labor & Workpl",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2377&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SHB 2411",
+      "title": "Shared leave",
+      "status": "C 241 L 26",
+      "status_date": "03/30/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2411&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2709",
+      "title": "Diwali and Bandi Chhor Divas",
+      "status": "H State Govt & T",
+      "status_date": "01/30/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2709&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2732",
+      "title": "School absence/civic activ.",
+      "status": "H Education",
+      "status_date": "02/06/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2732&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HR 4666",
+      "title": "Mia Hamant",
+      "status": "H Adopted",
+      "status_date": "01/20/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=4666&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HR 4676",
+      "title": "Quebec",
+      "status": "H Adopted",
+      "status_date": "02/03/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=4676&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HR 4703",
+      "title": "Shadley Van Schalkwyk",
+      "status": "H Adopted",
+      "status_date": "03/02/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=4703&Year=2025&Initiative=False"
+    }
+  ],
+  "shortlist_votes": [
+    {
+      "bill_id": "ESHB 1296",
+      "title": "Promoting a safe and supportive public education system.",
+      "category": "a",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-24",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1296&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 6346",
+      "title": "Establishing a tax on millionaires.",
+      "category": "a",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2026-03-09",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026"
+    },
+    {
+      "bill_id": "HB 1699",
+      "title": "Defending equity in interscholastic sports.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1699&Year=2025"
+    },
+    {
+      "bill_id": "SB 5097",
+      "title": "Safeguarding competitiveness in girls' interscholastic athletic activities.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5097&Year=2025"
+    },
+    {
+      "bill_id": "SB 5012",
+      "title": "Concerning the organization of interscholastic athletics.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5012&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5167",
+      "title": "Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-27",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5167&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5813",
+      "title": "Increasing funding to the education legacy trust account by creating a more progressive rate structure for the capital gains tax and estate tax.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-23",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5813&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5814",
+      "title": "Modifying the application and administration of certain excise taxes.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-23",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5814&Year=2025"
+    },
+    {
+      "bill_id": "ESHB 2081",
+      "title": "Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.",
+      "category": "b",
+      "vote": "nay",
+      "chamber": "House",
+      "date": "2025-04-22",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2081&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5794",
+      "title": "Adopting recommendations from the tax preference performance review process, eliminating obsolete tax preferences, clarifying legislative intent, and addressing changes in constitutional law.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-23",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5794&Year=2025"
+    },
+    {
+      "bill_id": "SHB 2077",
+      "title": "Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-22",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2077&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5998",
+      "title": "Making 2025-2027 fiscal biennium supplemental operating appropriations.",
+      "category": "c",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2026-03-12",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5998&Year=2026"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-manka-dhingra",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "DHINM  052",
+    "filer_name": "Manka Dhingra",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/572",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/50175",
+    "total_raised": 269702.19,
+    "total_spent": 187988.96,
+    "carryforward": 3245.42,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "MISCELLANEOUS RECEIPTS",
+        "amount": 27466.51,
+        "count": 61,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 6240.0,
+        "count": 47,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Loschen Matthew",
+        "amount": 3850.0,
+        "count": 4,
+        "employer": "Not Employed",
+        "occupation": "Not Employed"
+      },
+      {
+        "name": "Bailey Shannon",
+        "amount": 3625.0,
+        "count": 3,
+        "employer": "Self",
+        "occupation": "DOCTOR"
+      },
+      {
+        "name": "Sardinas Paula",
+        "amount": 3000.0,
+        "count": 4,
+        "employer": "WBBA/FMSGS",
+        "occupation": "President/CEO"
+      }
+    ],
+    "small_donor_share": 0.036,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-dave-larson",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "LARSD  003",
+    "filer_name": "David A. Larson (Dave Larson)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/2540",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68238",
+    "total_raised": 436783.67,
+    "total_spent": 365295.31,
+    "carryforward": 2616.37,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 150732.39,
+    "independent_expenditures_against": 83270.58,
+    "as_of": "2026-10-16",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 37050.5,
+        "count": 125,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Gordon Steve",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "Blodgett Debra",
+        "amount": 4800.0,
+        "count": 8,
+        "employer": "Retired",
+        "occupation": "Retired"
+      },
+      {
+        "name": "Council of Police Political Support",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Gordon Melissa",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Retired",
+        "occupation": "Retired"
+      }
+    ],
+    "small_donor_share": 0.123,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-michelle-bennett",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "BENNM--621",
+    "filer_name": "Michelle Diane Bennett (Michelle Bennett)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57511",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69071",
+    "total_raised": 32310.22,
+    "total_spent": 25975.77,
+    "carryforward": 0.0,
+    "loans": 735.22,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "House Republican Organizational Committee",
+        "amount": 6000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Kemper Holdings LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "White Roger",
+        "amount": 2000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "Retired"
+      },
+      {
+        "name": "King County Police Officers Guild PAC",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Council of Police Political Support",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.153,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "candidate-sandra-stephens",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "STEPS--589",
+    "filer_name": "Sandra M. Stephens (Sandra Stephens)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57721",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69536",
+    "total_raised": 1026.88,
+    "total_spent": 724.41,
+    "carryforward": 0.0,
+    "loans": 676.88,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "Sandra Stephens",
+        "amount": 676.88,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "King County 46th District Republicans",
+        "amount": 300.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Gilbertson Karen",
+        "amount": 50.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.049,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

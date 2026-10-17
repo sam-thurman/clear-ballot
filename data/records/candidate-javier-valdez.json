@@ -1,0 +1,286 @@
+{
+  "slug": "candidate-javier-valdez",
+  "member": {
+    "id": "27975",
+    "name": "Javier Valdez",
+    "party": "D",
+    "district": "46",
+    "chamber": "Senate",
+    "url": "https://leg.wa.gov/legislators/member/27975"
+  },
+  "as_of": "2026-10-17",
+  "sponsored_bills_source": "https://app.leg.wa.gov/bi/report/BillsBySponsor?SenateSponsorId=27975&biennium=2025-26&billsBySponsorReportType=primarybills&hasCompanionBills=false&sponsorType=Senate",
+  "sponsored_bills": [
+    {
+      "bill_id": "SB 5069",
+      "title": "Voters' pamphlets",
+      "status": "S Ways & Means",
+      "status_date": "01/21/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5069&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5077",
+      "title": "Agency voter registration",
+      "status": "C 330 L 25",
+      "status_date": "05/17/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5077&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5080",
+      "title": "Financial education",
+      "status": "S EL/K-12",
+      "status_date": "01/13/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5080&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "E2SSB 5098",
+      "title": "Weapons in certain areas",
+      "status": "S Rules 3",
+      "status_date": "03/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5098&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SSB 5101",
+      "title": "Worker leave/hate crimes",
+      "status": "C 375 L 25",
+      "status_date": "05/20/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5101&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5115",
+      "title": "Service grant program",
+      "status": "S Higher Ed & Wo",
+      "status_date": "01/13/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5115&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SSB 5118",
+      "title": "International medical grads",
+      "status": "C 3 L 25",
+      "status_date": "04/04/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5118&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5158",
+      "title": "Student athlete insurance",
+      "status": "S Rules X",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5158&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5176",
+      "title": "Prompt pay/capital projects",
+      "status": "S Ways & Means",
+      "status_date": "01/28/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5176&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5198",
+      "title": "Driver training alternative",
+      "status": "S Law & Justice",
+      "status_date": "01/13/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5198&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5382",
+      "title": "Ballot measure petitions",
+      "status": "S Ways & Means",
+      "status_date": "02/19/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5382&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SSB 5503",
+      "title": "Public employee bargaining",
+      "status": "C 387 L 25",
+      "status_date": "05/20/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5503&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5521",
+      "title": "Traffic safety",
+      "status": "S Law & Justice",
+      "status_date": "01/27/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5521&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5667",
+      "title": "Intercity passenger rail",
+      "status": "S Transportation",
+      "status_date": "02/05/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5667&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SSB 5855",
+      "title": "Law enf. face coverings",
+      "status": "C 115 L 26",
+      "status_date": "03/19/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5855&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5882",
+      "title": "Correctional workers/stress",
+      "status": "S Ways & Means",
+      "status_date": "02/04/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5882&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 5973",
+      "title": "Initiatives and referenda",
+      "status": "S Rules X",
+      "status_date": "02/26/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5973&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "ESSB 6262",
+      "title": "Vehicle fees/maximum weight",
+      "status": "S Rules 3",
+      "status_date": "03/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6262&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 6270",
+      "title": "Passenger rail adv. comm.",
+      "status": "S Transportation",
+      "status_date": "01/21/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6270&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SB 6314",
+      "title": "Firearm manufacturing",
+      "status": "S Law & Justice",
+      "status_date": "01/27/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6314&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SR 8625",
+      "title": "Ana Mari Cauce",
+      "status": "S Adopted",
+      "status_date": "03/04/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=8625&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SR 8646",
+      "title": "Phyllis Gutierrez Kenney",
+      "status": "S Adopted",
+      "status_date": "04/10/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=8646&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SR 8659",
+      "title": "Bill Ramos",
+      "status": "S Adopted",
+      "status_date": "04/27/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=8659&Year=2025&Initiative=False"
+    }
+  ],
+  "shortlist_votes": [
+    {
+      "bill_id": "ESHB 1296",
+      "title": "Promoting a safe and supportive public education system.",
+      "category": "a",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-11",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1296&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 6346",
+      "title": "Establishing a tax on millionaires.",
+      "category": "a",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2026-03-11",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026"
+    },
+    {
+      "bill_id": "HB 1699",
+      "title": "Defending equity in interscholastic sports.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1699&Year=2025"
+    },
+    {
+      "bill_id": "SB 5097",
+      "title": "Safeguarding competitiveness in girls' interscholastic athletic activities.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5097&Year=2025"
+    },
+    {
+      "bill_id": "SB 5012",
+      "title": "Concerning the organization of interscholastic athletics.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5012&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5167",
+      "title": "Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-27",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5167&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5813",
+      "title": "Increasing funding to the education legacy trust account by creating a more progressive rate structure for the capital gains tax and estate tax.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-24",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5813&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5814",
+      "title": "Modifying the application and administration of certain excise taxes.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-24",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5814&Year=2025"
+    },
+    {
+      "bill_id": "ESHB 2081",
+      "title": "Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-26",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2081&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5794",
+      "title": "Adopting recommendations from the tax preference performance review process, eliminating obsolete tax preferences, clarifying legislative intent, and addressing changes in constitutional law.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-24",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5794&Year=2025"
+    },
+    {
+      "bill_id": "SHB 2077",
+      "title": "Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2025-04-26",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2077&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5998",
+      "title": "Making 2025-2027 fiscal biennium supplemental operating appropriations.",
+      "category": "c",
+      "vote": "yea",
+      "chamber": "Senate",
+      "date": "2026-03-12",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5998&Year=2026"
+    }
+  ]
+}

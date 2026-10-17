@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-debra-l-stephens",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "STEPD  210",
+    "filer_name": "STEPHENS DEBRA L (Debra L. Stephens)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/1121",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69954",
+    "total_raised": 140435.2,
+    "total_spent": 107738.06,
+    "carryforward": 26513.38,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 87557.82,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-15",
+    "top_contributors": [
+      {
+        "name": "Gamble Sean",
+        "amount": 4800.0,
+        "count": 3,
+        "employer": "Friedman Rubin PLLP",
+        "occupation": "ATTORNEY - LAWYER"
+      },
+      {
+        "name": "Justice For All PAC",
+        "amount": 4800.0,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "AFSCME Council 28",
+        "amount": 4800.0,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Kamitomo Mark",
+        "amount": 3600.0,
+        "count": 3,
+        "employer": "The Luvera Law Firm",
+        "occupation": "ATTORNEY - LAWYER"
+      },
+      {
+        "name": "Allison John",
+        "amount": 2500.0,
+        "count": 2,
+        "employer": "Eymann Allison Jones PS",
+        "occupation": "Attorney"
+      }
+    ],
+    "small_donor_share": 0.05,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

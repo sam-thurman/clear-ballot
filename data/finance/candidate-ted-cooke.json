@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-ted-cooke",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "COOKT  042",
+    "filer_name": "Theodore Cooke (Ted Cooke)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/25632",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66881",
+    "total_raised": 4315.0,
+    "total_spent": 4052.85,
+    "carryforward": 670.74,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "47th District Republicans",
+        "amount": 1500.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Kelts Donald",
+        "amount": 1500.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "Retired"
+      },
+      {
+        "name": "Cooke Michael",
+        "amount": 600.0,
+        "count": 1,
+        "employer": "Retired",
+        "occupation": "Retired"
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 415.0,
+        "count": 7,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Oje Cliff",
+        "amount": 200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.119,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

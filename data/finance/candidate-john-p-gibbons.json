@@ -1,0 +1,24 @@
+{
+  "slug": "candidate-john-p-gibbons",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "GIBB--033",
+    "filer_name": "John P. Gibbons (John P Gibbons)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/29563",
+    "registration_url": null,
+    "total_raised": 0.0,
+    "total_spent": 0.0,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-09",
+    "top_contributors": [],
+    "small_donor_share": null,
+    "small_donor_max": 100.0,
+    "reporting_option": null
+  },
+  "checked": "2026-10-17"
+}

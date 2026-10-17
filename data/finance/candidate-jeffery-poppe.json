@@ -1,0 +1,32 @@
+{
+  "slug": "candidate-jeffery-poppe",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "POPPJ--850",
+    "filer_name": "Jeffery Lee Poppe (Jeffery Poppe)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57820",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69553",
+    "total_raised": 959.7,
+    "total_spent": 629.26,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-14",
+    "top_contributors": [
+      {
+        "name": "Larry Kavounas",
+        "amount": 959.7,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.0,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

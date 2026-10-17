@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-davina-duerr",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "DUERD  011",
+    "filer_name": "DUERR DAVINA W (Davina Duerr)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/30267",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70174",
+    "total_raised": 70170.23,
+    "total_spent": 44682.86,
+    "carryforward": 8628.63,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 198.51,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "MISCELLANEOUS RECEIPTS",
+        "amount": 31276.09,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "WA Affordable Housing Council",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Puget Sound Energy",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Nelson Elizabeth",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Nelson CPA",
+        "occupation": "ACCOUNTANT - CPA"
+      },
+      {
+        "name": "WA Beverage Assoc PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.031,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

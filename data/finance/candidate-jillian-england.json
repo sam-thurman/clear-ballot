@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-jillian-england",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "ENGLJ  117",
+    "filer_name": "JILLIAN ASTRA ENGLAND (Jillian England)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/9277",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69169",
+    "total_raised": 5382.97,
+    "total_spent": 3291.75,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-15",
+    "top_contributors": [
+      {
+        "name": "JILLIAN ASTRA ENGLAND (Jillian England)",
+        "amount": 2768.09,
+        "count": 9,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 370.0,
+        "count": 5,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "ENGLAND JILLIAN A",
+        "amount": 356.44,
+        "count": 5,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "King County Republican Party",
+        "amount": 338.44,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Brossman Claire",
+        "amount": 250.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.137,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-tatiana-brown",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "BROWT--891",
+    "filer_name": "Tatiana Meimi Brown (Tatiana Brown)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57153",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68954",
+    "total_raised": 47710.33,
+    "total_spent": 51671.39,
+    "carryforward": 0.0,
+    "loans": 5000.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 10975.67,
+        "count": 82,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "McDonald AnneMarie",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Not Employed",
+        "occupation": "Not Employed"
+      },
+      {
+        "name": "Harrison Eric",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "IEQ Capital",
+        "occupation": "CEO"
+      },
+      {
+        "name": "Brown Dorothy",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "A Larry Miller MD Ltd",
+        "occupation": "Office manager"
+      },
+      {
+        "name": "Younes Nura",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Amazon.com",
+        "occupation": "TPM"
+      }
+    ],
+    "small_donor_share": 0.271,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

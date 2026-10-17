@@ -1,0 +1,188 @@
+{
+  "slug": "candidate-zach-hall",
+  "member": {
+    "id": "27391",
+    "name": "Zach Hall",
+    "party": "D",
+    "district": "5",
+    "chamber": "House",
+    "url": "https://leg.wa.gov/legislators/member/27391"
+  },
+  "as_of": "2026-10-17",
+  "sponsored_bills_source": "https://app.leg.wa.gov/bi/report/BillsBySponsor?HouseSponsorId=27391&biennium=2025-26&billsBySponsorReportType=primarybills&hasCompanionBills=false&sponsorType=House",
+  "sponsored_bills": [
+    {
+      "bill_id": "HB 2272",
+      "title": "Ski areas and winter sports",
+      "status": "C 23 L 26",
+      "status_date": "03/11/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2272&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2277",
+      "title": "Wildfire risk models",
+      "status": "H ConsPro&Bus",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2277&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "SHB 2296",
+      "title": "Distributed energy resources",
+      "status": "C 136 L 26",
+      "status_date": "03/23/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2296&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2388",
+      "title": "Distributed energy/ag. lands",
+      "status": "H Rules X",
+      "status_date": "02/19/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2388&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2390",
+      "title": "Fenestration certification",
+      "status": "H Cap Budget",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2390&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2421",
+      "title": "Tires/6PPD and substitutes",
+      "status": "H Rules R",
+      "status_date": "02/09/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2421&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "EHB 2575",
+      "title": "Environmental reporting",
+      "status": "C 137 L 26",
+      "status_date": "03/23/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2575&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2633",
+      "title": "Mattress producer resp.",
+      "status": "H Env & Energy",
+      "status_date": "01/22/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2633&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2697",
+      "title": "Historic preserv. prop. tax",
+      "status": "H Finance",
+      "status_date": "01/28/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2697&Year=2025&Initiative=False"
+    }
+  ],
+  "shortlist_votes": [
+    {
+      "bill_id": "ESHB 1296",
+      "title": "Promoting a safe and supportive public education system.",
+      "category": "a",
+      "vote": "not recorded",
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1296&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 6346",
+      "title": "Establishing a tax on millionaires.",
+      "category": "a",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2026-03-09",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026"
+    },
+    {
+      "bill_id": "HB 1699",
+      "title": "Defending equity in interscholastic sports.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1699&Year=2025"
+    },
+    {
+      "bill_id": "SB 5097",
+      "title": "Safeguarding competitiveness in girls' interscholastic athletic activities.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5097&Year=2025"
+    },
+    {
+      "bill_id": "SB 5012",
+      "title": "Concerning the organization of interscholastic athletics.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5012&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5167",
+      "title": "Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+      "category": "b",
+      "vote": "not recorded",
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5167&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5813",
+      "title": "Increasing funding to the education legacy trust account by creating a more progressive rate structure for the capital gains tax and estate tax.",
+      "category": "b",
+      "vote": "not recorded",
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5813&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5814",
+      "title": "Modifying the application and administration of certain excise taxes.",
+      "category": "b",
+      "vote": "not recorded",
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5814&Year=2025"
+    },
+    {
+      "bill_id": "ESHB 2081",
+      "title": "Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.",
+      "category": "b",
+      "vote": "not recorded",
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2081&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5794",
+      "title": "Adopting recommendations from the tax preference performance review process, eliminating obsolete tax preferences, clarifying legislative intent, and addressing changes in constitutional law.",
+      "category": "b",
+      "vote": "not recorded",
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5794&Year=2025"
+    },
+    {
+      "bill_id": "SHB 2077",
+      "title": "Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program.",
+      "category": "b",
+      "vote": "not recorded",
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2077&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5998",
+      "title": "Making 2025-2027 fiscal biennium supplemental operating appropriations.",
+      "category": "c",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2026-03-12",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5998&Year=2026"
+    }
+  ]
+}

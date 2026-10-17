@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-gerry-pollet",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "POLLG  115",
+    "filer_name": "POLLET GERALD M (Gerry Pollet)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/25519",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66624",
+    "total_raised": 214407.08,
+    "total_spent": 220329.24,
+    "carryforward": 74936.81,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 36939.14,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-14",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 16714.0,
+        "count": 84,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Bendich Judith",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "Retired"
+      },
+      {
+        "name": "Bendich Arnold",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "retired"
+      },
+      {
+        "name": "Baldwin Blake",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Loadstar Stategic",
+        "occupation": "Consultant"
+      },
+      {
+        "name": "CENTOFANTI LOUIS",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "PermaFix",
+        "occupation": "CHEMIST"
+      }
+    ],
+    "small_donor_share": 0.175,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

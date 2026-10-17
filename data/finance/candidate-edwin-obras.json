@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-edwin-obras",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "OBRAE--594",
+    "filer_name": "Edwin Obras",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/48343",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67530",
+    "total_raised": 42392.41,
+    "total_spent": 33536.68,
+    "carryforward": 2471.41,
+    "loans": 0.0,
+    "debts": 8901.53,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "Snoqualmie Tribe",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Delta Dental",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Justice for All PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Puget Sound Energy",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Washington Association of Realtors PAC",
+        "amount": 2000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.042,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

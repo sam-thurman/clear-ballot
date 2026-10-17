@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-jaime-michelle-hawk",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "HAWKJ--665",
+    "filer_name": "Jaime Hawk (Jaime Michelle Hawk)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/35352",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68792",
+    "total_raised": 336702.91,
+    "total_spent": 312739.15,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 26287.24,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-16",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 21381.0,
+        "count": 89,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Jaime Hawk (Jaime Michelle Hawk)",
+        "amount": 5000.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Amala Jason",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Pfau Cochran Vertetis Amala PLLC",
+        "occupation": "Attorney"
+      },
+      {
+        "name": "Brodkowitz Daniel",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "retired",
+        "occupation": "retired"
+      },
+      {
+        "name": "Amala Tamara",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "homemaker",
+        "occupation": "homemaker"
+      }
+    ],
+    "small_donor_share": 0.073,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-jesse-salomon",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "SALOJ  227",
+    "filer_name": "Jesse Salomon",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/877",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67032",
+    "total_raised": 285292.52,
+    "total_spent": 243327.41,
+    "carryforward": 18093.97,
+    "loans": 0.0,
+    "debts": 31427.34,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 268140.03,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-15",
+    "top_contributors": [
+      {
+        "name": "WASHINGTON SENATE DEMOCRATIC CAMPAIGN",
+        "amount": 25113.42,
+        "count": 23,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 15462.5,
+        "count": 84,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "DELTA DENTAL OF WASHINGTON",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "ANHEUSER BUSCH",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "AMAZON.COM SERVICES LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.071,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

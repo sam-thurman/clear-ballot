@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-nicole-macri",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "MACRN  109",
+    "filer_name": "Nicole Macri",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/30402",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67742",
+    "total_raised": 100598.2,
+    "total_spent": 77175.19,
+    "carryforward": 21596.84,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SEIU 775 Quality Care Committee",
+        "amount": 3600.0,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Amazon.com Services LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Credit Union Leg Action Fund / NW Credit Union Assn",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Delta Dental of WA",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Port Gamble S'klallam Tribe",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.015,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

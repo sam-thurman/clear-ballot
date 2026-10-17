@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-vandana-slatter",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "SLATV  102",
+    "filer_name": "Vandana Slatter",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/30311",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67757",
+    "total_raised": 108139.08,
+    "total_spent": 76744.03,
+    "carryforward": 40421.78,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 8369.46,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 3378.0,
+        "count": 13,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Kennedy Fund",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Delta Dental of WA",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Amazon.com Services LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Hospitals for a Healthy Future PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.033,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

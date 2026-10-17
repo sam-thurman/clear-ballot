@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-liz-berry",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "BERRE--109",
+    "filer_name": "Elizabeth Berry (Liz Berry)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/30399",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67487",
+    "total_raised": 74340.0,
+    "total_spent": 39377.49,
+    "carryforward": 14839.17,
+    "loans": 0.0,
+    "debts": 1773.38,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SEIU 775 Quality Care Committee",
+        "amount": 3600.0,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Anheuser Busch Co",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Council of Police Political Support (COPPS)",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Delta Dental of WA",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "IUPAT Political Action Together Legislative Education Committee",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.026,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

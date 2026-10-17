@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-lisa-callan",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "CALLL  029",
+    "filer_name": "Lisa Callan (LISA CALLAN)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/30264",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70175",
+    "total_raised": 91222.08,
+    "total_spent": 84143.4,
+    "carryforward": 2845.45,
+    "loans": 0.0,
+    "debts": 17199.5,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "Washington Senate Democratic Campaign (WSDC)",
+        "amount": 7656.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "IUPAT Political Action Together Legislative Education Committee",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "HOSPITALS FOR A HEALTHY FUTURE PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Delta Dental of Washington",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "League of Education Voters",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.022,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

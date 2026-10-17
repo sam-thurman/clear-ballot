@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-amy-walen",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "WALEA  033",
+    "filer_name": "Amy Walen",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/861",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67478",
+    "total_raised": 431410.89,
+    "total_spent": 269439.51,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 33285.51,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 619806.39,
+    "independent_expenditures_against": 167677.02,
+    "as_of": "2026-10-15",
+    "top_contributors": [
+      {
+        "name": "Amy Walen Surplus Funds Account",
+        "amount": 49194.6,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "House Democratic Campaign Committee",
+        "amount": 25109.14,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 7543.5,
+        "count": 41,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "AirBnb Inc",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Activehours Inc (dba Earnin)",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.021,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

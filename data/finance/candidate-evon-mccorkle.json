@@ -1,0 +1,32 @@
+{
+  "slug": "candidate-evon-mccorkle",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "MCCOE--597",
+    "filer_name": "Evon mccorkle (Evon McCorkle)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/56211",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70047",
+    "total_raised": 700.0,
+    "total_spent": 23.12,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-09",
+    "top_contributors": [
+      {
+        "name": "Evon mccorkle (Evon Mccorkle)",
+        "amount": 700.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.0,
+    "small_donor_max": 100.0,
+    "reporting_option": "mini"
+  },
+  "checked": "2026-10-17"
+}

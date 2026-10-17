@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-debra-jean-entenman",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "ENTED  031",
+    "filer_name": "DEBRA Jean  ENTENMAN (DEBRA ENTENMAN)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/1083",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70199",
+    "total_raised": 51560.71,
+    "total_spent": 53514.6,
+    "carryforward": 21806.32,
+    "loans": 0.0,
+    "debts": 500.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SEIU 775 Quality Care Committee",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Justice for All PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Delta Dental",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Credit Union Legislative Action Fund",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "The Boeing Company PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.015,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

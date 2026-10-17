@@ -1,0 +1,24 @@
+{
+  "slug": "candidate-maggie-adams",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "ADAMM--020",
+    "filer_name": "Margaret Catherine Carrido Adams (Maggie Adams)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57991",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69421",
+    "total_raised": 13416.75,
+    "total_spent": 12193.5,
+    "carryforward": 980.73,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 850.03,
+    "independent_expenditures_against": 7024.74,
+    "as_of": "2026-10-13",
+    "top_contributors": [],
+    "small_donor_share": null,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-sharon-tomiko-santos",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "SANTS  118",
+    "filer_name": "Sharon Tomiko Santos",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/476",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70153",
+    "total_raised": 204030.14,
+    "total_spent": 130001.87,
+    "carryforward": 38623.38,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 84944.62,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-16",
+    "top_contributors": [
+      {
+        "name": "Ferguson Ellen",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Burke Museum",
+        "occupation": "Museum Administrator"
+      },
+      {
+        "name": "Pemco Mutual Insurance Company",
+        "amount": 2600.0,
+        "count": 5,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BNSF Railway Company",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Anheuser Busch",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BECU",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.055,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

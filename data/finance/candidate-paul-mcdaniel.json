@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-paul-mcdaniel",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "MCDAP--560",
+    "filer_name": "Paul McDaniel",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/32589",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69209",
+    "total_raised": 6969.42,
+    "total_spent": 5263.52,
+    "carryforward": 950.16,
+    "loans": 1000.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-16",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 1681.82,
+        "count": 10,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "7th Power Inc",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "MCDANIEL WILLIAM",
+        "amount": 600.0,
+        "count": 1,
+        "employer": null,
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "McDaniel Phyllis",
+        "amount": 600.0,
+        "count": 1,
+        "employer": null,
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "Peterson Darlene",
+        "amount": 400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "RETIRED"
+      }
+    ],
+    "small_donor_share": 0.251,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

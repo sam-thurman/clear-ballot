@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-steve-bergquist",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "BERGS  056",
+    "filer_name": "STEVEN BERGQUIST (Steve Bergquist)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/30328",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68636",
+    "total_raised": 185123.58,
+    "total_spent": 163320.27,
+    "carryforward": 1471.55,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "MISCELLANEOUS RECEIPTS",
+        "amount": 112873.58,
+        "count": 22,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BECU",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "DELTA DENTAL OF WASHINGTON",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "CREDIT UNION LEG ACTION FUND NORTHWEST CREDIT UNION ASSO",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "KENT FIREFIGHTERS INTL ASSN OF FIRE FIGHTERS LOCAL 1747 PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.004,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

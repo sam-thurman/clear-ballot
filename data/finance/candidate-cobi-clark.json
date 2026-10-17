@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-cobi-clark",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "CLARC--430",
+    "filer_name": "Cobi Clark",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/54549",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68957",
+    "total_raised": 56143.21,
+    "total_spent": 58150.77,
+    "carryforward": 0.0,
+    "loans": 20000.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-14",
+    "top_contributors": [
+      {
+        "name": "Libertarian Party of Washington",
+        "amount": 11000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Cobi Clark",
+        "amount": 10525.3,
+        "count": 9,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Best Trevor",
+        "amount": 2384.5,
+        "count": 3,
+        "employer": "Self Employed",
+        "occupation": "NETWORK ADMINISTRATOR"
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 2371.91,
+        "count": 35,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Hacherl Don",
+        "amount": 2150.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "RETIRED"
+      }
+    ],
+    "small_donor_share": 0.056,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

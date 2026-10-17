@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-tina-l-orwall",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "ORWAT  166",
+    "filer_name": "Tina L. Orwall",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/523",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67796",
+    "total_raised": 61747.5,
+    "total_spent": 74361.57,
+    "carryforward": 85793.95,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "CREDIT UNION LEGISLATIVE ACTION FUND",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "HOSPITALS FOR A HEALTHY FUTURE PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BURIEN CHEVROLET",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BURIEN TOYOTA",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "JUSTICE FOR ALL PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.03,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "candidate-debra-jean-entenman",
+  "member": {
+    "id": "11403",
+    "name": "Debra Entenman",
+    "party": "D",
+    "district": "47",
+    "chamber": "House",
+    "url": "https://leg.wa.gov/legislators/member/11403"
+  },
+  "as_of": "2026-10-17",
+  "sponsored_bills_source": "https://app.leg.wa.gov/bi/report/BillsBySponsor?HouseSponsorId=11403&biennium=2025-26&billsBySponsorReportType=primarybills&hasCompanionBills=false&sponsorType=House",
+  "sponsored_bills": [
+    {
+      "bill_id": "HB 1556",
+      "title": "HS completers/CTC tuition",
+      "status": "C 42 L 25",
+      "status_date": "04/11/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1556&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 1843",
+      "title": "Students/unemployment ins.",
+      "status": "H Rules X",
+      "status_date": "01/12/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1843&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 1950",
+      "title": "Subcontractors, indemnifying",
+      "status": "H Cap Budget",
+      "status_date": "02/12/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1950&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "ESHB 2015",
+      "title": "Public safety funding",
+      "status": "C 350 L 25",
+      "status_date": "05/19/2025",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2015&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2458",
+      "title": "College grant/credential prg",
+      "status": "H Approps",
+      "status_date": "02/04/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2458&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HB 2498",
+      "title": "Nursing education programs",
+      "status": "H Postsec Ed & W",
+      "status_date": "01/15/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2498&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "ESHB 2508",
+      "title": "Office of independent inves.",
+      "status": "C 174 L 26",
+      "status_date": "03/24/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2508&Year=2025&Initiative=False"
+    },
+    {
+      "bill_id": "HR 4674",
+      "title": "Western Governors University",
+      "status": "H Adopted",
+      "status_date": "02/03/2026",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=4674&Year=2025&Initiative=False"
+    }
+  ],
+  "shortlist_votes": [
+    {
+      "bill_id": "ESHB 1296",
+      "title": "Promoting a safe and supportive public education system.",
+      "category": "a",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-24",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1296&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 6346",
+      "title": "Establishing a tax on millionaires.",
+      "category": "a",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2026-03-09",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026"
+    },
+    {
+      "bill_id": "HB 1699",
+      "title": "Defending equity in interscholastic sports.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=1699&Year=2025"
+    },
+    {
+      "bill_id": "SB 5097",
+      "title": "Safeguarding competitiveness in girls' interscholastic athletic activities.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5097&Year=2025"
+    },
+    {
+      "bill_id": "SB 5012",
+      "title": "Concerning the organization of interscholastic athletics.",
+      "category": "a",
+      "vote": null,
+      "chamber": null,
+      "date": null,
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5012&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5167",
+      "title": "Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-27",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5167&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5813",
+      "title": "Increasing funding to the education legacy trust account by creating a more progressive rate structure for the capital gains tax and estate tax.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-23",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5813&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5814",
+      "title": "Modifying the application and administration of certain excise taxes.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-23",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5814&Year=2025"
+    },
+    {
+      "bill_id": "ESHB 2081",
+      "title": "Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-22",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2081&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5794",
+      "title": "Adopting recommendations from the tax preference performance review process, eliminating obsolete tax preferences, clarifying legislative intent, and addressing changes in constitutional law.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-23",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5794&Year=2025"
+    },
+    {
+      "bill_id": "SHB 2077",
+      "title": "Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program.",
+      "category": "b",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2025-04-22",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2077&Year=2025"
+    },
+    {
+      "bill_id": "ESSB 5998",
+      "title": "Making 2025-2027 fiscal biennium supplemental operating appropriations.",
+      "category": "c",
+      "vote": "yea",
+      "chamber": "House",
+      "date": "2026-03-12",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=5998&Year=2026"
+    }
+  ]
+}

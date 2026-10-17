@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-hannah-sabio-howell",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "----H--527",
+    "filer_name": "Hannah M. Sabio Howell (Hannah Sabio-Howell)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/29762",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68475",
+    "total_raised": 141312.47,
+    "total_spent": 131843.14,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 1000.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 25731.03,
+        "count": 44,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Keri Rhodes",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "Cecelia Black",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "King County",
+        "occupation": "DISABILITY ANALYST"
+      },
+      {
+        "name": "Ashok Chandwaney",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Google",
+        "occupation": "SOFTWARE ENGINEER"
+      },
+      {
+        "name": "Jonathan Kauffman",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "RETIRED"
+      }
+    ],
+    "small_donor_share": 0.245,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-joann-tolentino",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "TOLEJ--958",
+    "filer_name": "JoAnn Tolentino",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/51722",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69275",
+    "total_raised": 5531.44,
+    "total_spent": 3916.61,
+    "carryforward": 1137.44,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "JoAnn for State Rep BBQ Dinner Kick-off (low-cost fundraiser)",
+        "amount": 1710.0,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 1525.0,
+        "count": 28,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Vanderhoff Susie",
+        "amount": 1000.0,
+        "count": 1,
+        "employer": null,
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "45th LD Republicans",
+        "amount": 338.44,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Griffin Dave",
+        "amount": 220.0,
+        "count": 3,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.378,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

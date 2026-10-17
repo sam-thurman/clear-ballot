@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-phil-fortunato",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "FORTP  031",
+    "filer_name": "Philip D Fortunato (Phil Fortunato)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/25019",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/61073",
+    "total_raised": 80023.48,
+    "total_spent": 62881.03,
+    "carryforward": 596.12,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-16",
+    "top_contributors": [
+      {
+        "name": "DELTA DENTAL",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "PUGET SOUND ENERGY",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "ALTRIA CLIENT SERVICES",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "CONNELLY JOHN",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Connelly Law Offices",
+        "occupation": "Attorney"
+      },
+      {
+        "name": "SCHNEIDER FAMILY HOMES LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.076,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

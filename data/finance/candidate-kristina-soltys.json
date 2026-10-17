@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-kristina-soltys",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "SOLTK  042",
+    "filer_name": "Kristina Soltys",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/1552",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68743",
+    "total_raised": 254023.55,
+    "total_spent": 160252.51,
+    "carryforward": 0.0,
+    "loans": 784.89,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "Senate Republican Campaign Committee",
+        "amount": 113040.32,
+        "count": 5,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Washington State Republican Party",
+        "amount": 80400.0,
+        "count": 5,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Kestel Jordan",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Seattle Airsoft Lion Tactical LLC",
+        "occupation": "Business Owner"
+      },
+      {
+        "name": "Kemper Holdings LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Gordon Steve",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "Retired"
+      }
+    ],
+    "small_donor_share": 0.022,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-sean-odonnell",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "ODONS  194",
+    "filer_name": "Sean Patrick O'Donnell (Sean O'Donnell)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/4231",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68713",
+    "total_raised": 445711.74,
+    "total_spent": 89877.68,
+    "carryforward": 0.0,
+    "loans": 5000.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 128647.99,
+    "independent_expenditures_against": 67270.58,
+    "as_of": "2026-10-15",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 11922.77,
+        "count": 94,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Christofilis Constantinos",
+        "amount": 5000.31,
+        "count": 2,
+        "employer": "Archon Capital Management LLC",
+        "occupation": "FINANCE DIRECTOR"
+      },
+      {
+        "name": "Ferrera Kristin",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Chelan County",
+        "occupation": "SUPERIOR COURT JUDGE"
+      },
+      {
+        "name": "Champagne Matt",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "ScreenPal",
+        "occupation": "CHIEF EXECUTIVE OFFICER"
+      },
+      {
+        "name": "Build East PAC",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.029,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

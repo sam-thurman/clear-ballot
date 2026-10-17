@@ -1,0 +1,813 @@
+{
+  "biennium": "2025-26",
+  "source": "https://wslwebservices.leg.wa.gov/SponsorService.asmx/GetSponsors?biennium=2025-26",
+  "as_of": "2026-10-17",
+  "candidates": [
+    {
+      "slug": "candidate-davina-duerr",
+      "member": {
+        "id": "29877",
+        "name": "Davina Duerr",
+        "party": "D",
+        "district": "1",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/29877"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 1"
+    },
+    {
+      "slug": "candidate-maggie-wang",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-shelley-kloba",
+      "member": {
+        "id": "26168",
+        "name": "Shelley Kloba",
+        "party": "D",
+        "district": "1",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/26168"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 1"
+    },
+    {
+      "slug": "candidate-cliff-moon",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-zach-hall",
+      "member": {
+        "id": "27391",
+        "name": "Zach Hall",
+        "party": "D",
+        "district": "5",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/27391"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 5"
+    },
+    {
+      "slug": "candidate-michelle-bennett",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-lisa-callan",
+      "member": {
+        "id": "29092",
+        "name": "Lisa Callan",
+        "party": "D",
+        "district": "5",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/29092"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 5"
+    },
+    {
+      "slug": "candidate-patrick-peacock",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-david-hackney",
+      "member": {
+        "id": "31523",
+        "name": "David Hackney",
+        "party": "D",
+        "district": "11",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/31523"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 11"
+    },
+    {
+      "slug": "candidate-ashley-fedan",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-steve-bergquist",
+      "member": {
+        "id": "17227",
+        "name": "Steve Bergquist",
+        "party": "D",
+        "district": "11",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/17227"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 11"
+    },
+    {
+      "slug": "candidate-brian-burnett",
+      "member": {
+        "id": "35408",
+        "name": "Brian Burnett",
+        "party": "R",
+        "district": "12",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/35408"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 12"
+    },
+    {
+      "slug": "candidate-stacy-willoughby",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-mike-steele",
+      "member": {
+        "id": "10546",
+        "name": "Mike Steele",
+        "party": "R",
+        "district": "12",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/10546"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 12"
+    },
+    {
+      "slug": "candidate-maggie-adams",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-claire-wilson",
+      "member": {
+        "id": "29090",
+        "name": "Claire Wilson",
+        "party": "D",
+        "district": "30",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/29090"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 30"
+    },
+    {
+      "slug": "candidate-michael-rutland",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-jamila-e-taylor",
+      "member": {
+        "id": "31530",
+        "name": "Jamila Taylor",
+        "party": "D",
+        "district": "30",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/31530"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 30"
+    },
+    {
+      "slug": "candidate-tiffany-bowyer",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-kristine-reeves",
+      "member": {
+        "id": "27182",
+        "name": "Kristine Reeves",
+        "party": "D",
+        "district": "30",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/27182"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 30"
+    },
+    {
+      "slug": "candidate-paul-mcdaniel",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-phil-fortunato",
+      "member": {
+        "id": "3474",
+        "name": "Phil Fortunato",
+        "party": "R",
+        "district": "31",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/3474"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 31"
+    },
+    {
+      "slug": "candidate-tamara-stramel",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-drew-stokesbary",
+      "member": {
+        "id": "20756",
+        "name": "Drew Stokesbary",
+        "party": "R",
+        "district": "31",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/20756"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 31"
+    },
+    {
+      "slug": "candidate-stephen-szczurko-walton",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-joshua-penner",
+      "member": {
+        "id": "35416",
+        "name": "Joshua Penner",
+        "party": "R",
+        "district": "31",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/35416"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 31"
+    },
+    {
+      "slug": "candidate-john-bielka",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-cindy-ryu",
+      "member": {
+        "id": "15736",
+        "name": "Cindy Ryu",
+        "party": "D",
+        "district": "32",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/15736"
+      },
+      "incumbent": false,
+      "current_office": "State Representative, Legislative District 32"
+    },
+    {
+      "slug": "candidate-jesse-salomon",
+      "member": {
+        "id": "29089",
+        "name": "Jesse Salomon",
+        "party": "D",
+        "district": "32",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/29089"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 32"
+    },
+    {
+      "slug": "candidate-keith-scully",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-danica-noble",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-lauren-davis",
+      "member": {
+        "id": "29104",
+        "name": "Lauren Davis",
+        "party": "D",
+        "district": "32",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/29104"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 32"
+    },
+    {
+      "slug": "candidate-imraan-siddiqi",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-tina-l-orwall",
+      "member": {
+        "id": "14205",
+        "name": "Tina Orwall",
+        "party": "D",
+        "district": "33",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/14205"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 33"
+    },
+    {
+      "slug": "candidate-edwin-obras",
+      "member": {
+        "id": "35464",
+        "name": "Edwin Obras",
+        "party": "D",
+        "district": "33",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/35464"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 33"
+    },
+    {
+      "slug": "candidate-chris-martinez",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-mia-su-ling-gregerson",
+      "member": {
+        "id": "18264",
+        "name": "Mia Gregerson",
+        "party": "D",
+        "district": "33",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/18264"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 33"
+    },
+    {
+      "slug": "candidate-yuri-marinchik",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-emily-alvarado",
+      "member": {
+        "id": "34024",
+        "name": "Emily Alvarado",
+        "party": "D",
+        "district": "34",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/34024"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 34"
+    },
+    {
+      "slug": "candidate-brianna-k-thomas",
+      "member": {
+        "id": "15410",
+        "name": "Brianna Thomas",
+        "party": "D",
+        "district": "34",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/15410"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 34"
+    },
+    {
+      "slug": "candidate-joe-fitzgibbon",
+      "member": {
+        "id": "13198",
+        "name": "Joe Fitzgibbon",
+        "party": "D",
+        "district": "34",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/13198"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 34"
+    },
+    {
+      "slug": "candidate-mary-anito",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-noel-c-frame",
+      "member": {
+        "id": "23902",
+        "name": "Noel Frame",
+        "party": "D",
+        "district": "36",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/23902"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 36"
+    },
+    {
+      "slug": "candidate-jillian-england",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-julia-grant-reed",
+      "member": {
+        "id": "34033",
+        "name": "Julia Reed",
+        "party": "D",
+        "district": "36",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/34033"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 36"
+    },
+    {
+      "slug": "candidate-liz-berry",
+      "member": {
+        "id": "31531",
+        "name": "Liz Berry",
+        "party": "D",
+        "district": "36",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/31531"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 36"
+    },
+    {
+      "slug": "candidate-chipalo-street",
+      "member": {
+        "id": "34036",
+        "name": "Chipalo Street",
+        "party": "D",
+        "district": "37",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/34036"
+      },
+      "incumbent": false,
+      "current_office": "State Representative, Legislative District 37"
+    },
+    {
+      "slug": "candidate-tatiana-brown",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-kelabe-tewolde",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-sharon-tomiko-santos",
+      "member": {
+        "id": "3483",
+        "name": "Sharon Tomiko Santos",
+        "party": "D",
+        "district": "37",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/3483"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 37"
+    },
+    {
+      "slug": "candidate-jaelynn-scott",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-evon-mccorkle",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-janice-zahn",
+      "member": {
+        "id": "35736",
+        "name": "Janice Zahn",
+        "party": "D",
+        "district": "41",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/35736"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 41"
+    },
+    {
+      "slug": "candidate-elle-nguyen",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-my-linh-t-thai",
+      "member": {
+        "id": "29107",
+        "name": "My-Linh Thai",
+        "party": "D",
+        "district": "41",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/29107"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 41"
+    },
+    {
+      "slug": "candidate-michael-rosen",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-jamie-pedersen",
+      "member": {
+        "id": "12002",
+        "name": "Jamie Pedersen",
+        "party": "D",
+        "district": "43",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/12002"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 43"
+    },
+    {
+      "slug": "candidate-hannah-sabio-howell",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-nicole-macri",
+      "member": {
+        "id": "26178",
+        "name": "Nicole Macri",
+        "party": "D",
+        "district": "43",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/26178"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 43"
+    },
+    {
+      "slug": "candidate-alby-clendennin",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-shaun-scott",
+      "member": {
+        "id": "35430",
+        "name": "Shaun Scott",
+        "party": "D",
+        "district": "43",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/35430"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 43"
+    },
+    {
+      "slug": "candidate-manka-dhingra",
+      "member": {
+        "id": "28022",
+        "name": "Manka Dhingra",
+        "party": "D",
+        "district": "45",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/28022"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 45"
+    },
+    {
+      "slug": "candidate-roger-goodman",
+      "member": {
+        "id": "11999",
+        "name": "Roger Goodman",
+        "party": "D",
+        "district": "45",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/11999"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 45"
+    },
+    {
+      "slug": "candidate-joann-tolentino",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-vanessa-kritzer",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-john-p-gibbons",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-javier-valdez",
+      "member": {
+        "id": "27975",
+        "name": "Javier Valdez",
+        "party": "D",
+        "district": "46",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/27975"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 46"
+    },
+    {
+      "slug": "candidate-sandra-stephens",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-gerry-pollet",
+      "member": {
+        "id": "16596",
+        "name": "Gerry Pollet",
+        "party": "D",
+        "district": "46",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/16596"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 46"
+    },
+    {
+      "slug": "candidate-will-dreher",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-darya-farivar",
+      "member": {
+        "id": "34030",
+        "name": "Darya Farivar",
+        "party": "D",
+        "district": "46",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/34030"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 46"
+    },
+    {
+      "slug": "candidate-rodney-star-thornley",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-claudia-kauffman",
+      "member": {
+        "id": "12073",
+        "name": "Claudia Kauffman",
+        "party": "D",
+        "district": "47",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/12073"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 47"
+    },
+    {
+      "slug": "candidate-kristina-soltys",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-debra-jean-entenman",
+      "member": {
+        "id": "11403",
+        "name": "Debra Entenman",
+        "party": "D",
+        "district": "47",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/11403"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 47"
+    },
+    {
+      "slug": "candidate-cobi-clark",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-chris-stearns",
+      "member": {
+        "id": "34023",
+        "name": "Chris Stearns",
+        "party": "D",
+        "district": "47",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/34023"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 47"
+    },
+    {
+      "slug": "candidate-ted-cooke",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-vandana-slatter",
+      "member": {
+        "id": "27504",
+        "name": "Vandana Slatter",
+        "party": "D",
+        "district": "48",
+        "chamber": "Senate",
+        "url": "https://leg.wa.gov/legislators/member/27504"
+      },
+      "incumbent": true,
+      "current_office": "State Senator, Legislative District 48"
+    },
+    {
+      "slug": "candidate-osman-salahuddin",
+      "member": {
+        "id": "35655",
+        "name": "Osman Salahuddin",
+        "party": "D",
+        "district": "48",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/35655"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 48"
+    },
+    {
+      "slug": "candidate-jeffery-poppe",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-jessica-forsythe",
+      "member": null,
+      "incumbent": false,
+      "current_office": null
+    },
+    {
+      "slug": "candidate-amy-walen",
+      "member": {
+        "id": "29109",
+        "name": "Amy Walen",
+        "party": "D",
+        "district": "48",
+        "chamber": "House",
+        "url": "https://leg.wa.gov/legislators/member/29109"
+      },
+      "incumbent": true,
+      "current_office": "State Representative, Legislative District 48"
+    }
+  ]
+}

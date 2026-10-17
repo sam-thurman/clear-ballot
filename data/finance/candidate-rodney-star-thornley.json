@@ -1,0 +1,24 @@
+{
+  "slug": "candidate-rodney-star-thornley",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "THORR--019",
+    "filer_name": "Rodney Steven Thornley (Rodney 'Star' Thornley)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57332",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69323",
+    "total_raised": 0.0,
+    "total_spent": 0.0,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-09",
+    "top_contributors": [],
+    "small_donor_share": null,
+    "small_donor_max": 100.0,
+    "reporting_option": "mini"
+  },
+  "checked": "2026-10-17"
+}

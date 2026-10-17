@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-scott-edwards",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "EDWAS--543",
+    "filer_name": "Scott M. Edwards (Scott Edwards)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/56201",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69970",
+    "total_raised": 180173.68,
+    "total_spent": 154240.59,
+    "carryforward": 0.0,
+    "loans": 9900.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 73225.87,
+    "independent_expenditures_against": 83270.57,
+    "as_of": "2026-10-16",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 5155.0,
+        "count": 44,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "HMG LLC",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Abbott Barry",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Retired",
+        "occupation": "Retired"
+      },
+      {
+        "name": "Gordon Steve",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": "Retired",
+        "occupation": "Retired"
+      },
+      {
+        "name": "Heller Patricia B",
+        "amount": 4800.0,
+        "count": 2,
+        "employer": null,
+        "occupation": "RETIRED"
+      }
+    ],
+    "small_donor_share": 0.046,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

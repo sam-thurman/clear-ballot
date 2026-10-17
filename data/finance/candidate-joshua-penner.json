@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-joshua-penner",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "PENNJ  360",
+    "filer_name": "Joshua Penner",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/26484",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68442",
+    "total_raised": 60434.77,
+    "total_spent": 40607.09,
+    "carryforward": 1996.5,
+    "loans": 676.88,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-16",
+    "top_contributors": [
+      {
+        "name": "Nash Cascadia Verde LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Amazon.com Services LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Kemper Holdings LLC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Delta Dental of Washington",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "PMI US Corporate Services",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.038,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-mia-su-ling-gregerson",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "GREGM  188",
+    "filer_name": "Mia Su-Ling Gregerson",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/520",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66426",
+    "total_raised": 59301.52,
+    "total_spent": 53739.11,
+    "carryforward": 11362.51,
+    "loans": 0.0,
+    "debts": 8901.53,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "HOSPITALS FOR A HEALTHY FUTURE PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "FAIRVOTE WASHINGTON PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "DELTA DENTAL",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "CREDIT UNION LEGISLATIVE ACTION FUND NORTHWEST CREDIT UNION ASSOCIATION",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "JUSTICE FOR ALL PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.031,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

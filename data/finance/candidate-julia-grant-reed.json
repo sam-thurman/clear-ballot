@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-julia-grant-reed",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "REEDJ--051",
+    "filer_name": "Julia Grant Reed (Julia Reed)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/32436",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70176",
+    "total_raised": 65646.0,
+    "total_spent": 25625.59,
+    "carryforward": 5530.73,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 5981.0,
+        "count": 21,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Puget Sound Pilots PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BNSF Railway Company",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Electrical Workers 46 PAC",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SEIU 775 Quality Care Committee",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.111,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

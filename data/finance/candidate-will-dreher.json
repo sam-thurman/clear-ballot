@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-will-dreher",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "DREHW--760",
+    "filer_name": "William Dreher (Will Dreher)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57126",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68884",
+    "total_raised": 304757.71,
+    "total_spent": 241799.66,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 24776.4,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 56.54,
+    "independent_expenditures_against": 14680.55,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "SMALL CONTRIBUTIONS",
+        "amount": 14900.15,
+        "count": 63,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Gao Leo",
+        "amount": 4800.0,
+        "count": 3,
+        "employer": "OpenAI",
+        "occupation": "Researcher"
+      },
+      {
+        "name": "Biddulph Caleb",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Constellation Institute",
+        "occupation": "AI safety research"
+      },
+      {
+        "name": "Bills Steven",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Anthropic",
+        "occupation": "AI researcher"
+      },
+      {
+        "name": "Abele Emma",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": "Protective Equipment Inc.",
+        "occupation": "Non-profit executive"
+      }
+    ],
+    "small_donor_share": 0.052,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-shaun-scott",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "SCOTS  102",
+    "filer_name": "Shaun Scott",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/1418",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66886",
+    "total_raised": 26511.27,
+    "total_spent": 16553.79,
+    "carryforward": 3146.1,
+    "loans": 0.0,
+    "debts": 39698.06,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 132.34,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "Shaun Scott",
+        "amount": 5676.88,
+        "count": 2,
+        "employer": "WA State House of Representatives",
+        "occupation": "State Representative"
+      },
+      {
+        "name": "Service Employees International Union (SEIU) 775 Quality Care Committee",
+        "amount": 2400.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Justice for All PAC",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Credit Union Legislative Action Fund",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Altria Client Services LLC",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "small_donor_share": 0.09,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

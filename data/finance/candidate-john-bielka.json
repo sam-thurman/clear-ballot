@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-john-bielka",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "BIELJ--657",
+    "filer_name": "John Bielka",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/57125",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69992",
+    "total_raised": 15526.63,
+    "total_spent": 14754.05,
+    "carryforward": 0.0,
+    "loans": 0.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 198.51,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "John Bielka",
+        "amount": 6928.08,
+        "count": 10,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Severns Cameron",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": "Partner",
+        "occupation": null
+      },
+      {
+        "name": "U.A. Local 32 Plumbers Pipe Fitters",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "PACIFIC SEAFOOD",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Williams Vicki",
+        "amount": 1038.81,
+        "count": 2,
+        "employer": "Not Employed",
+        "occupation": "NOT EMPLOYED"
+      }
+    ],
+    "small_donor_share": 0.057,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}

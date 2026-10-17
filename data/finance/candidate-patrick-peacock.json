@@ -1,0 +1,60 @@
+{
+  "slug": "candidate-patrick-peacock",
+  "finance": {
+    "source": "pdc",
+    "filer_id": "PEACP--753",
+    "filer_name": "Patrick Richard Peacock (Patrick Peacock)",
+    "pdc_url": "https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/35762",
+    "registration_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69159",
+    "total_raised": 12185.0,
+    "total_spent": 11299.12,
+    "carryforward": 676.88,
+    "loans": 2000.0,
+    "debts": 0.0,
+    "cash_on_hand": null,
+    "independent_expenditures_for": 0.0,
+    "independent_expenditures_against": 0.0,
+    "as_of": "2026-10-13",
+    "top_contributors": [
+      {
+        "name": "Monroe Machined Products, Inc.",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "Peacock Candy",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": "Retired"
+      },
+      {
+        "name": "Basler Lori",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": "Prologue Digital",
+        "occupation": "Owner"
+      },
+      {
+        "name": "Basler Doug",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": "Prologue Digital",
+        "occupation": "Owner"
+      },
+      {
+        "name": "Peacock Richard",
+        "amount": 1200.0,
+        "count": 1,
+        "employer": null,
+        "occupation": "Retired"
+      }
+    ],
+    "small_donor_share": 0.159,
+    "small_donor_max": 100.0,
+    "reporting_option": "full"
+  },
+  "checked": "2026-10-17"
+}
