@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# node / astro
+node_modules/
+site/dist/
+site/.astro/
+.wrangler/
+
+# os / editors
+.DS_Store
+.vscode/
+.idea/
