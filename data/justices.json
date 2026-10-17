@@ -3,10 +3,19 @@
   "as_of": "2026-10-17",
   "candidates": {
     "candidate-colleen-melody": {
-      "incumbent": false,
-      "current_office": null,
+      "incumbent": true,
+      "current_office": "Justice, Washington Supreme Court",
       "website": null,
-      "sources": []
+      "sources": [
+        {
+          "id": "courts-bio",
+          "title": "Washington Supreme Court biography: Justice COLLEEN M. MELODY",
+          "url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/bios/?fa=scbios.display_file&fileID=melody",
+          "publisher": "Washington State Courts",
+          "accessed": "2026-10-17",
+          "kind": "official"
+        }
+      ]
     },
     "candidate-scott-edwards": {
       "incumbent": false,
@@ -39,10 +48,19 @@
       "sources": []
     },
     "candidate-theo-angelis": {
-      "incumbent": false,
-      "current_office": null,
+      "incumbent": true,
+      "current_office": "Justice, Washington Supreme Court",
       "website": null,
-      "sources": []
+      "sources": [
+        {
+          "id": "courts-bio",
+          "title": "Washington Supreme Court biography: Justice THEODORE J. ANGELIS",
+          "url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/bios/?fa=scbios.display_file&fileID=angelis",
+          "publisher": "Washington State Courts",
+          "accessed": "2026-10-17",
+          "kind": "official"
+        }
+      ]
     },
     "candidate-dave-larson": {
       "incumbent": false,
@@ -51,10 +69,19 @@
       "sources": []
     },
     "candidate-debra-l-stephens": {
-      "incumbent": false,
-      "current_office": null,
+      "incumbent": true,
+      "current_office": "Chief Justice, Washington Supreme Court",
       "website": null,
-      "sources": []
+      "sources": [
+        {
+          "id": "courts-bio",
+          "title": "Washington Supreme Court biography: Chief Justice DEBRA L. STEPHENS",
+          "url": "https://www.courts.wa.gov/appellate_trial_courts/supreme/bios/?fa=scbios.display_file&fileID=stephens",
+          "publisher": "Washington State Courts",
+          "accessed": "2026-10-17",
+          "kind": "official"
+        }
+      ]
     },
     "candidate-todd-a-bloom": {
       "incumbent": false,

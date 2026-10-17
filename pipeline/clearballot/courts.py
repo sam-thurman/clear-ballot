@@ -22,7 +22,8 @@ BIOS_INDEX = "https://www.courts.wa.gov/appellate_trial_courts/supreme/bios/"
 
 
 def sitting_justices() -> list[dict]:
-    r = httpx.get(BIOS_INDEX, follow_redirects=True, timeout=60)
+    # courts.wa.gov serves a stub page to the default python-httpx user agent.
+    r = httpx.get(BIOS_INDEX, follow_redirects=True, timeout=60, headers={"User-Agent": "Mozilla/5.0 (compatible; clear-ballot/0.1)"})
     r.raise_for_status()
     out = []
     for a in re.finditer(r'<a[^>]*href="([^"]*fileID=[^"]+)"[^>]*>(.*?)</a>', r.text, re.S):

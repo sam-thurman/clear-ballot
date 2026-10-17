@@ -1,0 +1,1435 @@
+{
+  "congress": 119,
+  "as_of": "2026-10-17",
+  "source": "https://api.congress.gov/v3/member/WA",
+  "candidates": {
+    "candidate-suzan-delbene": {
+      "incumbent": true,
+      "current_office": "U.S. Representative, Washington's 1st Congressional District",
+      "bioguide": "D000617",
+      "website": null,
+      "record": {
+        "as_of": "2026-10-17",
+        "sponsored_bills_url": "https://www.congress.gov/member/suzan-delbene/D000617?q=%7B%22sponsorship%22%3A%22sponsored%22%2C%22congress%22%3A%22119%22%7D",
+        "sponsored_bills": [
+          {
+            "bill_id": "H.R. 10774",
+            "title": "SWIMS Act of 2026",
+            "status": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-10-09",
+            "introduced": "2026-10-09",
+            "url": "https://www.congress.gov/bill/119/house-bill/10774"
+          },
+          {
+            "bill_id": "H.R. 8261",
+            "title": "Chronic Care Management Improvement Act of 2026",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-04-14",
+            "introduced": "2026-04-14",
+            "url": "https://www.congress.gov/bill/119/house-bill/8261"
+          },
+          {
+            "bill_id": "H.R. 407",
+            "title": "Prevent Tariff Abuse Act",
+            "status": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-01-15",
+            "introduced": "2025-01-15",
+            "url": "https://www.congress.gov/bill/119/house-bill/407"
+          },
+          {
+            "bill_id": "H.R. 4649",
+            "title": "Smart Cities and Communities Act of 2025",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Space, and Technology, Education and Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-07-23",
+            "introduced": "2025-07-23",
+            "url": "https://www.congress.gov/bill/119/house-bill/4649"
+          },
+          {
+            "bill_id": "H.R. 9736",
+            "title": "Stop CHEATERS Act",
+            "status": "Referred to the House Committee on Appropriations.",
+            "status_date": "2026-07-16",
+            "introduced": "2026-07-16",
+            "url": "https://www.congress.gov/bill/119/house-bill/9736"
+          },
+          {
+            "bill_id": "H.R. 9509",
+            "title": "Kidney Disease Education Access Expansion Act of 2026",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-06-29",
+            "introduced": "2026-06-29",
+            "url": "https://www.congress.gov/bill/119/house-bill/9509"
+          },
+          {
+            "bill_id": "H.R. 9121",
+            "title": "Manufacturing Jobs for Veterans Act of 2026",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2026-06-03",
+            "introduced": "2026-06-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/9121"
+          },
+          {
+            "bill_id": "H.R. 9016",
+            "title": "Email Privacy Act",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2026-05-22",
+            "introduced": "2026-05-22",
+            "url": "https://www.congress.gov/bill/119/house-bill/9016"
+          },
+          {
+            "bill_id": "H.R. 7868",
+            "title": "Expanding Support for Living Donors Act of 2026",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-03-09",
+            "introduced": "2026-03-09",
+            "url": "https://www.congress.gov/bill/119/house-bill/7868"
+          },
+          {
+            "bill_id": "H.R.ES 1049",
+            "title": "Congratulating the Seattle Seahawks for winning Super Bowl LX and the 12th Man for their unwavering support.",
+            "status": "Referred to the House Committee on Oversight and Government Reform.",
+            "status_date": "2026-02-10",
+            "introduced": "2026-02-10",
+            "url": "https://www.congress.gov/bill/119/house-resolution/1049"
+          },
+          {
+            "bill_id": "H.R. 6787",
+            "title": "Clean Competition Act",
+            "status": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-12-17",
+            "introduced": "2025-12-17",
+            "url": "https://www.congress.gov/bill/119/house-bill/6787"
+          },
+          {
+            "bill_id": "H.R. 5940",
+            "title": "Seniors Deserve SMARTER Care Act of 2025",
+            "status": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-11-07",
+            "introduced": "2025-11-07",
+            "url": "https://www.congress.gov/bill/119/house-bill/5940"
+          },
+          {
+            "bill_id": "H.R.ES 549",
+            "title": "Expressing support for the designation of June 26 as \"LGBTQI+ Equality Day\".",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2025-06-26",
+            "introduced": "2025-06-26",
+            "url": "https://www.congress.gov/bill/119/house-resolution/549"
+          },
+          {
+            "bill_id": "H.R. 2421",
+            "title": "Protecting Taxpayer Resources Act",
+            "status": "Referred to the House Committee on Ways and Means.",
+            "status_date": "2025-03-27",
+            "introduced": "2025-03-27",
+            "url": "https://www.congress.gov/bill/119/house-bill/2421"
+          },
+          {
+            "bill_id": "H.R. 2321",
+            "title": "United States Leadership in Immersive Technology Act of 2025",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2025-03-25",
+            "introduced": "2025-03-25",
+            "url": "https://www.congress.gov/bill/119/house-bill/2321"
+          },
+          {
+            "bill_id": "H.R. 2250",
+            "title": "National Landslide Preparedness Act Reauthorization Act of 2025",
+            "status": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-431, Part I.",
+            "status_date": "2026-01-08",
+            "introduced": "2025-03-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/2250"
+          },
+          {
+            "bill_id": "H.R. 1859",
+            "title": "Apprenticeship Opportunity Act",
+            "status": "Referred to the House Committee on Ways and Means.",
+            "status_date": "2025-03-05",
+            "introduced": "2025-03-05",
+            "url": "https://www.congress.gov/bill/119/house-bill/1859"
+          }
+        ],
+        "shortlist_votes": [
+          {
+            "bill_id": "H.R. 6500",
+            "title": "Continuing Appropriations and Extensions Act, 2027",
+            "category": "federal",
+            "vote": "yea",
+            "chamber": "House",
+            "date": "2026-09-01",
+            "url": "https://www.congress.gov/bill/119/house-bill/6500",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll286.xml",
+            "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments"
+          },
+          {
+            "bill_id": "S 2",
+            "title": "Secure America Act",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-06-09",
+            "url": "https://www.congress.gov/bill/119/senate-bill/2",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll214.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 7147",
+            "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-01-22",
+            "url": "https://www.congress.gov/bill/119/house-bill/7147",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll042.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 7148",
+            "title": "Consolidated Appropriations Act, 2026",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-02-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/7148",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll053.xml",
+            "question": "On Motion to Concur in the Senate Amendments"
+          },
+          {
+            "bill_id": "H.R. 6938",
+            "title": "Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026",
+            "category": "federal",
+            "vote": "yea",
+            "chamber": "House",
+            "date": "2026-01-08",
+            "url": "https://www.congress.gov/bill/119/house-bill/6938",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll007.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 5371",
+            "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-11-12",
+            "url": "https://www.congress.gov/bill/119/house-bill/5371",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll285.xml",
+            "question": "On Motion to Concur in the Senate Amendment"
+          },
+          {
+            "bill_id": "H.R. 1",
+            "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-07-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/1",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll190.xml",
+            "question": "On Motion to Concur in the Senate Amendment"
+          },
+          {
+            "bill_id": "H.R. 1968",
+            "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-03-11",
+            "url": "https://www.congress.gov/bill/119/house-bill/1968",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll070.xml",
+            "question": "On Passage"
+          }
+        ],
+        "pamphlet_cited_bills": []
+      },
+      "sources": [
+        {
+          "id": "congress-member",
+          "title": "Congress.gov member page: DelBene, Suzan K.",
+          "url": "https://www.congress.gov/member/suzan-delbene/D000617",
+          "publisher": "Library of Congress (Congress.gov)",
+          "accessed": "2026-10-17",
+          "kind": "legislative"
+        },
+        {
+          "id": "congress-sponsored",
+          "title": "Sponsored legislation, 119th Congress: DelBene, Suzan K.",
+          "url": "https://www.congress.gov/member/suzan-delbene/D000617?q=%7B%22sponsorship%22%3A%22sponsored%22%2C%22congress%22%3A%22119%22%7D",
+          "publisher": "Library of Congress (Congress.gov)",
+          "accessed": "2026-10-17",
+          "kind": "legislative"
+        }
+      ]
+    },
+    "candidate-mary-silva": {
+      "incumbent": false,
+      "current_office": null,
+      "bioguide": null,
+      "website": null,
+      "record": null,
+      "sources": []
+    },
+    "candidate-pramila-jayapal": {
+      "incumbent": true,
+      "current_office": "U.S. Representative, Washington's 7th Congressional District",
+      "bioguide": "J000298",
+      "website": null,
+      "record": {
+        "as_of": "2026-10-17",
+        "sponsored_bills_url": "https://www.congress.gov/member/pramila-jayapal/J000298?q=%7B%22sponsorship%22%3A%22sponsored%22%2C%22congress%22%3A%22119%22%7D",
+        "sponsored_bills": [
+          {
+            "bill_id": "H.R. 10561",
+            "title": "Workforce Opportunities for Communities in Recovery Act",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2026-09-24",
+            "introduced": "2026-09-24",
+            "url": "https://www.congress.gov/bill/119/house-bill/10561"
+          },
+          {
+            "bill_id": "H.R. 10563",
+            "title": "Facial Recognition and Biometric Technology Moratorium Act of 2026",
+            "status": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-09-24",
+            "introduced": "2026-09-24",
+            "url": "https://www.congress.gov/bill/119/house-bill/10563"
+          },
+          {
+            "bill_id": "H.R. 10562",
+            "title": "Students Not Profits Act of 2026",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2026-09-24",
+            "introduced": "2026-09-24",
+            "url": "https://www.congress.gov/bill/119/house-bill/10562"
+          },
+          {
+            "bill_id": "H.R. 10520",
+            "title": "South Asian Heart Health Awareness and Research Act of 2026",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2026-09-21",
+            "introduced": "2026-09-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/10520"
+          },
+          {
+            "bill_id": "H.Con.Res. 89",
+            "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+            "status": "Failed of passage in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 244.",
+            "status_date": "2026-09-24",
+            "introduced": "2026-04-23",
+            "url": "https://www.congress.gov/bill/119/house-concurrent-resolution/89"
+          },
+          {
+            "bill_id": "H.R.ES 1212",
+            "title": "Expressing support for the staff of public, school, academic, and special libraries in the United States and the essential services those libraries provide to communities, recognizing the need for funding commensurate with the broad scope of social service and community supports provided by libraries, preserving the right of all citizens of the United States to freely access information and resources in their communities, supporting a strong union voice for library workers, and defending the civil rights of library staff.",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2026-04-23",
+            "introduced": "2026-04-23",
+            "url": "https://www.congress.gov/bill/119/house-resolution/1212"
+          },
+          {
+            "bill_id": "H.R.ES 1178",
+            "title": "Commemorating the 5-year remembrance of the April 15, 2021, mass shooting at a FedEx Ground facility in Indianapolis, Indiana, and denouncing all forms of anti-Asian hate, including the resurgence of xenophobic and anti-immigrant rhetoric.",
+            "status": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-04-15",
+            "introduced": "2026-04-15",
+            "url": "https://www.congress.gov/bill/119/house-resolution/1178"
+          },
+          {
+            "bill_id": "H.R.ES 1179",
+            "title": "Condemning attacks on civilians in Sudan and calling for an end to external support to the warring parties and for efforts to promote a negotiated settlement of the war.",
+            "status": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 44 - 2.",
+            "status_date": "2026-05-13",
+            "introduced": "2026-04-15",
+            "url": "https://www.congress.gov/bill/119/house-resolution/1179"
+          },
+          {
+            "bill_id": "H.J.Res. 215",
+            "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by U.S. Immigration and Customs Enforcement of the Department of Homeland Security relating to \"Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media\".",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2026-09-14",
+            "introduced": "2026-09-14",
+            "url": "https://www.congress.gov/bill/119/house-joint-resolution/215"
+          },
+          {
+            "bill_id": "H.R. 10209",
+            "title": "GREEN Hospitals Act",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2026-09-01",
+            "introduced": "2026-09-01",
+            "url": "https://www.congress.gov/bill/119/house-bill/10209"
+          },
+          {
+            "bill_id": "H.R. 9959",
+            "title": "Green New Deal for Public Schools Act",
+            "status": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-07-27",
+            "introduced": "2026-07-27",
+            "url": "https://www.congress.gov/bill/119/house-bill/9959"
+          },
+          {
+            "bill_id": "H.R. 9910",
+            "title": "Health Over Wealth Act",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Financial Services, Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-07-23",
+            "introduced": "2026-07-23",
+            "url": "https://www.congress.gov/bill/119/house-bill/9910"
+          },
+          {
+            "bill_id": "H.R. 9744",
+            "title": "Family Grocery and Farmer Relief Act",
+            "status": "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, Small Business, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-07-16",
+            "introduced": "2026-07-16",
+            "url": "https://www.congress.gov/bill/119/house-bill/9744"
+          },
+          {
+            "bill_id": "H.R. 9745",
+            "title": "Orlin’s Law",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2026-07-16",
+            "introduced": "2026-07-16",
+            "url": "https://www.congress.gov/bill/119/house-bill/9745"
+          },
+          {
+            "bill_id": "H.R. 9679",
+            "title": "REDACT Act",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2026-07-14",
+            "introduced": "2026-07-14",
+            "url": "https://www.congress.gov/bill/119/house-bill/9679"
+          },
+          {
+            "bill_id": "H.R. 9581",
+            "title": "Fresh Bucks for Fresh Produce Act",
+            "status": "Referred to the House Committee on Agriculture.",
+            "status_date": "2026-07-02",
+            "introduced": "2026-07-02",
+            "url": "https://www.congress.gov/bill/119/house-bill/9581"
+          },
+          {
+            "bill_id": "H.R. 9549",
+            "title": "To amend title 10, United States Code, the National Defense Authorization Act for Fiscal Year 2022, and the Military Construction Authorization Act for Fiscal Year 2018 to repeal certain reporting requirements related to unfunded priorities, and for other purposes.",
+            "status": "Referred to the House Committee on Armed Services.",
+            "status_date": "2026-06-30",
+            "introduced": "2026-06-30",
+            "url": "https://www.congress.gov/bill/119/house-bill/9549"
+          },
+          {
+            "bill_id": "H.R. 9432",
+            "title": "LIFT the BAR Act",
+            "status": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+            "status_date": "2026-06-30",
+            "introduced": "2026-06-24",
+            "url": "https://www.congress.gov/bill/119/house-bill/9432"
+          },
+          {
+            "bill_id": "H.R. 8975",
+            "title": "All Students Count Act of 2026",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2026-05-21",
+            "introduced": "2026-05-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/8975"
+          },
+          {
+            "bill_id": "H.R. 8103",
+            "title": "To prohibit the use of funds to use military force in or against Cuba, and for other purposes.",
+            "status": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-03-26",
+            "introduced": "2026-03-26",
+            "url": "https://www.congress.gov/bill/119/house-bill/8103"
+          },
+          {
+            "bill_id": "H.R. 8085",
+            "title": "Ultra-Millionaire Tax Act of 2026",
+            "status": "Referred to the House Committee on Ways and Means.",
+            "status_date": "2026-03-25",
+            "introduced": "2026-03-25",
+            "url": "https://www.congress.gov/bill/119/house-bill/8085"
+          },
+          {
+            "bill_id": "H.R. 7541",
+            "title": "U.S. Farmworker Protection Act",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2026-02-12",
+            "introduced": "2026-02-12",
+            "url": "https://www.congress.gov/bill/119/house-bill/7541"
+          },
+          {
+            "bill_id": "H.R.ES 1058",
+            "title": "Recognizing that it is the duty of the Federal Government to develop and implement a Transgender Bill of Rights to protect and codify the rights of transgender and nonbinary people under the law and ensure their access to medical care, shelter, safety, and economic security.",
+            "status": "Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Workforce, Energy and Commerce, Financial Services, Oversight and Government Reform, Armed Services, Veterans' Affairs, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-02-11",
+            "introduced": "2026-02-11",
+            "url": "https://www.congress.gov/bill/119/house-resolution/1058"
+          },
+          {
+            "bill_id": "H.R. 7363",
+            "title": "ICE Out of Our Faces Act",
+            "status": "Referred to the Subcommittee on Border Security and Enforcement.",
+            "status_date": "2026-02-05",
+            "introduced": "2026-02-04",
+            "url": "https://www.congress.gov/bill/119/house-bill/7363"
+          },
+          {
+            "bill_id": "H.R. 6751",
+            "title": "Sunset for the 2001 Authorization for Use of Military Force Act",
+            "status": "Referred to the House Committee on Foreign Affairs.",
+            "status_date": "2025-12-16",
+            "introduced": "2025-12-16",
+            "url": "https://www.congress.gov/bill/119/house-bill/6751"
+          },
+          {
+            "bill_id": "H.R. 6646",
+            "title": "Empowering App-Based Workers Act",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2025-12-11",
+            "introduced": "2025-12-11",
+            "url": "https://www.congress.gov/bill/119/house-bill/6646"
+          },
+          {
+            "bill_id": "H.R. 6397",
+            "title": "Dignity for Detained Immigrants Act",
+            "status": "Referred to the Subcommittee on Oversight, Investigations, and Accountability.",
+            "status_date": "2025-12-04",
+            "introduced": "2025-12-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/6397"
+          },
+          {
+            "bill_id": "H.R.ES 899",
+            "title": "Supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of violence toward transgender people and memorializing the lives lost this year.",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2025-11-20",
+            "introduced": "2025-11-20",
+            "url": "https://www.congress.gov/bill/119/house-resolution/899"
+          },
+          {
+            "bill_id": "H.R. 6145",
+            "title": "EXPERTS Act of 2025",
+            "status": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-11-19",
+            "introduced": "2025-11-19",
+            "url": "https://www.congress.gov/bill/119/house-bill/6145"
+          },
+          {
+            "bill_id": "H.R.ES 741",
+            "title": "Acknowledging that in the aftermath of September 11, 2001, individuals experienced hate and were targeted by the government on account of their faith, race, national origin and immigration status, and suggesting various forms of relief to support those affected.",
+            "status": "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-09-18",
+            "introduced": "2025-09-18",
+            "url": "https://www.congress.gov/bill/119/house-resolution/741"
+          },
+          {
+            "bill_id": "H.R.ES 740",
+            "title": "Congratulating Seattle Sounders FC on becoming the first Major League Soccer team to win all 5 major North American soccer trophies.",
+            "status": "Referred to the House Committee on Oversight and Government Reform.",
+            "status_date": "2025-09-18",
+            "introduced": "2025-09-18",
+            "url": "https://www.congress.gov/bill/119/house-resolution/740"
+          },
+          {
+            "bill_id": "H.R. 5234",
+            "title": "Local School Foods Expansion Act of 2025",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2025-09-09",
+            "introduced": "2025-09-09",
+            "url": "https://www.congress.gov/bill/119/house-bill/5234"
+          },
+          {
+            "bill_id": "H.R. 4456",
+            "title": "Stop ICE from Kidnapping U.S. Citizens Act",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2025-07-16",
+            "introduced": "2025-07-16",
+            "url": "https://www.congress.gov/bill/119/house-bill/4456"
+          },
+          {
+            "bill_id": "H.R. 4457",
+            "title": "Housing Is a Human Right Act of 2025",
+            "status": "Referred to the Committee on Financial Services, and in addition to the Committees on House Administration, the Judiciary, Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-07-16",
+            "introduced": "2025-07-16",
+            "url": "https://www.congress.gov/bill/119/house-bill/4457"
+          },
+          {
+            "bill_id": "H.R. 4182",
+            "title": "Housing not Handcuffs Act of 2025",
+            "status": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Oversight and Government Reform, Natural Resources, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-06-26",
+            "introduced": "2025-06-26",
+            "url": "https://www.congress.gov/bill/119/house-bill/4182"
+          },
+          {
+            "bill_id": "H.R. 4104",
+            "title": "Health Equity and Access under the Law for Immigrant Families Act of 2025",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-06-24",
+            "introduced": "2025-06-24",
+            "url": "https://www.congress.gov/bill/119/house-bill/4104"
+          },
+          {
+            "bill_id": "H.R. 3971",
+            "title": "Domestic Workers Bill of Rights Act",
+            "status": "Referred to the Committee on Education and Workforce, and in addition to the Committees on House Administration, Energy and Commerce, Ways and Means, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-06-12",
+            "introduced": "2025-06-12",
+            "url": "https://www.congress.gov/bill/119/house-bill/3971"
+          },
+          {
+            "bill_id": "H.R.ES 473",
+            "title": "Calling for the urgent delivery and disbursement of humanitarian aid to address the needs of civilians in Gaza.",
+            "status": "Referred to the House Committee on Foreign Affairs.",
+            "status_date": "2025-06-04",
+            "introduced": "2025-06-04",
+            "url": "https://www.congress.gov/bill/119/house-resolution/473"
+          },
+          {
+            "bill_id": "H.R.ES 445",
+            "title": "Supporting the goals and ideals of the month of May as Sex Ed For All Month: Equity and Access for All.",
+            "status": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-05-23",
+            "introduced": "2025-05-23",
+            "url": "https://www.congress.gov/bill/119/house-resolution/445"
+          },
+          {
+            "bill_id": "H.R. 3543",
+            "title": "College for All Act of 2025",
+            "status": "Referred to the Committee on Education and Workforce, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-05-21",
+            "introduced": "2025-05-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/3543"
+          },
+          {
+            "bill_id": "H.R. 3290",
+            "title": "National Museum of Pop Culture Act",
+            "status": "Referred to the House Committee on Natural Resources.",
+            "status_date": "2025-05-08",
+            "introduced": "2025-05-08",
+            "url": "https://www.congress.gov/bill/119/house-bill/3290"
+          },
+          {
+            "bill_id": "H.R. 3069",
+            "title": "Medicare for All Act",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Workforce, Rules, Oversight and Government Reform, Armed Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-04-29",
+            "introduced": "2025-04-29",
+            "url": "https://www.congress.gov/bill/119/house-bill/3069"
+          },
+          {
+            "bill_id": "H.R. 2851",
+            "title": "WISE Act",
+            "status": "Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, Agriculture, Education and Workforce, Energy and Commerce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-04-10",
+            "introduced": "2025-04-10",
+            "url": "https://www.congress.gov/bill/119/house-bill/2851"
+          },
+          {
+            "bill_id": "H.R.ES 328",
+            "title": "Expressing support for the staff of public, school, academic, and special libraries in the United States and the essential services those libraries provide to communities, recognizing the need for funding commensurate with the broad scope of social service and community supports provided by libraries, preserving the right of all citizens of the United States to freely access information and resources in their communities, supporting a strong union voice for library workers, and defending the civil rights of library staff.",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2025-04-10",
+            "introduced": "2025-04-10",
+            "url": "https://www.congress.gov/bill/119/house-resolution/328"
+          },
+          {
+            "bill_id": "H.J.Res. 84",
+            "title": "Providing for congressional disapproval of the proposed foreign military sale to Israel of certain defense articles and services.",
+            "status": "Referred to the House Committee on Foreign Affairs.",
+            "status_date": "2025-03-31",
+            "introduced": "2025-03-31",
+            "url": "https://www.congress.gov/bill/119/house-joint-resolution/84"
+          },
+          {
+            "bill_id": "H.J.Res. 83",
+            "title": "Providing for congressional disapproval of the proposed foreign military sale to Israel of certain defense articles and services.",
+            "status": "Referred to the House Committee on Foreign Affairs.",
+            "status_date": "2025-03-31",
+            "introduced": "2025-03-31",
+            "url": "https://www.congress.gov/bill/119/house-joint-resolution/83"
+          },
+          {
+            "bill_id": "H.R. 2129",
+            "title": "No Round Up Act",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2025-03-14",
+            "introduced": "2025-03-14",
+            "url": "https://www.congress.gov/bill/119/house-bill/2129"
+          },
+          {
+            "bill_id": "H.J.Res. 69",
+            "title": "Providing for congressional disapproval of the proposed foreign military sale to Israel of certain defense articles and services.",
+            "status": "Referred to the House Committee on Foreign Affairs.",
+            "status_date": "2025-03-03",
+            "introduced": "2025-03-03",
+            "url": "https://www.congress.gov/bill/119/house-joint-resolution/69"
+          },
+          {
+            "bill_id": "H.J.Res. 68",
+            "title": "Providing for congressional disapproval of the proposed foreign military sale to Israel of certain defense articles and services.",
+            "status": "Referred to the House Committee on Foreign Affairs.",
+            "status_date": "2025-03-03",
+            "introduced": "2025-03-03",
+            "url": "https://www.congress.gov/bill/119/house-joint-resolution/68"
+          },
+          {
+            "bill_id": "H.J.Res. 54",
+            "title": "Proposing an amendment to the Constitution of the United States providing that the rights protected and extended by the Constitution are the rights of natural persons only.",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2025-02-12",
+            "introduced": "2025-02-12",
+            "url": "https://www.congress.gov/bill/119/house-joint-resolution/54"
+          },
+          {
+            "bill_id": "H.R. 944",
+            "title": "Access to Counsel Act",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2025-02-04",
+            "introduced": "2025-02-04",
+            "url": "https://www.congress.gov/bill/119/house-bill/944"
+          }
+        ],
+        "shortlist_votes": [
+          {
+            "bill_id": "H.R. 6500",
+            "title": "Continuing Appropriations and Extensions Act, 2027",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-09-01",
+            "url": "https://www.congress.gov/bill/119/house-bill/6500",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll286.xml",
+            "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments"
+          },
+          {
+            "bill_id": "S 2",
+            "title": "Secure America Act",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-06-09",
+            "url": "https://www.congress.gov/bill/119/senate-bill/2",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll214.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 7147",
+            "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-01-22",
+            "url": "https://www.congress.gov/bill/119/house-bill/7147",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll042.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 7148",
+            "title": "Consolidated Appropriations Act, 2026",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-02-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/7148",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll053.xml",
+            "question": "On Motion to Concur in the Senate Amendments"
+          },
+          {
+            "bill_id": "H.R. 6938",
+            "title": "Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026",
+            "category": "federal",
+            "vote": "yea",
+            "chamber": "House",
+            "date": "2026-01-08",
+            "url": "https://www.congress.gov/bill/119/house-bill/6938",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll007.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 5371",
+            "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-11-12",
+            "url": "https://www.congress.gov/bill/119/house-bill/5371",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll285.xml",
+            "question": "On Motion to Concur in the Senate Amendment"
+          },
+          {
+            "bill_id": "H.R. 1",
+            "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-07-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/1",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll190.xml",
+            "question": "On Motion to Concur in the Senate Amendment"
+          },
+          {
+            "bill_id": "H.R. 1968",
+            "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-03-11",
+            "url": "https://www.congress.gov/bill/119/house-bill/1968",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll070.xml",
+            "question": "On Passage"
+          }
+        ],
+        "pamphlet_cited_bills": []
+      },
+      "sources": [
+        {
+          "id": "congress-member",
+          "title": "Congress.gov member page: Jayapal, Pramila",
+          "url": "https://www.congress.gov/member/pramila-jayapal/J000298",
+          "publisher": "Library of Congress (Congress.gov)",
+          "accessed": "2026-10-17",
+          "kind": "legislative"
+        },
+        {
+          "id": "congress-sponsored",
+          "title": "Sponsored legislation, 119th Congress: Jayapal, Pramila",
+          "url": "https://www.congress.gov/member/pramila-jayapal/J000298?q=%7B%22sponsorship%22%3A%22sponsored%22%2C%22congress%22%3A%22119%22%7D",
+          "publisher": "Library of Congress (Congress.gov)",
+          "accessed": "2026-10-17",
+          "kind": "legislative"
+        }
+      ]
+    },
+    "candidate-nirav-sheth": {
+      "incumbent": false,
+      "current_office": null,
+      "bioguide": null,
+      "website": null,
+      "record": null,
+      "sources": []
+    },
+    "candidate-kim-schrier": {
+      "incumbent": true,
+      "current_office": "U.S. Representative, Washington's 8th Congressional District",
+      "bioguide": "S001216",
+      "website": null,
+      "record": {
+        "as_of": "2026-10-17",
+        "sponsored_bills_url": "https://www.congress.gov/member/kim-schrier/S001216?q=%7B%22sponsorship%22%3A%22sponsored%22%2C%22congress%22%3A%22119%22%7D",
+        "sponsored_bills": [
+          {
+            "bill_id": "H.R. 10604",
+            "title": "Zeus 95 Memorial Act",
+            "status": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-09-24",
+            "introduced": "2026-09-24",
+            "url": "https://www.congress.gov/bill/119/house-bill/10604"
+          },
+          {
+            "bill_id": "H.R. 8425",
+            "title": "Strengthening the Vaccines for Children Program Act of 2026",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2026-04-21",
+            "introduced": "2026-04-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/8425"
+          },
+          {
+            "bill_id": "H.R. 8127",
+            "title": "Permanent Housing Affordability Act",
+            "status": "Referred to the Committee on Financial Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-03-26",
+            "introduced": "2026-03-26",
+            "url": "https://www.congress.gov/bill/119/house-bill/8127"
+          },
+          {
+            "bill_id": "H.R. 10287",
+            "title": "9-8-8 Crisis Response Act",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2026-09-03",
+            "introduced": "2026-09-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/10287"
+          },
+          {
+            "bill_id": "H.R. 9445",
+            "title": "Let Doctors Provide Reproductive Health Care Act",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-06-24",
+            "introduced": "2026-06-24",
+            "url": "https://www.congress.gov/bill/119/house-bill/9445"
+          },
+          {
+            "bill_id": "H.R. 9000",
+            "title": "SCREEN for Type 1 Diabetes Act of 2026",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2026-05-21",
+            "introduced": "2026-05-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/9000"
+          },
+          {
+            "bill_id": "H.R. 7712",
+            "title": "RNGR Support Act of 2026",
+            "status": "Referred to the Subcommittee on Forestry and Horticulture.",
+            "status_date": "2026-04-03",
+            "introduced": "2026-02-25",
+            "url": "https://www.congress.gov/bill/119/house-bill/7712"
+          },
+          {
+            "bill_id": "H.R. 7377",
+            "title": "Know Before You Drive Act",
+            "status": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+            "status_date": "2026-02-10",
+            "introduced": "2026-02-04",
+            "url": "https://www.congress.gov/bill/119/house-bill/7377"
+          },
+          {
+            "bill_id": "H.R. 7164",
+            "title": "Capping Costs for Consumers Act of 2026",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-01-20",
+            "introduced": "2026-01-20",
+            "url": "https://www.congress.gov/bill/119/house-bill/7164"
+          },
+          {
+            "bill_id": "H.R. 6697",
+            "title": "EAT Healthy Foods from Local Farmers Act",
+            "status": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+            "status_date": "2026-01-13",
+            "introduced": "2025-12-12",
+            "url": "https://www.congress.gov/bill/119/house-bill/6697"
+          },
+          {
+            "bill_id": "H.R. 6341",
+            "title": "Partnerships for Agricultural Climate Action Act",
+            "status": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+            "status_date": "2026-01-13",
+            "introduced": "2025-12-01",
+            "url": "https://www.congress.gov/bill/119/house-bill/6341"
+          },
+          {
+            "bill_id": "H.R. 6229",
+            "title": "Water Infrastructure Finance and Innovation Act Amendments of 2025",
+            "status": "Referred to the Subcommittee on Water Resources and Environment.",
+            "status_date": "2025-11-22",
+            "introduced": "2025-11-20",
+            "url": "https://www.congress.gov/bill/119/house-bill/6229"
+          },
+          {
+            "bill_id": "H.R. 5558",
+            "title": "Improving Child Care for Working Families Act of 2025",
+            "status": "Referred to the House Committee on Ways and Means.",
+            "status_date": "2025-09-23",
+            "introduced": "2025-09-23",
+            "url": "https://www.congress.gov/bill/119/house-bill/5558"
+          },
+          {
+            "bill_id": "H.R. 5365",
+            "title": "ENABLE Conservation Act of 2025",
+            "status": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+            "status_date": "2025-12-02",
+            "introduced": "2025-09-15",
+            "url": "https://www.congress.gov/bill/119/house-bill/5365"
+          },
+          {
+            "bill_id": "H.R. 3995",
+            "title": "State Public Option Act",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-06-12",
+            "introduced": "2025-06-12",
+            "url": "https://www.congress.gov/bill/119/house-bill/3995"
+          },
+          {
+            "bill_id": "H.R. 3889",
+            "title": "National Prescribed Fire Act of 2025",
+            "status": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-06-10",
+            "introduced": "2025-06-10",
+            "url": "https://www.congress.gov/bill/119/house-bill/3889"
+          },
+          {
+            "bill_id": "H.R. 3826",
+            "title": "Expanding Access to Diabetes Self-Management Training Act of 2025",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-06-06",
+            "introduced": "2025-06-06",
+            "url": "https://www.congress.gov/bill/119/house-bill/3826"
+          },
+          {
+            "bill_id": "H.R. 3656",
+            "title": "To amend the Agricultural Research, Extension, and Education Reform Act of 1998 to authorize the Secretary of Agriculture to waive the matching funds requirement under the specialty crop research initiative, and for other purposes.",
+            "status": "Referred to the House Committee on Agriculture.",
+            "status_date": "2025-05-29",
+            "introduced": "2025-05-29",
+            "url": "https://www.congress.gov/bill/119/house-bill/3656"
+          },
+          {
+            "bill_id": "H.R. 3657",
+            "title": "Hydropower Licensing Transparency Act",
+            "status": "Became Public Law No: 119-112.",
+            "status_date": "2026-09-25",
+            "introduced": "2025-05-29",
+            "url": "https://www.congress.gov/bill/119/house-bill/3657"
+          },
+          {
+            "bill_id": "H.R. 3568",
+            "title": "AG RESEARCH Act",
+            "status": "Referred to the House Committee on Agriculture.",
+            "status_date": "2025-05-21",
+            "introduced": "2025-05-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/3568"
+          },
+          {
+            "bill_id": "H.R. 2960",
+            "title": "To amend title III of the Public Health Service Act to reauthorize the program of payments to childrens hospitals that operate graduate medical education programs.",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2025-04-17",
+            "introduced": "2025-04-17",
+            "url": "https://www.congress.gov/bill/119/house-bill/2960"
+          },
+          {
+            "bill_id": "H.R. 1433",
+            "title": "Kids’ Access to Primary Care Act of 2025",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2025-02-18",
+            "introduced": "2025-02-18",
+            "url": "https://www.congress.gov/bill/119/house-bill/1433"
+          },
+          {
+            "bill_id": "H.R. 1213",
+            "title": "Forest Data Modernization Act of 2025",
+            "status": "Referred to the House Committee on Agriculture.",
+            "status_date": "2025-02-11",
+            "introduced": "2025-02-11",
+            "url": "https://www.congress.gov/bill/119/house-bill/1213"
+          }
+        ],
+        "shortlist_votes": [
+          {
+            "bill_id": "H.R. 6500",
+            "title": "Continuing Appropriations and Extensions Act, 2027",
+            "category": "federal",
+            "vote": "yea",
+            "chamber": "House",
+            "date": "2026-09-01",
+            "url": "https://www.congress.gov/bill/119/house-bill/6500",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll286.xml",
+            "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments"
+          },
+          {
+            "bill_id": "S 2",
+            "title": "Secure America Act",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-06-09",
+            "url": "https://www.congress.gov/bill/119/senate-bill/2",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll214.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 7147",
+            "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-01-22",
+            "url": "https://www.congress.gov/bill/119/house-bill/7147",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll042.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 7148",
+            "title": "Consolidated Appropriations Act, 2026",
+            "category": "federal",
+            "vote": "yea",
+            "chamber": "House",
+            "date": "2026-02-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/7148",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll053.xml",
+            "question": "On Motion to Concur in the Senate Amendments"
+          },
+          {
+            "bill_id": "H.R. 6938",
+            "title": "Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026",
+            "category": "federal",
+            "vote": "yea",
+            "chamber": "House",
+            "date": "2026-01-08",
+            "url": "https://www.congress.gov/bill/119/house-bill/6938",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll007.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 5371",
+            "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-11-12",
+            "url": "https://www.congress.gov/bill/119/house-bill/5371",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll285.xml",
+            "question": "On Motion to Concur in the Senate Amendment"
+          },
+          {
+            "bill_id": "H.R. 1",
+            "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-07-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/1",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll190.xml",
+            "question": "On Motion to Concur in the Senate Amendment"
+          },
+          {
+            "bill_id": "H.R. 1968",
+            "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-03-11",
+            "url": "https://www.congress.gov/bill/119/house-bill/1968",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll070.xml",
+            "question": "On Passage"
+          }
+        ],
+        "pamphlet_cited_bills": []
+      },
+      "sources": [
+        {
+          "id": "congress-member",
+          "title": "Congress.gov member page: Schrier, Kim",
+          "url": "https://www.congress.gov/member/kim-schrier/S001216",
+          "publisher": "Library of Congress (Congress.gov)",
+          "accessed": "2026-10-17",
+          "kind": "legislative"
+        },
+        {
+          "id": "congress-sponsored",
+          "title": "Sponsored legislation, 119th Congress: Schrier, Kim",
+          "url": "https://www.congress.gov/member/kim-schrier/S001216?q=%7B%22sponsorship%22%3A%22sponsored%22%2C%22congress%22%3A%22119%22%7D",
+          "publisher": "Library of Congress (Congress.gov)",
+          "accessed": "2026-10-17",
+          "kind": "legislative"
+        }
+      ]
+    },
+    "candidate-spencer-meline": {
+      "incumbent": false,
+      "current_office": null,
+      "bioguide": null,
+      "website": null,
+      "record": null,
+      "sources": []
+    },
+    "candidate-adam-smith": {
+      "incumbent": true,
+      "current_office": "U.S. Representative, Washington's 9th Congressional District",
+      "bioguide": "S000510",
+      "website": null,
+      "record": {
+        "as_of": "2026-10-17",
+        "sponsored_bills_url": "https://www.congress.gov/member/adam-smith/S000510?q=%7B%22sponsorship%22%3A%22sponsored%22%2C%22congress%22%3A%22119%22%7D",
+        "sponsored_bills": [
+          {
+            "bill_id": "H.R. 10708",
+            "title": "Immigrants in Nursing and Allied Health Act of 2026",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2026-10-01",
+            "introduced": "2026-10-01",
+            "url": "https://www.congress.gov/bill/119/house-bill/10708"
+          },
+          {
+            "bill_id": "H.R. 10707",
+            "title": "Internationally Trained Physicians Assistance Act of 2026",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-10-01",
+            "introduced": "2026-10-01",
+            "url": "https://www.congress.gov/bill/119/house-bill/10707"
+          },
+          {
+            "bill_id": "H.R. 10077",
+            "title": "Safety Starts at the Top Act of 2026",
+            "status": "Referred to the House Committee on Transportation and Infrastructure.",
+            "status_date": "2026-08-10",
+            "introduced": "2026-08-10",
+            "url": "https://www.congress.gov/bill/119/house-bill/10077"
+          },
+          {
+            "bill_id": "H.R.ES 1468",
+            "title": "Encouraging Congress to pursue reforms to ensure that all United States citizens contribute to funding the operations of the Federal Government in proportion to the economic gains they realize.",
+            "status": "Referred to the House Committee on Ways and Means.",
+            "status_date": "2026-07-30",
+            "introduced": "2026-07-30",
+            "url": "https://www.congress.gov/bill/119/house-resolution/1468"
+          },
+          {
+            "bill_id": "H.R. 9765",
+            "title": "Educators for America Act",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2026-07-16",
+            "introduced": "2026-07-16",
+            "url": "https://www.congress.gov/bill/119/house-bill/9765"
+          },
+          {
+            "bill_id": "H.R. 9766",
+            "title": "Building Community in America Act",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2026-07-16",
+            "introduced": "2026-07-16",
+            "url": "https://www.congress.gov/bill/119/house-bill/9766"
+          },
+          {
+            "bill_id": "H.R. 9657",
+            "title": "Protecting American Homes from Hedge Funds Act",
+            "status": "Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2026-07-13",
+            "introduced": "2026-07-13",
+            "url": "https://www.congress.gov/bill/119/house-bill/9657"
+          },
+          {
+            "bill_id": "H.R. 6281",
+            "title": "CHARGE Act of 2025",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2025-11-21",
+            "introduced": "2025-11-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/6281"
+          },
+          {
+            "bill_id": "H.R. 5859",
+            "title": "Behavioral Health Crisis Care Centers Act of 2025",
+            "status": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-10-28",
+            "introduced": "2025-10-28",
+            "url": "https://www.congress.gov/bill/119/house-bill/5859"
+          },
+          {
+            "bill_id": "H.R. 5807",
+            "title": "Empowering Individuals to Succeed Through Education and Workforce Training Act",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2025-10-21",
+            "introduced": "2025-10-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/5807"
+          },
+          {
+            "bill_id": "H.R. 5806",
+            "title": "Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2025-10-21",
+            "introduced": "2025-10-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/5806"
+          },
+          {
+            "bill_id": "H.R. 5785",
+            "title": "Voluntary Grazing Permit Retirement Act of 2025",
+            "status": "Referred to the House Committee on Natural Resources.",
+            "status_date": "2025-10-17",
+            "introduced": "2025-10-17",
+            "url": "https://www.congress.gov/bill/119/house-bill/5785"
+          },
+          {
+            "bill_id": "H.R. 5532",
+            "title": "To direct the Secretary of Education to establish a program to facilitate the transition to tuition-free community college in certain States, and for other purposes.",
+            "status": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-09-19",
+            "introduced": "2025-09-19",
+            "url": "https://www.congress.gov/bill/119/house-bill/5532"
+          },
+          {
+            "bill_id": "H.R. 5531",
+            "title": "Career and Technical Education Access Act",
+            "status": "Referred to the House Committee on Education and Workforce.",
+            "status_date": "2025-09-19",
+            "introduced": "2025-09-19",
+            "url": "https://www.congress.gov/bill/119/house-bill/5531"
+          },
+          {
+            "bill_id": "H.R. 5492",
+            "title": "PAAF Act",
+            "status": "Referred to the House Committee on the Judiciary.",
+            "status_date": "2025-09-18",
+            "introduced": "2025-09-18",
+            "url": "https://www.congress.gov/bill/119/house-bill/5492"
+          },
+          {
+            "bill_id": "H.R. 5057",
+            "title": "Expanding Service Coordinators Act of 2025",
+            "status": "Referred to the Committee on Financial Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+            "status_date": "2025-08-26",
+            "introduced": "2025-08-26",
+            "url": "https://www.congress.gov/bill/119/house-bill/5057"
+          },
+          {
+            "bill_id": "H.R. 4383",
+            "title": "Sound Insulation Treatment Repair and Replacement Program Act",
+            "status": "Referred to the Subcommittee on Aviation.",
+            "status_date": "2025-07-15",
+            "introduced": "2025-07-14",
+            "url": "https://www.congress.gov/bill/119/house-bill/4383"
+          },
+          {
+            "bill_id": "H.R. 3658",
+            "title": "911 Community Crisis Responders Act of 2025",
+            "status": "Referred to the House Committee on Energy and Commerce.",
+            "status_date": "2025-05-29",
+            "introduced": "2025-05-29",
+            "url": "https://www.congress.gov/bill/119/house-bill/3658"
+          },
+          {
+            "bill_id": "H.R. 3569",
+            "title": "Fit to Serve Act",
+            "status": "Referred to the House Committee on Armed Services.",
+            "status_date": "2025-05-21",
+            "introduced": "2025-05-21",
+            "url": "https://www.congress.gov/bill/119/house-bill/3569"
+          },
+          {
+            "bill_id": "H.R.ES 268",
+            "title": "Of inquiry requesting the President and directing the Secretary of Defense to transmit information to the House of Representatives relating to certain military activities against the Houthis and information referring or relating to certain laws and certain policies, guidance, instructions, standards, practices, and procedures of the Department of Defense applicable to the control, communication, transmission, or delivery of classified or sensitive information.",
+            "status": "Referred to the House Committee on Armed Services.",
+            "status_date": "2025-03-27",
+            "introduced": "2025-03-27",
+            "url": "https://www.congress.gov/bill/119/house-resolution/268"
+          },
+          {
+            "bill_id": "H.R. 1745",
+            "title": "HOPE for Homeownership Act",
+            "status": "Referred to the House Committee on Ways and Means.",
+            "status_date": "2025-02-27",
+            "introduced": "2025-02-27",
+            "url": "https://www.congress.gov/bill/119/house-bill/1745"
+          },
+          {
+            "bill_id": "H.R. 897",
+            "title": "Aviation-Impacted Communities Act",
+            "status": "Referred to the Subcommittee on Aviation.",
+            "status_date": "2025-02-01",
+            "introduced": "2025-01-31",
+            "url": "https://www.congress.gov/bill/119/house-bill/897"
+          },
+          {
+            "bill_id": "H.R. 898",
+            "title": "Aviation Noise and Emissions Mitigation Act",
+            "status": "Referred to the Subcommittee on Aviation.",
+            "status_date": "2025-02-01",
+            "introduced": "2025-01-31",
+            "url": "https://www.congress.gov/bill/119/house-bill/898"
+          }
+        ],
+        "shortlist_votes": [
+          {
+            "bill_id": "H.R. 6500",
+            "title": "Continuing Appropriations and Extensions Act, 2027",
+            "category": "federal",
+            "vote": "absent",
+            "chamber": "House",
+            "date": "2026-09-01",
+            "url": "https://www.congress.gov/bill/119/house-bill/6500",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll286.xml",
+            "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments"
+          },
+          {
+            "bill_id": "S 2",
+            "title": "Secure America Act",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-06-09",
+            "url": "https://www.congress.gov/bill/119/senate-bill/2",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll214.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 7147",
+            "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-01-22",
+            "url": "https://www.congress.gov/bill/119/house-bill/7147",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll042.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 7148",
+            "title": "Consolidated Appropriations Act, 2026",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2026-02-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/7148",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll053.xml",
+            "question": "On Motion to Concur in the Senate Amendments"
+          },
+          {
+            "bill_id": "H.R. 6938",
+            "title": "Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026",
+            "category": "federal",
+            "vote": "yea",
+            "chamber": "House",
+            "date": "2026-01-08",
+            "url": "https://www.congress.gov/bill/119/house-bill/6938",
+            "roll_call_url": "https://clerk.house.gov/evs/2026/roll007.xml",
+            "question": "On Passage"
+          },
+          {
+            "bill_id": "H.R. 5371",
+            "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-11-12",
+            "url": "https://www.congress.gov/bill/119/house-bill/5371",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll285.xml",
+            "question": "On Motion to Concur in the Senate Amendment"
+          },
+          {
+            "bill_id": "H.R. 1",
+            "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-07-03",
+            "url": "https://www.congress.gov/bill/119/house-bill/1",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll190.xml",
+            "question": "On Motion to Concur in the Senate Amendment"
+          },
+          {
+            "bill_id": "H.R. 1968",
+            "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+            "category": "federal",
+            "vote": "nay",
+            "chamber": "House",
+            "date": "2025-03-11",
+            "url": "https://www.congress.gov/bill/119/house-bill/1968",
+            "roll_call_url": "https://clerk.house.gov/evs/2025/roll070.xml",
+            "question": "On Passage"
+          }
+        ],
+        "pamphlet_cited_bills": []
+      },
+      "sources": [
+        {
+          "id": "congress-member",
+          "title": "Congress.gov member page: Smith, Adam",
+          "url": "https://www.congress.gov/member/adam-smith/S000510",
+          "publisher": "Library of Congress (Congress.gov)",
+          "accessed": "2026-10-17",
+          "kind": "legislative"
+        },
+        {
+          "id": "congress-sponsored",
+          "title": "Sponsored legislation, 119th Congress: Smith, Adam",
+          "url": "https://www.congress.gov/member/adam-smith/S000510?q=%7B%22sponsorship%22%3A%22sponsored%22%2C%22congress%22%3A%22119%22%7D",
+          "publisher": "Library of Congress (Congress.gov)",
+          "accessed": "2026-10-17",
+          "kind": "legislative"
+        }
+      ]
+    },
+    "candidate-doug-basler": {
+      "incumbent": false,
+      "current_office": null,
+      "bioguide": null,
+      "website": null,
+      "record": null,
+      "sources": []
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "candidate-suzan-delbene",
+  "checked": "2026-10-17",
+  "finance": {
+    "source": "fec",
+    "filer_id": "H0WA08046",
+    "filer_name": "DELBENE, SUZAN K",
+    "committee_id": "C00459099",
+    "pdc_url": "https://www.fec.gov/data/candidate/H0WA08046/?cycle=2026",
+    "total_raised": 4130100.81,
+    "total_spent": 4230550.68,
+    "cash_on_hand": 963270.74,
+    "as_of": "2026-09-30",
+    "last_report": "OCTOBER QUARTERLY",
+    "top_contributors": [
+      {
+        "name": "DELBENE DEMOCRATIC MAJORITY FUND",
+        "amount": 283617.0,
+        "count": 5,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "SCREEN STRATEGIES MEDIA",
+        "amount": 12059.45,
+        "count": 1,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "LABORERS' INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "NEW YORK LIFE INSURANCE COMPANY POLITICAL ACTION COMMITTEE",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
+    "small_donor_share": 0.221,
+    "small_donor_note": "share of total receipts reported as unitemized individual contributions (gifts of $200 or less)",
+    "incumbent_challenge": "I"
+  }
+}

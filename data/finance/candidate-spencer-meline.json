@@ -1,0 +1,57 @@
+{
+  "slug": "candidate-spencer-meline",
+  "checked": "2026-10-17",
+  "finance": {
+    "source": "fec",
+    "filer_id": "H6WA08167",
+    "filer_name": "MELINE, SPENCER HARRISON",
+    "committee_id": "C00938050",
+    "pdc_url": "https://www.fec.gov/data/candidate/H6WA08167/?cycle=2026",
+    "total_raised": 154328.63,
+    "total_spent": 53330.34,
+    "cash_on_hand": 100998.29,
+    "as_of": "2026-09-30",
+    "last_report": "OCTOBER QUARTERLY",
+    "top_contributors": [
+      {
+        "name": "MELINE, SPENCER HARRISON",
+        "amount": 70000.0,
+        "count": 2,
+        "employer": "SELF",
+        "occupation": "BUSINESS OWNER"
+      },
+      {
+        "name": "MELINE, SPENCER",
+        "amount": 15010.0,
+        "count": 2,
+        "employer": "SELF",
+        "occupation": "BUSINESS OWNER"
+      },
+      {
+        "name": "MELINE SERVICES",
+        "amount": 6500.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "CHRISTIANSEN, LAUREL",
+        "amount": 5000.0,
+        "count": 3,
+        "employer": "RETIRED",
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "LITTRELL, ELIZABETH",
+        "amount": 4000.0,
+        "count": 2,
+        "employer": "UNIFIED DOOR AND HARDWARE",
+        "occupation": "ACCOUNTS PAYABLE"
+      }
+    ],
+    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
+    "small_donor_share": 0.031,
+    "small_donor_note": "share of total receipts reported as unitemized individual contributions (gifts of $200 or less)",
+    "incumbent_challenge": "C"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "candidate-adam-smith",
+  "checked": "2026-10-17",
+  "finance": {
+    "source": "fec",
+    "filer_id": "H6WA09025",
+    "filer_name": "SMITH, D. ADAM",
+    "committee_id": "C00304709",
+    "pdc_url": "https://www.fec.gov/data/candidate/H6WA09025/?cycle=2026",
+    "total_raised": 2119801.39,
+    "total_spent": 2075036.85,
+    "cash_on_hand": 615517.36,
+    "as_of": "2026-09-30",
+    "last_report": "OCTOBER QUARTERLY",
+    "top_contributors": [
+      {
+        "name": "ALLHASSANI, MEHDI",
+        "amount": 14000.0,
+        "count": 2,
+        "employer": "PALANTIR TECHNOLOGIES",
+        "occupation": "MANAGER"
+      },
+      {
+        "name": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ PC PAC",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
+    "small_donor_share": 0.053,
+    "small_donor_note": "share of total receipts reported as unitemized individual contributions (gifts of $200 or less)",
+    "incumbent_challenge": "I"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "candidate-pramila-jayapal",
+  "checked": "2026-10-17",
+  "finance": {
+    "source": "fec",
+    "filer_id": "H6WA07458",
+    "filer_name": "JAYAPAL, PRAMILA",
+    "committee_id": "C00605592",
+    "pdc_url": "https://www.fec.gov/data/candidate/H6WA07458/?cycle=2026",
+    "total_raised": 2851517.32,
+    "total_spent": 3096286.36,
+    "cash_on_hand": 1767955.73,
+    "as_of": "2026-09-30",
+    "last_report": "OCTOBER QUARTERLY",
+    "top_contributors": [
+      {
+        "name": "PRAMILA'S PROGRESSIVE POWER PAC",
+        "amount": 59750.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "ROMEIN, STEVE",
+        "amount": 14000.0,
+        "count": 2,
+        "employer": "NOT EMPLOYED",
+        "occupation": "NOT EMPLOYED"
+      },
+      {
+        "name": "INTL UNION OF BRICKLAYERS & ALLIED CRAFTWORKERS PAC",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "INDIVISIBLE ACTION",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "UAW - V - CAP (UAW VOLUNTARY COMMUNITY ACTION PROGRAM)",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      }
+    ],
+    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
+    "small_donor_share": 0.392,
+    "small_donor_note": "share of total receipts reported as unitemized individual contributions (gifts of $200 or less)",
+    "incumbent_challenge": "I"
+  }
+}

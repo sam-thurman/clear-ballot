@@ -1,0 +1,263 @@
+{
+  "rule": "For US House members we show the final-passage House roll-call votes on the appropriations and budget-reconciliation measures enacted during the 119th Congress (2025-26). The list is built automatically from the Congress.gov public-law list: a law qualifies if any of its titles contains 'Appropriations Act', begins 'Making ... appropriations', or says 'provide for reconciliation'. Bills that merely authorize appropriations (such as the defense authorization act) do not qualify. For each, we take the last passage-type House vote (passage, concurrence in the Senate amendment, or agreeing to the conference report), as recorded by the Clerk of the House, with a link to the roll call. Any bill a candidate cites by number in their own Voters' Pamphlet statement is added. Sponsored bills are every measure the member introduced in the 119th Congress.",
+  "congress": 119,
+  "as_of": "2026-10-17",
+  "bills": [
+    {
+      "type": "HR",
+      "number": "6500",
+      "title": "Continuing Appropriations and Extensions Act, 2027",
+      "laws": [
+        {
+          "number": "119-103",
+          "type": "Public Law"
+        }
+      ],
+      "url": "https://www.congress.gov/bill/119/house-bill/6500",
+      "law_numbers": [
+        "119-103"
+      ],
+      "house_vote": {
+        "congress": 119,
+        "identifier": 11922026286,
+        "legislationNumber": "6500",
+        "legislationType": "HR",
+        "legislationUrl": "https://www.congress.gov/bill/119/house-bill/6500",
+        "result": "Passed",
+        "rollCallNumber": 286,
+        "sessionNumber": 2,
+        "sourceDataURL": "https://clerk.house.gov/evs/2026/roll286.xml",
+        "startDate": "2026-09-01T14:03:00-04:00",
+        "updateDate": "2026-09-02T13:38:22-04:00",
+        "url": "https://api.congress.gov/v3/house-vote/119/2/286",
+        "voteType": "2/3 Yea-And-Nay",
+        "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+        "date": "2026-09-01"
+      }
+    },
+    {
+      "type": "S",
+      "number": "2",
+      "title": "Secure America Act",
+      "laws": [
+        {
+          "number": "119-98",
+          "type": "Public Law"
+        }
+      ],
+      "url": "https://www.congress.gov/bill/119/senate-bill/2",
+      "law_numbers": [
+        "119-98"
+      ],
+      "house_vote": {
+        "congress": 119,
+        "identifier": 11922026214,
+        "legislationNumber": "2",
+        "legislationType": "S",
+        "legislationUrl": "https://www.congress.gov/bill/119/senate-bill/2",
+        "result": "Passed",
+        "rollCallNumber": 214,
+        "sessionNumber": 2,
+        "sourceDataURL": "https://clerk.house.gov/evs/2026/roll214.xml",
+        "startDate": "2026-06-09T17:23:00-04:00",
+        "updateDate": "2026-06-10T16:39:16-04:00",
+        "url": "https://api.congress.gov/v3/house-vote/119/2/214",
+        "voteType": "Recorded Vote",
+        "question": "On Passage",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "type": "HR",
+      "number": "7147",
+      "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+      "laws": [
+        {
+          "number": "119-86",
+          "type": "Public Law"
+        }
+      ],
+      "url": "https://www.congress.gov/bill/119/house-bill/7147",
+      "law_numbers": [
+        "119-86"
+      ],
+      "house_vote": {
+        "congress": 119,
+        "identifier": 1192202642,
+        "legislationNumber": "7147",
+        "legislationType": "HR",
+        "legislationUrl": "https://www.congress.gov/bill/119/house-bill/7147",
+        "result": "Passed",
+        "rollCallNumber": 42,
+        "sessionNumber": 2,
+        "sourceDataURL": "https://clerk.house.gov/evs/2026/roll042.xml",
+        "startDate": "2026-01-22T16:41:00-05:00",
+        "updateDate": "2026-01-23T16:38:17-05:00",
+        "url": "https://api.congress.gov/v3/house-vote/119/2/42",
+        "voteType": "Yea-and-Nay",
+        "question": "On Passage",
+        "date": "2026-01-22"
+      }
+    },
+    {
+      "type": "HR",
+      "number": "7148",
+      "title": "Consolidated Appropriations Act, 2026",
+      "laws": [
+        {
+          "number": "119-75",
+          "type": "Public Law"
+        }
+      ],
+      "url": "https://www.congress.gov/bill/119/house-bill/7148",
+      "law_numbers": [
+        "119-75"
+      ],
+      "house_vote": {
+        "congress": 119,
+        "identifier": 1192202653,
+        "legislationNumber": "7148",
+        "legislationType": "HR",
+        "legislationUrl": "https://www.congress.gov/bill/119/house-bill/7148",
+        "result": "Passed",
+        "rollCallNumber": 53,
+        "sessionNumber": 2,
+        "sourceDataURL": "https://clerk.house.gov/evs/2026/roll053.xml",
+        "startDate": "2026-02-03T14:09:00-05:00",
+        "updateDate": "2026-02-04T14:08:15-05:00",
+        "url": "https://api.congress.gov/v3/house-vote/119/2/53",
+        "voteType": "Yea-and-Nay",
+        "question": "On Motion to Concur in the Senate Amendments",
+        "date": "2026-02-03"
+      }
+    },
+    {
+      "type": "HR",
+      "number": "6938",
+      "title": "Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026",
+      "laws": [
+        {
+          "number": "119-74",
+          "type": "Public Law"
+        }
+      ],
+      "url": "https://www.congress.gov/bill/119/house-bill/6938",
+      "law_numbers": [
+        "119-74"
+      ],
+      "house_vote": {
+        "congress": 119,
+        "identifier": 119220267,
+        "legislationNumber": "6938",
+        "legislationType": "HR",
+        "legislationUrl": "https://www.congress.gov/bill/119/house-bill/6938",
+        "result": "Passed",
+        "rollCallNumber": 7,
+        "sessionNumber": 2,
+        "sourceDataURL": "https://clerk.house.gov/evs/2026/roll007.xml",
+        "startDate": "2026-01-08T15:10:00-05:00",
+        "updateDate": "2026-01-09T14:38:46-05:00",
+        "url": "https://api.congress.gov/v3/house-vote/119/2/7",
+        "voteType": "Yea-and-Nay",
+        "question": "On Passage",
+        "date": "2026-01-08"
+      }
+    },
+    {
+      "type": "HR",
+      "number": "5371",
+      "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+      "laws": [
+        {
+          "number": "119-37",
+          "type": "Public Law"
+        }
+      ],
+      "url": "https://www.congress.gov/bill/119/house-bill/5371",
+      "law_numbers": [
+        "119-37"
+      ],
+      "house_vote": {
+        "congress": 119,
+        "identifier": 11912025285,
+        "legislationNumber": "5371",
+        "legislationType": "HR",
+        "legislationUrl": "https://www.congress.gov/bill/119/house-bill/5371",
+        "result": "Passed",
+        "rollCallNumber": 285,
+        "sessionNumber": 1,
+        "sourceDataURL": "https://clerk.house.gov/evs/2025/roll285.xml",
+        "startDate": "2025-11-12T20:21:00-05:00",
+        "updateDate": "2025-12-19T09:51:26-05:00",
+        "url": "https://api.congress.gov/v3/house-vote/119/1/285",
+        "voteType": "Yea-and-Nay",
+        "question": "On Motion to Concur in the Senate Amendment",
+        "date": "2025-11-12"
+      }
+    },
+    {
+      "type": "HR",
+      "number": "1",
+      "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+      "laws": [
+        {
+          "number": "119-21",
+          "type": "Public Law"
+        }
+      ],
+      "url": "https://www.congress.gov/bill/119/house-bill/1",
+      "law_numbers": [
+        "119-21"
+      ],
+      "house_vote": {
+        "congress": 119,
+        "identifier": 11912025190,
+        "legislationNumber": "1",
+        "legislationType": "HR",
+        "legislationUrl": "https://www.congress.gov/bill/119/house-bill/1",
+        "result": "Passed",
+        "rollCallNumber": 190,
+        "sessionNumber": 1,
+        "sourceDataURL": "https://clerk.house.gov/evs/2025/roll190.xml",
+        "startDate": "2025-07-03T14:31:00-04:00",
+        "updateDate": "2026-04-16T09:37:21-04:00",
+        "url": "https://api.congress.gov/v3/house-vote/119/1/190",
+        "voteType": "Recorded Vote",
+        "question": "On Motion to Concur in the Senate Amendment",
+        "date": "2025-07-03"
+      }
+    },
+    {
+      "type": "HR",
+      "number": "1968",
+      "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+      "laws": [
+        {
+          "number": "119-4",
+          "type": "Public Law"
+        }
+      ],
+      "url": "https://www.congress.gov/bill/119/house-bill/1968",
+      "law_numbers": [
+        "119-4"
+      ],
+      "house_vote": {
+        "congress": 119,
+        "identifier": 1191202570,
+        "legislationNumber": "1968",
+        "legislationType": "HR",
+        "legislationUrl": "https://www.congress.gov/bill/119/house-bill/1968",
+        "result": "Passed",
+        "rollCallNumber": 70,
+        "sessionNumber": 1,
+        "sourceDataURL": "https://clerk.house.gov/evs/2025/roll070.xml",
+        "startDate": "2025-03-11T17:45:00-04:00",
+        "updateDate": "2025-06-24T08:52:06-04:00",
+        "url": "https://api.congress.gov/v3/house-vote/119/1/70",
+        "voteType": "Yea-and-Nay",
+        "question": "On Passage",
+        "date": "2025-03-11"
+      }
+    }
+  ]
+}

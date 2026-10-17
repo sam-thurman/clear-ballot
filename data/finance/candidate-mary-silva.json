@@ -1,0 +1,57 @@
+{
+  "slug": "candidate-mary-silva",
+  "checked": "2026-10-17",
+  "finance": {
+    "source": "fec",
+    "filer_id": "H4WA01282",
+    "filer_name": "SILVA, MARY",
+    "committee_id": "C00870782",
+    "pdc_url": "https://www.fec.gov/data/candidate/H4WA01282/?cycle=2026",
+    "total_raised": 8433.7,
+    "total_spent": 7435.97,
+    "cash_on_hand": 1253.86,
+    "as_of": "2026-09-30",
+    "last_report": "OCTOBER QUARTERLY",
+    "top_contributors": [
+      {
+        "name": "SILVA, MARY",
+        "amount": 5629.03,
+        "count": 10,
+        "employer": "PUGET SOUND HEARING AID & AUDI",
+        "occupation": "AUDIOLOGIST"
+      },
+      {
+        "name": "BRENNAN, KATHERINE",
+        "amount": 1000.0,
+        "count": 1,
+        "employer": "RETIRED",
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "GELDENHUYS, ALLAN",
+        "amount": 250.0,
+        "count": 1,
+        "employer": "N/A",
+        "occupation": "RETIRED"
+      },
+      {
+        "name": "QUANTRILLE, BILL",
+        "amount": 250.0,
+        "count": 1,
+        "employer": "VAMC",
+        "occupation": "CLAIMS CLERK"
+      },
+      {
+        "name": "LUND, SUSAN READE",
+        "amount": 250.0,
+        "count": 1,
+        "employer": "N/A",
+        "occupation": "N/A"
+      }
+    ],
+    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
+    "small_donor_share": 0.125,
+    "small_donor_note": "share of total receipts reported as unitemized individual contributions (gifts of $200 or less)",
+    "incumbent_challenge": "C"
+  }
+}
