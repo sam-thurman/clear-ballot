@@ -1,0 +1,23 @@
+{
+  "_comment": "Citation domain allowlist. Subdomains of a listed host are allowed. Extending this list is a deliberate edit with a commit message explaining why. See SCOPE.md 'Data sources'.",
+  "official": [
+    "sos.wa.gov", "votewa.gov",
+    "kingcounty.gov",
+    "ofm.wa.gov",
+    "leg.wa.gov",
+    "courts.wa.gov"
+  ],
+  "finance": [
+    "pdc.wa.gov", "data.wa.gov",
+    "fec.gov", "open.fec.gov"
+  ],
+  "legislative": [
+    "congress.gov", "clerk.house.gov", "leg.wa.gov"
+  ],
+  "news": [
+    "seattletimes.com", "cascadepbs.org", "kuow.org", "washingtonstatestandard.com",
+    "spokesman.com", "apnews.com", "publicola.com", "thestranger.com", "ballotpedia.org"
+  ],
+  "candidate-site": "any host; allowed only for the candidate's own stated positions and biography, attributed as the candidate's claim",
+  "endorsement": "any host; must be the endorsing organization's own published endorsement page"
+}

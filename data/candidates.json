@@ -1,0 +1,709 @@
+[
+  {
+    "slug": "candidate-suzan-delbene",
+    "name": "Suzan DelBene",
+    "contest": "contest-us-house-cd-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-mary-silva",
+    "name": "Mary Silva",
+    "contest": "contest-us-house-cd-1",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-pramila-jayapal",
+    "name": "Pramila Jayapal",
+    "contest": "contest-us-house-cd-7",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-nirav-sheth",
+    "name": "Nirav Sheth",
+    "contest": "contest-us-house-cd-7",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-kim-schrier",
+    "name": "Kim Schrier",
+    "contest": "contest-us-house-cd-8",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-spencer-meline",
+    "name": "Spencer Meline",
+    "contest": "contest-us-house-cd-8",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-adam-smith",
+    "name": "Adam Smith",
+    "contest": "contest-us-house-cd-9",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-doug-basler",
+    "name": "Doug Basler",
+    "contest": "contest-us-house-cd-9",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-davina-duerr",
+    "name": "Davina Duerr",
+    "contest": "contest-ld-1-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-maggie-wang",
+    "name": "Maggie Wang",
+    "contest": "contest-ld-1-rep-pos-1",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-shelley-kloba",
+    "name": "Shelley Kloba",
+    "contest": "contest-ld-1-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-cliff-moon",
+    "name": "Cliff Moon",
+    "contest": "contest-ld-1-rep-pos-2",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-zach-hall",
+    "name": "Zach Hall",
+    "contest": "contest-ld-5-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-michelle-bennett",
+    "name": "Michelle Bennett",
+    "contest": "contest-ld-5-rep-pos-1",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-lisa-callan",
+    "name": "Lisa Callan",
+    "contest": "contest-ld-5-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-patrick-peacock",
+    "name": "Patrick Peacock",
+    "contest": "contest-ld-5-rep-pos-2",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-david-hackney",
+    "name": "David Hackney",
+    "contest": "contest-ld-11-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-ashley-fedan",
+    "name": "Ashley Fedan",
+    "contest": "contest-ld-11-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-steve-bergquist",
+    "name": "Steve Bergquist",
+    "contest": "contest-ld-11-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-brian-burnett",
+    "name": "Brian Burnett",
+    "contest": "contest-ld-12-rep-pos-1",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-stacy-willoughby",
+    "name": "Stacy Willoughby",
+    "contest": "contest-ld-12-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-mike-steele",
+    "name": "Mike Steele",
+    "contest": "contest-ld-12-rep-pos-2",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-maggie-adams",
+    "name": "Maggie Adams",
+    "contest": "contest-ld-12-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-claire-wilson",
+    "name": "Claire Wilson",
+    "contest": "contest-ld-30-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-michael-rutland",
+    "name": "Michael Rutland",
+    "contest": "contest-ld-30-senator",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-jamila-e-taylor",
+    "name": "Jamila E. Taylor",
+    "contest": "contest-ld-30-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-tiffany-bowyer",
+    "name": "Tiffany Bowyer",
+    "contest": "contest-ld-30-rep-pos-1",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-kristine-reeves",
+    "name": "Kristine Reeves",
+    "contest": "contest-ld-30-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-paul-mcdaniel",
+    "name": "Paul McDaniel",
+    "contest": "contest-ld-30-rep-pos-2",
+    "party_preference": "Prefers Independent Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-phil-fortunato",
+    "name": "Phil Fortunato",
+    "contest": "contest-ld-31-senator",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-tamara-stramel",
+    "name": "Tamara Stramel",
+    "contest": "contest-ld-31-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-drew-stokesbary",
+    "name": "Drew Stokesbary",
+    "contest": "contest-ld-31-rep-pos-1",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-stephen-szczurko-walton",
+    "name": "Stephen Szczurko-Walton",
+    "contest": "contest-ld-31-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-joshua-penner",
+    "name": "Joshua Penner",
+    "contest": "contest-ld-31-rep-pos-2",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-john-bielka",
+    "name": "John Bielka",
+    "contest": "contest-ld-31-rep-pos-2",
+    "party_preference": "Prefers Democrat Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-cindy-ryu",
+    "name": "Cindy Ryu",
+    "contest": "contest-ld-32-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-jesse-salomon",
+    "name": "Jesse Salomon",
+    "contest": "contest-ld-32-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-keith-scully",
+    "name": "Keith Scully",
+    "contest": "contest-ld-32-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-danica-noble",
+    "name": "Danica Noble",
+    "contest": "contest-ld-32-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-lauren-davis",
+    "name": "Lauren Davis",
+    "contest": "contest-ld-32-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-imraan-siddiqi",
+    "name": "Imraan Siddiqi",
+    "contest": "contest-ld-32-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-tina-l-orwall",
+    "name": "Tina L. Orwall",
+    "contest": "contest-ld-33-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-edwin-obras",
+    "name": "Edwin Obras",
+    "contest": "contest-ld-33-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-chris-martinez",
+    "name": "Chris Martinez",
+    "contest": "contest-ld-33-rep-pos-1",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-mia-su-ling-gregerson",
+    "name": "Mia Su-Ling Gregerson",
+    "contest": "contest-ld-33-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-yuri-marinchik",
+    "name": "Yuri Marinchik",
+    "contest": "contest-ld-33-rep-pos-2",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-emily-alvarado",
+    "name": "Emily Alvarado",
+    "contest": "contest-ld-34-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-brianna-k-thomas",
+    "name": "Brianna K. Thomas",
+    "contest": "contest-ld-34-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-joe-fitzgibbon",
+    "name": "Joe Fitzgibbon",
+    "contest": "contest-ld-34-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-mary-anito",
+    "name": "Mary Anito",
+    "contest": "contest-ld-34-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-noel-c-frame",
+    "name": "Noel C. Frame",
+    "contest": "contest-ld-36-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-jillian-england",
+    "name": "Jillian England",
+    "contest": "contest-ld-36-senator",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-julia-grant-reed",
+    "name": "Julia Grant Reed",
+    "contest": "contest-ld-36-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-liz-berry",
+    "name": "Liz Berry",
+    "contest": "contest-ld-36-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-chipalo-street",
+    "name": "Chipalo Street",
+    "contest": "contest-ld-37-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-tatiana-brown",
+    "name": "Tatiana Brown",
+    "contest": "contest-ld-37-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-kelabe-tewolde",
+    "name": "Kelabe Tewolde",
+    "contest": "contest-ld-37-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-sharon-tomiko-santos",
+    "name": "Sharon Tomiko Santos",
+    "contest": "contest-ld-37-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-jaelynn-scott",
+    "name": "Jaelynn Scott",
+    "contest": "contest-ld-37-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-evon-mccorkle",
+    "name": "Evon McCorkle",
+    "contest": "contest-ld-37-rep-pos-2",
+    "party_preference": "Prefers Independent Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-janice-zahn",
+    "name": "Janice Zahn",
+    "contest": "contest-ld-41-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-elle-nguyen",
+    "name": "Elle Nguyen",
+    "contest": "contest-ld-41-rep-pos-1",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-my-linh-t-thai",
+    "name": "My-Linh T Thai",
+    "contest": "contest-ld-41-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-michael-rosen",
+    "name": "Michael Rosen",
+    "contest": "contest-ld-41-rep-pos-2",
+    "party_preference": "Prefers Independent Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-jamie-pedersen",
+    "name": "Jamie Pedersen",
+    "contest": "contest-ld-43-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-hannah-sabio-howell",
+    "name": "Hannah Sabio-Howell",
+    "contest": "contest-ld-43-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-nicole-macri",
+    "name": "Nicole Macri",
+    "contest": "contest-ld-43-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-alby-clendennin",
+    "name": "Alby Clendennin",
+    "contest": "contest-ld-43-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-shaun-scott",
+    "name": "Shaun Scott",
+    "contest": "contest-ld-43-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-manka-dhingra",
+    "name": "Manka Dhingra",
+    "contest": "contest-ld-45-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-roger-goodman",
+    "name": "Roger Goodman",
+    "contest": "contest-ld-45-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-joann-tolentino",
+    "name": "JoAnn Tolentino",
+    "contest": "contest-ld-45-rep-pos-1",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-vanessa-kritzer",
+    "name": "Vanessa Kritzer",
+    "contest": "contest-ld-45-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-john-p-gibbons",
+    "name": "John P Gibbons",
+    "contest": "contest-ld-45-rep-pos-2",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-javier-valdez",
+    "name": "Javier Valdez",
+    "contest": "contest-ld-46-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-sandra-stephens",
+    "name": "Sandra Stephens",
+    "contest": "contest-ld-46-senator",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-gerry-pollet",
+    "name": "Gerry Pollet",
+    "contest": "contest-ld-46-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-will-dreher",
+    "name": "Will Dreher",
+    "contest": "contest-ld-46-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-darya-farivar",
+    "name": "Darya Farivar",
+    "contest": "contest-ld-46-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-rodney-star-thornley",
+    "name": "Rodney 'Star' Thornley",
+    "contest": "contest-ld-46-rep-pos-2",
+    "party_preference": "Prefers Independent Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-claudia-kauffman",
+    "name": "Claudia Kauffman",
+    "contest": "contest-ld-47-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-kristina-soltys",
+    "name": "Kristina Soltys",
+    "contest": "contest-ld-47-senator",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-debra-jean-entenman",
+    "name": "Debra Jean Entenman",
+    "contest": "contest-ld-47-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-cobi-clark",
+    "name": "Cobi Clark",
+    "contest": "contest-ld-47-rep-pos-1",
+    "party_preference": "Prefers Libertarian Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-chris-stearns",
+    "name": "Chris Stearns",
+    "contest": "contest-ld-47-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-ted-cooke",
+    "name": "Ted Cooke",
+    "contest": "contest-ld-47-rep-pos-2",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-vandana-slatter",
+    "name": "Vandana Slatter",
+    "contest": "contest-ld-48-senator",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-osman-salahuddin",
+    "name": "Osman Salahuddin",
+    "contest": "contest-ld-48-rep-pos-1",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-jeffery-poppe",
+    "name": "Jeffery Poppe",
+    "contest": "contest-ld-48-rep-pos-1",
+    "party_preference": "Prefers Republican Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-jessica-forsythe",
+    "name": "Jessica Forsythe",
+    "contest": "contest-ld-48-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-amy-walen",
+    "name": "Amy Walen",
+    "contest": "contest-ld-48-rep-pos-2",
+    "party_preference": "Prefers Democratic Party",
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-colleen-melody",
+    "name": "Colleen Melody",
+    "contest": "contest-supreme-court-pos-1",
+    "party_preference": null,
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-scott-edwards",
+    "name": "Scott Edwards",
+    "contest": "contest-supreme-court-pos-1",
+    "party_preference": null,
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-david-stevens",
+    "name": "David Stevens",
+    "contest": "contest-supreme-court-pos-3",
+    "party_preference": null,
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-jaime-michelle-hawk",
+    "name": "Jaime Michelle Hawk",
+    "contest": "contest-supreme-court-pos-3",
+    "party_preference": null,
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-ian-birk",
+    "name": "Ian Birk",
+    "contest": "contest-supreme-court-pos-4",
+    "party_preference": null,
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-sean-odonnell",
+    "name": "Sean O'Donnell",
+    "contest": "contest-supreme-court-pos-4",
+    "party_preference": null,
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-theo-angelis",
+    "name": "Theo Angelis",
+    "contest": "contest-supreme-court-pos-5",
+    "party_preference": null,
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-dave-larson",
+    "name": "Dave Larson",
+    "contest": "contest-supreme-court-pos-5",
+    "party_preference": null,
+    "ballot_order": 2
+  },
+  {
+    "slug": "candidate-debra-l-stephens",
+    "name": "Debra L. Stephens",
+    "contest": "contest-supreme-court-pos-7",
+    "party_preference": null,
+    "ballot_order": 1
+  },
+  {
+    "slug": "candidate-todd-a-bloom",
+    "name": "Todd A. Bloom",
+    "contest": "contest-supreme-court-pos-7",
+    "party_preference": null,
+    "ballot_order": 2
+  }
+]

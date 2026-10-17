@@ -1,0 +1,435 @@
+SOURCE: Washington State Voters' Pamphlet, 2026 General Election, Edition 04 (King - Seattle)
+URL: https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf
+PAGES: 9-14
+PUBLISHER: Washington Secretary of State
+RETRIEVED: 2026-10-17
+
+Initiative Measure IP26-645
+Initiative Measure No. IP26-645 concerns state and local taxes.
+This measure would repeal a 9.9% tax on annual individual
+income over $1,000,000; prohibit taxes measured by individual
+income and taxes on individual income or the receipt of
+individual income; and define “income.” This measure would
+decrease funding for public K-12 education, higher education
+(including universities and community colleges), and human
+services (primarily healthcare).
+Should this measure be enacted into law?
+[   ]  Yes
+[   ]  No
+Explanatory Statement
+10
+Fiscal Impact Statement
+10
+Arguments For and Against
+14
+IP26-645
+Initiative Measure
+The Secretary of State is not responsible
+for the content of statements or arguments
+(WAC 434-381-180).
+A new method of numbering initiatives and
+referenda is in effect (WAC 434-379-0071).
+
+Explanatory Statement
+Written by the Office of the Attorney General
+Initiative Measure IP26-645
+Summary
+If approved by voters, Initiative Measure No. IP26-645
+will result in an estimated loss to state revenue of $11.4
+billion over state fiscal years 2027-2031. This would
+reduce funding to the state general fund to support core
+government services, particularly public K-12 education,
+higher education (including universities and community
+colleges), and human services (primarily healthcare). The
+Legislature expressed an intent to use the additional
+revenue created by Engrossed Substitute Senate Bill
+6346 (2026) (ESSB 6346) towards providing free school
+meals, transferring funds for childcare and early learning,
+and transferring funds to local governments to mitigate
+sales tax loss.
+Fiscal Impact Statement
+Written by the Office of Financial Management
+For more information visit www
+ofm
+wa
+gov/ballot
+The Law As It Presently Exists
+The State of Washington imposes various taxes to raise
+revenue to fund state government. Those taxes include
+the retail sales tax, the business and occupation tax, the
+state property tax, the capital gains tax, and other state
+taxes. In 2026, the Legislature passed a law imposing a
+9.9 percent tax on an individual’s receipt of income over
+$1,000,000, beginning in calendar year 2028. Beginning
+in 2029, the $1,000,000 standard deduction is increased
+to account for inflation.
+The amount of income subject to tax is based on
+adjusted gross income reported on federal income tax
+returns, with some modifications.
+In addition to the $1,000,000 standard deduction,
+taxpayers may deduct up to $100,000 for charitable
+contributions. The $1,000,000 standard deduction
+and the possible $100,000 deduction for charitable
+contributions apply per household, so a married
+couple or domestic partnership shares a single
+$1,000,000 deduction and up to $100,000 for charitable
+contributions. Additional deductions are available for
+certain specific situations. Certain expenses related
+to pass-through entities that are deducted for federal
+tax purposes are added to the amount subject to
+Washington’s tax.
+The law also allows certain tax credits, which lower the
+amount of taxes due. These credits are available for
+income tax paid to another state; amounts paid under
+Washington’s capital gains tax; and taxes owed for
+business and occupation taxes or public utility taxes
+paid on the same income subject to this tax.
+Nonresidents of Washington are only subject to this
+tax based on income derived from sources within
+Washington. Income that they earn from other sources is
+not counted.
+Five percent of the money collected from this tax is
+deposited into an account that can only be used for
+childcare and early learning purposes. The remaining 95
+percent of money collected from the tax and any interest
+and penalties is deposited into the state’s general fund.
+The 2026 law enacting the tax on income above
+$1,000,000 also enacted or expanded various tax
+exemptions, deductions and credits. First, it eliminated
+sales tax on the sale of diapers, over-the-counter drugs,
+grooming and hygiene products, and certain software,
+digital services, data processing, and live presentations.
+Second, it reduced business and occupation taxes by
+increasing a small-business tax credit, increasing the
+minimum threshold for businesses to file taxes, and
+removing a surcharge on high grossing businesses
+for health care providers, hospitals, prescription drug
+resellers, and wholesale food sales. Third, it expanded
+eligibility for the Working Families Tax Credit, which
+provides a tax refund for qualifying low-
+income
+individuals.
+The Effect of the Proposed Measure if
+Approved
+If approved, the proposed measure would repeal the
+annual tax on individual income over $1,000,000. This
+would also eliminate the funding collected from the tax
+that would go to the general fund (which funds public
+K-12 education, higher education such as universities
+and community colleges, health care, and other human
+services) and childcare and early learning. The non-
+income tax credits, exemptions, and deductions that
+accompanied this tax would not be repealed and would
+remain in place.
+The measure would also prohibit state and local
+governments from imposing taxes on individual income
+or the receipt of individual income and taxes measured
+by an individual’s income. The only tax explicitly listed
+and repealed by the measure is the tax on income over
+$1,000,000.
+The measure would also provide definitions for some
+terms used in the measure. It would define “income”
+for purposes of excise taxes as “any gain or benefit
+measured in money derived from an individual’s capital,
+labor, property, or other source.” It would define
+“individual” for purposes of excise taxes as “a natural
+person.”
+
+Initiative Measure IP26-645
+General assumptions
+A state tax equal to 9.9 percent on Washington taxable
+income greater than $1,000,000 per individual became
+law following the 2026 legislative session due to ESSB
+6346 - Establishing a tax on millionaires. If approved,
+the initiative will repeal the tax such that it will no longer
+go into effect on January 1, 2028, and the state will no
+longer impose this tax.
+• The effective date of the initiative is December 3,
+2026.
+• The provisions of the initiative apply prospectively,
+not retroactively.
+• The Department of Revenue (DOR) ceases all
+implementation activities on the effective date,
+including those activities that are in progress.
+• Estimates use the state’s fiscal year (SFY) of July
+1 through June 30. State fiscal year 2027 is July 1,
+2026, to June 30, 2027.
+• Calendar year refers to January 1 to December 31.
+• RCW 29A.72.025 regarding fiscal impact
+statements indicates any such statement “must
+describe any projected increase or decrease in
+revenues, costs, expenditures, or indebtedness that
+the state or local governments will experience if the
+ballot measure were approved by state voters.” As
+such, impacts that might occur due to actions
+of a future Legislature or those only expressed
+through legislative intent, are not included.
+Revenue
+Local Revenue
+The initiative will not impact local revenue.
+State Revenue
+The initiative is estimated to result in revenue loss of
+$11,432,414,000 over five fiscal years from the state
+general fund, federal general fund, and fair start for kids
+account.  The general fund is the principal state fund
+supporting the operation of the state. The fair start for
+kids account is used only for childcare and early learning
+purposes.
+State Revenue Assumptions
+State General Fund
+Revenue estimates are based on several available data
+sources including:
+• Department of Revenue (DOR) excise data.
+• The Economic and Revenue Forecast Council
+(ERFC) June 2026 tax revenue forecast.
+• The Internal Revenue Service (IRS) publication 6149
+calendar year projections by state for 2024.
+• IRS individual income tax returns for tax year 2022.
+• The National Library of Medicine publication, “US
+Taxation of Gambling Winnings and Incentives to
+Bet.”
+The following additional assumptions are made for
+calculation purposes:
+• The first impacted year of tax collections is state
+fiscal year 2029.
+• The only tax impacted is the tax described in ESSB
+6346 from the 2026 Legislative Session.
+• There are no estimated tax payments required in tax
+year 2028 (calendar year 2028), therefore the first
+payments are due from taxpayers in April 2029.
+• Approximately 89 percent of total tax payments will
+occur in April 2029 and the remaining 11 percent
+of payments will occur in October 2029, due to the
+six-month extension deadline.
+• The first estimated tax payments, for the January
+2029 to June 2029 period, are due July 1, 2029.
+• Based on information from the Institute on Taxation
+and Economic Policy (ITEP), it is assumed that there
+is a reduced IRS enforcement budget. Based on the
+ITEP analysis, a 4.71 percent downward adjustment
+is applied to taxpayers’ Adjusted Gross Income
+(AGI) prior to estimating tax collections.
+• Due to assumed taxpayer behavior, an assumption
+about taxpayer compliance is applied to revenue
+estimates. It is assumed that 90 percent of tax
+revenue will be collected for tax year 2028 (calendar
+year 2028) and 95 percent of tax revenue will be
+collected for tax year 2029 (calendar year 2029) and
+thereafter.
+Federal General Fund
+ESSB 6346 made state income tax refunds subject
+to child support collection action by the Department
+of Social and Health Services. To implement this
+provision, the Department of Social and Health Services
+anticipates receipt of federal funding for information
+technology updates, policy updates, and staff training.
+This federal revenue would be eliminated if the initiative
+was approved.
+
+12 Initiative Measure IP26-645
+Fair Start for Kids Account
+ESSB 6346 directed the Office of the State Treasurer to
+deposit five percent of the tax revenue collected to the
+fair start for kids account beginning July 1, 2029, and
+each July 1st thereafter. The repeal of the tax means
+that this transfer will no longer occur. The total amount
+that will no longer be transferred to the fair start for kids
+account is $377,000,000, including $155,400,000 in
+state fiscal year 2030 and $221,600,000 in state fiscal
+year 2031.
+State Revenue Impacts
+Table 1. Revenue loss, by account
+(See Table 1 on page 13.)
+State Government Expenditures
+State Agency Implementation Cost Assumptions
+State agency savings are estimated to be a net total of
+$150,471,700 over five state fiscal years as a result of
+the initiative. Savings by agency are:
+Table 2. Expenditures, by agency (state general fund and
+federal general fund)
+(See Table 2 on page 13.)
+Department of Revenue
+The Department will save a net of $149,844,700 over the
+five fiscal years between 2027 and 2031. It is assumed
+that the existing state general fund appropriation for
+administering the tax will end as of June 30, 2027.
+Impacts to expenditures and subsequent savings are
+estimated to occur on or after January 1, 2027.
+Currently, the Department has received a total
+appropriation of $10,196,000 for state fiscal year 2027.
+The total appropriation for the period from January
+2027 to June 2027 is $5,408,400. Unspent amounts
+from the general fund for state fiscal year 2027 are
+currently unknown due to potential contracts and vendor
+commitments. For state fiscal years 2028, 2029, 2030,
+and 2031 it is assumed that DOR would receive funding
+from the legislature in accordance with the fiscal note
+for parts I – VIII of ESSB 6346 – Establishing a tax on
+millionaires. Savings are assumed for tax administration
+duties for approximately 30,000 taxpayers that will no
+longer be required. These savings by state fiscal year are
+as follows:
+• Savings of $53,676,000 for state fiscal year 2028.
+• Savings of $35,696,900 for state fiscal year 2029.
+• Savings of $30,544,400 for state fiscal year 2030.
+• Savings of $29,927,400 for state fiscal year 2031.
+Office of the Attorney General
+The Office of the Attorney General (AGO) will have no
+increase or decrease in costs each state fiscal year
+from 2027 through 2031. The anticipated change in the
+amount of legal services workload is minimal. The AGO
+did not receive funding specific to implementing ESSB
+6346.
+Department of Social and Health Services
+In state fiscal year 2027, the Department of Social and
+Health Services (DSHS) will save $139,000 in state funds
+and $279,000 in federal funds. In state fiscal year 2028,
+DSHS will save $74,000 in state funds and $143,000 in
+federal funds. This funding was provided for information
+technology updates, policy updates, and staff training
+for the agency to implement child support collections on
+state tax refunds.
+Office of the State Treasurer
+The Office of the State Treasurer (OST) will have no
+increase or decrease in costs in state fiscal years 2030
+and 2031 to administer the transfer to the fair start for
+kids account. The OST did not receive funding specific
+to implement ESSB 6346.
+Department of Corrections
+The Department of Corrections will have indeterminate
+savings resulting from the elimination of the class C
+felony for evading this tax.
+Department of Children, Youth, and Families
+The Department of Children, Youth, and Families will
+have indeterminate savings resulting from the elimination
+of the class C felony for evading this tax. It is unclear if
+these criminal offenses are limited to adult crimes.
+
+Initiative Measure IP26-645
+Table 1  Revenue loss, by account
+Account  SFY 2027  SFY 2028  SFY 2029 SFY 2030 SFY 2031
+State General Fund $0 $0 ($3,108,000,000) ($4,276,600,000) ($3,670,400,000)
+Fair Start for Kids
+Account $0 $0 $0 ($155,400,000) ($221,600,000)
+Federal General Fund ($271,000) ($143,000) $0 $0 $0
+Total ($271,000) ($143,000) ($3,108,000,000) ($4,432,000,000) ($3,892,000,000)
+Table 2  Expenditures, by agency (state general fund and federal general fund)
+Account  SFY 2027  SFY 2028  SFY 2029 SFY 2030 SFY 2031
+Department of Revenue Unknown ($53,676,000) ($35,696,900) ($30,544,400) ($29,927,400)
+Office of the Attorney
+General $0 $0 $0 $0 $0
+Department of Social
+and Health Services –
+State General Fund
+($139,000) ($74,000) $0 $0 $0
+Department of Social
+and Health Services –
+Federal General Fund
+($271,000) ($143,000) $0 $0 $0
+Office of the State
+Treasurer $0 $0 $0 $0 $0
+Department of
+Corrections Indeterminate Indeterminate Indeterminate Indeterminate Indeterminate
+Department of Children,
+Youth, and Families Indeterminate Indeterminate Indeterminate Indeterminate Indeterminate
+State General Fund
+Total ($139,000) ($53,750,000) ($35,696,900) ($30,544,400) ($29,927,400)
+All Funds Total  ($410,000) ($53,893,000) ($35,696,900) ($30,544,400) ($29,927,400)
+
+14 Initiative Measure IP26-645
+Argument for Argument against
+Rebuttal of argument against
+The No campaign's claims are false. I-645 repeals the
+income tax. Without I-645, Olympia can expand the income
+tax to reach into your paycheck with the simple stroke of a
+pen. No public vote and no permission required, any time
+they want. This was never about schools or diapers, that's a
+scare tactic. Washington has record revenues. An income tax
+on anyone will become an income tax on everyone. Vote Yes.
+Rebuttal of argument for
+The Millionaires Tax only applies to those making above one
+million dollars per year. Any attempt to expand it to those of
+us making under a million would be decided on the ballot  -
+voters always have the final say. I-645 blows a $13 billion
+hole in the budget - don’t believe lies that we can keep tax
+cuts for working families and small businesses but eliminate
+the tax on the wealthy few that pays for them.
+Vote Yes: Repeal the Income Tax, Make Olympia Keep Its
+Word
+Trust isn’t built by passing another tax, it’s earned by keeping
+promises. Over the last 90 years, Washingtonians have
+rejected an income tax ten times because they knew it would
+threaten economic growth, discourage investment, and
+reach beyond the people originally targeted. This year, the
+Legislature enacted a new income tax anyway. I-645 restores
+your right to decide.
+Taxes Always Expand
+Supporters insist the tax is narrow, applying only to income
+above $1 million. But lawmakers rejected opportunities to
+permanently limit its reach, giving Olympia the ability to
+expand the income tax to everyone. Before asking taxpayers
+for more, they should demonstrate they can keep the
+commitments they’ve already made.
+A History of Broken Promises
+80 times in the last five years Olympia has moved money
+from dedicated accounts to the general fund. They’ve taken
+money from state healthcare, flood control, pipeline safety,
+school employees’ insurance, and others to backfill the
+general fund. The capital gains tax was promised to support
+early learning and childcare, yet those commitments were
+delayed, reduced, or cancelled. First responders spent
+careers relying on promises about their retirements, only to
+watch the legislature raid their pensions to plug holes in the
+general fund. Trust erodes when dedicated funding doesn’t
+produce the results people were promised.
+Voting Yes
+repeals the new income tax before it begins,
+preserves the Working Families Tax Credit, paid family leave,
+and small-business tax relief. Voters have the final say.
+Washington has one of the nation’s most upside-down tax
+systems, where working and middle class families pay a
+far higher tax rate than the wealthiest. I-645 would make
+that worse. I-645 is fiscally irresponsible, slashing billions in
+funding for education and healthcare, increasing taxes on
+460,000 hard-working families, and jeopardizing tax cuts for
+thousands of small businesses.
+Vote No: Stop a Tax Break for the Wealthiest
+Hedge fund mogul Brian Heywood has spent millions
+backing I-645 because he wants a tax cut for the top 1%,
+while sticking working and middle class families and small
+businesses with higher costs. I-645 could mean higher taxes
+for thousands of small businesses, force families to pay sales
+tax for basic household items like diapers, and raise taxes for
+460,000 Washington families – just so those making over a
+million dollars in a year get a tax break.
+Vote No: Stop Cuts to Schools, Healthcare, and Childcare
+This measure cuts funding for K-12 public schools,
+healthcare, childcare, and other important public services
+by $13 billion over four years. That means larger class sizes,
+higher costs for healthcare and childcare, and the elimination
+of free school lunches for many children.
+Vote No: Stop Higher Costs for Working Families
+I-645 gives the wealthiest a big break while the rest of us
+face higher healthcare and childcare costs and cuts to public
+schools and higher education. Join Washington nurses,
+teachers, and small business owners. Vote No on I-645.
+Written by
+Chris Gildon, State Senator, Republican, Puyallup; Jesse
+Proudman, Lifelong Washingtonian and Three-Time
+Entrepreneur; Patti Mann, Retired Firefighter/Paramedic,
+Seattle Fire Department; Viet Nguyen, Small Business
+Owner, Independent, Seattle; Semmelle Abraham, Small
+Business Owner; Julie H
+Olds, Grandmother and Small
+Business Owner
+Contact: (360) 259-9771; chris@chrisgildon.com
+Written by
+Janie White, President, Washington Education Association;
+Matt Hipp, Small Business Owner, Halcyon Brewing
+Company; Rosa Potts, Registered Nurse, Vancouver; April
+Sims, President, Washington State Labor Council; Thom
+Garrard, Retired classroom teacher, Edmonds School Board
+Member; Lindsay Johnson, Planned Parenthood Advocates
+of Greater Washington, Yakima
+Contact: (360) 545-3362; info@no645.com;
+https://no645.com/

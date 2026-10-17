@@ -1,0 +1,28 @@
+[project]
+name = "clearballot"
+version = "0.1.0"
+description = "Ingestion and validation pipeline for Clear Ballot (King County, WA, Nov 3 2026)"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "pypdf>=6.21.1",
+    "pyyaml>=6.0.3",
+]
+
+[project.scripts]
+validate = "clearballot.validate:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-root = ""
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

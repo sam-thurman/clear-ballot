@@ -1,0 +1,246 @@
+{
+  "state_fips": "53",
+  "county_geoid": "53033",
+  "geocoder_keys": {
+    "cd": "120th Congressional Districts",
+    "ld": "2026 State Legislative Districts - Lower",
+    "county": "Counties"
+  },
+  "districts": {
+    "statewide": {
+      "district_type": "statewide",
+      "district_number": null,
+      "name": "Statewide",
+      "measures": [
+        "measure-ip26-645",
+        "measure-il26-001",
+        "measure-il26-638"
+      ],
+      "contests": [
+        "contest-supreme-court-pos-1",
+        "contest-supreme-court-pos-3",
+        "contest-supreme-court-pos-4",
+        "contest-supreme-court-pos-5",
+        "contest-supreme-court-pos-7"
+      ]
+    },
+    "5301": {
+      "district_type": "cd",
+      "district_number": 1,
+      "name": "Congressional District 1",
+      "measures": [],
+      "contests": [
+        "contest-us-house-cd-1"
+      ]
+    },
+    "5307": {
+      "district_type": "cd",
+      "district_number": 7,
+      "name": "Congressional District 7",
+      "measures": [],
+      "contests": [
+        "contest-us-house-cd-7"
+      ]
+    },
+    "5308": {
+      "district_type": "cd",
+      "district_number": 8,
+      "name": "Congressional District 8",
+      "measures": [],
+      "contests": [
+        "contest-us-house-cd-8"
+      ]
+    },
+    "5309": {
+      "district_type": "cd",
+      "district_number": 9,
+      "name": "Congressional District 9",
+      "measures": [],
+      "contests": [
+        "contest-us-house-cd-9"
+      ]
+    },
+    "53001": {
+      "district_type": "ld",
+      "district_number": 1,
+      "name": "Legislative District 1",
+      "measures": [],
+      "contests": [
+        "contest-ld-1-rep-pos-1",
+        "contest-ld-1-rep-pos-2"
+      ]
+    },
+    "53005": {
+      "district_type": "ld",
+      "district_number": 5,
+      "name": "Legislative District 5",
+      "measures": [],
+      "contests": [
+        "contest-ld-5-rep-pos-1",
+        "contest-ld-5-rep-pos-2"
+      ]
+    },
+    "53011": {
+      "district_type": "ld",
+      "district_number": 11,
+      "name": "Legislative District 11",
+      "measures": [],
+      "contests": [
+        "contest-ld-11-rep-pos-1",
+        "contest-ld-11-rep-pos-2"
+      ]
+    },
+    "53012": {
+      "district_type": "ld",
+      "district_number": 12,
+      "name": "Legislative District 12",
+      "measures": [],
+      "contests": [
+        "contest-ld-12-rep-pos-1",
+        "contest-ld-12-rep-pos-2"
+      ]
+    },
+    "53030": {
+      "district_type": "ld",
+      "district_number": 30,
+      "name": "Legislative District 30",
+      "measures": [],
+      "contests": [
+        "contest-ld-30-senator",
+        "contest-ld-30-rep-pos-1",
+        "contest-ld-30-rep-pos-2"
+      ]
+    },
+    "53031": {
+      "district_type": "ld",
+      "district_number": 31,
+      "name": "Legislative District 31",
+      "measures": [],
+      "contests": [
+        "contest-ld-31-senator",
+        "contest-ld-31-rep-pos-1",
+        "contest-ld-31-rep-pos-2"
+      ]
+    },
+    "53032": {
+      "district_type": "ld",
+      "district_number": 32,
+      "name": "Legislative District 32",
+      "measures": [],
+      "contests": [
+        "contest-ld-32-senator",
+        "contest-ld-32-rep-pos-1",
+        "contest-ld-32-rep-pos-2"
+      ]
+    },
+    "53033": {
+      "district_type": "ld",
+      "district_number": 33,
+      "name": "Legislative District 33",
+      "measures": [],
+      "contests": [
+        "contest-ld-33-senator",
+        "contest-ld-33-rep-pos-1",
+        "contest-ld-33-rep-pos-2"
+      ]
+    },
+    "53034": {
+      "district_type": "ld",
+      "district_number": 34,
+      "name": "Legislative District 34",
+      "measures": [],
+      "contests": [
+        "contest-ld-34-senator",
+        "contest-ld-34-rep-pos-1",
+        "contest-ld-34-rep-pos-2"
+      ]
+    },
+    "53036": {
+      "district_type": "ld",
+      "district_number": 36,
+      "name": "Legislative District 36",
+      "measures": [],
+      "contests": [
+        "contest-ld-36-senator",
+        "contest-ld-36-rep-pos-1",
+        "contest-ld-36-rep-pos-2"
+      ]
+    },
+    "53037": {
+      "district_type": "ld",
+      "district_number": 37,
+      "name": "Legislative District 37",
+      "measures": [],
+      "contests": [
+        "contest-ld-37-senator",
+        "contest-ld-37-rep-pos-1",
+        "contest-ld-37-rep-pos-2"
+      ]
+    },
+    "53041": {
+      "district_type": "ld",
+      "district_number": 41,
+      "name": "Legislative District 41",
+      "measures": [],
+      "contests": [
+        "contest-ld-41-rep-pos-1",
+        "contest-ld-41-rep-pos-2"
+      ]
+    },
+    "53043": {
+      "district_type": "ld",
+      "district_number": 43,
+      "name": "Legislative District 43",
+      "measures": [],
+      "contests": [
+        "contest-ld-43-senator",
+        "contest-ld-43-rep-pos-1",
+        "contest-ld-43-rep-pos-2"
+      ]
+    },
+    "53045": {
+      "district_type": "ld",
+      "district_number": 45,
+      "name": "Legislative District 45",
+      "measures": [],
+      "contests": [
+        "contest-ld-45-senator",
+        "contest-ld-45-rep-pos-1",
+        "contest-ld-45-rep-pos-2"
+      ]
+    },
+    "53046": {
+      "district_type": "ld",
+      "district_number": 46,
+      "name": "Legislative District 46",
+      "measures": [],
+      "contests": [
+        "contest-ld-46-senator",
+        "contest-ld-46-rep-pos-1",
+        "contest-ld-46-rep-pos-2"
+      ]
+    },
+    "53047": {
+      "district_type": "ld",
+      "district_number": 47,
+      "name": "Legislative District 47",
+      "measures": [],
+      "contests": [
+        "contest-ld-47-senator",
+        "contest-ld-47-rep-pos-1",
+        "contest-ld-47-rep-pos-2"
+      ]
+    },
+    "53048": {
+      "district_type": "ld",
+      "district_number": 48,
+      "name": "Legislative District 48",
+      "measures": [],
+      "contests": [
+        "contest-ld-48-senator",
+        "contest-ld-48-rep-pos-1",
+        "contest-ld-48-rep-pos-2"
+      ]
+    }
+  }
+}

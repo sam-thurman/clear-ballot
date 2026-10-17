@@ -1,0 +1,1020 @@
+{
+  "index_url": "https://www.sos.wa.gov/elections/data-research/election-data-and-maps/election-results-and-voters-pamphlets/2026-general-election-voters-guide/2026-voters-pamphlet-pdfs",
+  "editions": {
+    "edition-04-king-seattle": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf",
+    "edition-05-king-north-eastside": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf",
+    "edition-06-king-south-southeast": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf"
+  },
+  "candidates": {
+    "candidate-pramila-jayapal": {
+      "edition": "edition-04-king-seattle",
+      "page": 24,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=24",
+      "pamphlet_name": "Pramila Jayapal",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.pramilaforcongress.com",
+      "email": "info@pramilaforcongress.com",
+      "no_statement": false
+    },
+    "candidate-nirav-sheth": {
+      "edition": "edition-04-king-seattle",
+      "page": 25,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=25",
+      "pamphlet_name": "Nirav Sheth",
+      "party": "Prefers Republican Party",
+      "website": "https://www.shethforcongress.com",
+      "email": "campaign@shethforcongress.com",
+      "no_statement": false
+    },
+    "candidate-adam-smith": {
+      "edition": "edition-04-king-seattle",
+      "page": 26,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=26",
+      "pamphlet_name": "Adam Smith",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.electadamsmith.com",
+      "email": "info@electadamsmith.com",
+      "no_statement": false
+    },
+    "candidate-doug-basler": {
+      "edition": "edition-04-king-seattle",
+      "page": 27,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=27",
+      "pamphlet_name": "Doug Basler",
+      "party": "Prefers Republican Party",
+      "website": "https://dougbasler.com",
+      "email": "candidate@dougbasler.com",
+      "no_statement": false
+    },
+    "candidate-davina-duerr": {
+      "edition": "edition-04-king-seattle",
+      "page": 29,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=29",
+      "pamphlet_name": "Davina Duerr",
+      "party": "Prefers Democratic Party",
+      "website": "https://electdavina.com",
+      "email": "davina@electdavina.com",
+      "no_statement": false
+    },
+    "candidate-maggie-wang": {
+      "edition": "edition-04-king-seattle",
+      "page": 29,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=29",
+      "pamphlet_name": "Maggie Wang",
+      "party": "Prefers Republican Party",
+      "website": "https://www.maggieforolympia.com",
+      "email": "maggieforolympia@yahoo.com",
+      "no_statement": false
+    },
+    "candidate-shelley-kloba": {
+      "edition": "edition-04-king-seattle",
+      "page": 30,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=30",
+      "pamphlet_name": "Shelley Kloba",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.votekloba.com",
+      "email": "info@votekloba.com",
+      "no_statement": false
+    },
+    "candidate-cliff-moon": {
+      "edition": "edition-04-king-seattle",
+      "page": 30,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=30",
+      "pamphlet_name": "Cliff Moon",
+      "party": "Prefers Republican Party",
+      "website": "https://www.cliff4LD1.com",
+      "email": "vote@cliff4LD1.com",
+      "no_statement": false
+    },
+    "candidate-david-hackney": {
+      "edition": "edition-04-king-seattle",
+      "page": 31,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=31",
+      "pamphlet_name": "David Hackney",
+      "party": "Prefers Democratic Party",
+      "website": "https://hackney4the11th.com",
+      "email": "info@hackney4the11th.com",
+      "no_statement": false
+    },
+    "candidate-ashley-fedan": {
+      "edition": "edition-04-king-seattle",
+      "page": 31,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=31",
+      "pamphlet_name": "Ashley Fedan",
+      "party": "Prefers Democratic Party",
+      "website": "https://Electashleyfedan.com",
+      "email": "Info@electashleyfedan.com",
+      "no_statement": false
+    },
+    "candidate-steve-bergquist": {
+      "edition": "edition-04-king-seattle",
+      "page": 32,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=32",
+      "pamphlet_name": "Steve Bergquist",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.steve4house.com/",
+      "email": "steve4house@gmail.com",
+      "no_statement": false
+    },
+    "candidate-cindy-ryu": {
+      "edition": "edition-04-king-seattle",
+      "page": 33,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=33",
+      "pamphlet_name": "Cindy Ryu",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.cindyryu.com/",
+      "email": "electcindyryu@gmail.com",
+      "no_statement": false
+    },
+    "candidate-jesse-salomon": {
+      "edition": "edition-04-king-seattle",
+      "page": 33,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=33",
+      "pamphlet_name": "Jesse Salomon",
+      "party": "Prefers Democratic Party",
+      "website": "https://votesalomon.com",
+      "email": "info@votesalomon.com",
+      "no_statement": false
+    },
+    "candidate-keith-scully": {
+      "edition": "edition-04-king-seattle",
+      "page": 34,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=34",
+      "pamphlet_name": "Keith Scully",
+      "party": "Prefers Democratic Party",
+      "website": "https://keithscully.org",
+      "email": "keith@keithscully.org",
+      "no_statement": false
+    },
+    "candidate-danica-noble": {
+      "edition": "edition-04-king-seattle",
+      "page": 34,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=34",
+      "pamphlet_name": "Danica Noble",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.electdanica.com",
+      "email": "danica@electdanica.com",
+      "no_statement": false
+    },
+    "candidate-lauren-davis": {
+      "edition": "edition-04-king-seattle",
+      "page": 35,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=35",
+      "pamphlet_name": "Lauren Davis",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.electlaurendavis.com",
+      "email": "lauren@electlaurendavis.com",
+      "no_statement": false
+    },
+    "candidate-imraan-siddiqi": {
+      "edition": "edition-04-king-seattle",
+      "page": 35,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=35",
+      "pamphlet_name": "Imraan Siddiqi",
+      "party": "Prefers Democratic Party",
+      "website": "https://peopleforimraan.com",
+      "email": "info@peopleforimraan.com",
+      "no_statement": false
+    },
+    "candidate-tina-l-orwall": {
+      "edition": "edition-04-king-seattle",
+      "page": 36,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=36",
+      "pamphlet_name": "Tina L. Orwall",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.electtinaorwall.com",
+      "email": "tina.orwall@gmail.com",
+      "no_statement": false
+    },
+    "candidate-edwin-obras": {
+      "edition": "edition-04-king-seattle",
+      "page": 37,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=37",
+      "pamphlet_name": "Edwin Obras",
+      "party": "Prefers Democratic Party",
+      "website": "https://edwinobras.org",
+      "email": "info@edwinobras.org",
+      "no_statement": false
+    },
+    "candidate-chris-martinez": {
+      "edition": "edition-04-king-seattle",
+      "page": 37,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=37",
+      "pamphlet_name": "Chris Martinez",
+      "party": "Prefers Republican Party",
+      "website": "https://ElectMartinezld33.com",
+      "email": "cmartinez121325@gmail.com",
+      "no_statement": false
+    },
+    "candidate-mia-su-ling-gregerson": {
+      "edition": "edition-04-king-seattle",
+      "page": 38,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=38",
+      "pamphlet_name": "Mia Su-Ling Gregerson",
+      "party": "Prefers Democratic Party",
+      "website": "https://MiaGregerson.com",
+      "email": "peopleformia@gmail.com",
+      "no_statement": false
+    },
+    "candidate-yuri-marinchik": {
+      "edition": "edition-04-king-seattle",
+      "page": 38,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=38",
+      "pamphlet_name": "Yuri Marinchik",
+      "party": "Prefers Republican Party",
+      "website": "https://yuriwa.com/",
+      "email": "yurihr@proton.me",
+      "no_statement": false
+    },
+    "candidate-emily-alvarado": {
+      "edition": "edition-04-king-seattle",
+      "page": 39,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=39",
+      "pamphlet_name": "Emily Alvarado",
+      "party": "Prefers Democratic Party",
+      "website": "https://emilyalvarado.com/",
+      "email": "emily@emilyalvarado.com",
+      "no_statement": false
+    },
+    "candidate-brianna-k-thomas": {
+      "edition": "edition-04-king-seattle",
+      "page": 40,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=40",
+      "pamphlet_name": "Brianna K. Thomas",
+      "party": "Prefers Democratic Party",
+      "website": "https://Briannathomas.org",
+      "email": "brianna4the34th@gmail.com",
+      "no_statement": false
+    },
+    "candidate-joe-fitzgibbon": {
+      "edition": "edition-04-king-seattle",
+      "page": 41,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=41",
+      "pamphlet_name": "Joe Fitzgibbon",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.joefitzgibbon.com",
+      "email": "jcfitzgibbon@gmail.com",
+      "no_statement": false
+    },
+    "candidate-mary-anito": {
+      "edition": "edition-04-king-seattle",
+      "page": 41,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=41",
+      "pamphlet_name": "Mary Anito",
+      "party": "Prefers Democratic Party",
+      "website": "https://Maryforwa.com",
+      "email": "Maryforseattle@gmail.com",
+      "no_statement": false
+    },
+    "candidate-noel-c-frame": {
+      "edition": "edition-04-king-seattle",
+      "page": 42,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=42",
+      "pamphlet_name": "Noel C. Frame",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.noelframe.com",
+      "email": "campaign@noelframe.com",
+      "no_statement": false
+    },
+    "candidate-jillian-england": {
+      "edition": "edition-04-king-seattle",
+      "page": 42,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=42",
+      "pamphlet_name": "Jillian England",
+      "party": "Prefers Republican Party",
+      "website": "https://www.JillianEngland.com",
+      "email": "Info@JillianEngland.com",
+      "no_statement": false
+    },
+    "candidate-julia-grant-reed": {
+      "edition": "edition-04-king-seattle",
+      "page": 43,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=43",
+      "pamphlet_name": "Julia Grant Reed",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.votejuliareed.com",
+      "email": "info@votejuliareed.com",
+      "no_statement": false
+    },
+    "candidate-liz-berry": {
+      "edition": "edition-04-king-seattle",
+      "page": 44,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=44",
+      "pamphlet_name": "Liz Berry",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.lizberry.com",
+      "email": "info@lizberry.com",
+      "no_statement": false
+    },
+    "candidate-chipalo-street": {
+      "edition": "edition-04-king-seattle",
+      "page": 45,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=45",
+      "pamphlet_name": "Chipalo Street",
+      "party": "Prefers Democratic Party",
+      "website": "https://electchipalo.com/",
+      "email": "info@electchipalo.com",
+      "no_statement": false
+    },
+    "candidate-tatiana-brown": {
+      "edition": "edition-04-king-seattle",
+      "page": 45,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=45",
+      "pamphlet_name": "Tatiana Brown",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.tatianaforwa.org",
+      "email": "hello@tatianaforwa.org",
+      "no_statement": false
+    },
+    "candidate-sharon-tomiko-santos": {
+      "edition": "edition-04-king-seattle",
+      "page": 46,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=46",
+      "pamphlet_name": "Sharon Tomiko Santos",
+      "party": "Prefers Democratic Party",
+      "website": null,
+      "email": "info@FriendsofSantos.com",
+      "no_statement": false
+    },
+    "candidate-kelabe-tewolde": {
+      "edition": "edition-04-king-seattle",
+      "page": 46,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=46",
+      "pamphlet_name": "Kelabe Tewolde",
+      "party": "Prefers Democratic Party",
+      "website": "https://kelabeforwashington.com",
+      "email": "hello@kelabeforwashington.com",
+      "no_statement": false
+    },
+    "candidate-jaelynn-scott": {
+      "edition": "edition-04-king-seattle",
+      "page": 47,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=47",
+      "pamphlet_name": "Jaelynn Scott",
+      "party": "Prefers Democratic Party",
+      "website": "https://votejaelynn.com",
+      "email": "hello@votejaelynn.com",
+      "no_statement": false
+    },
+    "candidate-evon-mccorkle": {
+      "edition": "edition-04-king-seattle",
+      "page": 47,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=47",
+      "pamphlet_name": "Evon McCorkle",
+      "party": "Prefers Independent Party",
+      "website": "https://evonmccorkle.com",
+      "email": "Voteevonmccorkle@gmail.com",
+      "no_statement": false
+    },
+    "candidate-jamie-pedersen": {
+      "edition": "edition-04-king-seattle",
+      "page": 48,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=48",
+      "pamphlet_name": "Jamie Pedersen",
+      "party": "Prefers Democratic Party",
+      "website": "https://peopleforpedersen.org/",
+      "email": "jamie@peopleforpedersen.org",
+      "no_statement": false
+    },
+    "candidate-hannah-sabio-howell": {
+      "edition": "edition-04-king-seattle",
+      "page": 48,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=48",
+      "pamphlet_name": "Hannah Sabio-Howell",
+      "party": "Prefers Democratic Party",
+      "website": "https://hannahforwashington.com",
+      "email": "info@hannahforwashington.com",
+      "no_statement": false
+    },
+    "candidate-nicole-macri": {
+      "edition": "edition-04-king-seattle",
+      "page": 49,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=49",
+      "pamphlet_name": "Nicole Macri",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.votenicole.org/",
+      "email": "nicole@votenicole.org",
+      "no_statement": false
+    },
+    "candidate-alby-clendennin": {
+      "edition": "edition-04-king-seattle",
+      "page": 49,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=49",
+      "pamphlet_name": "Alby Clendennin",
+      "party": "Prefers Democratic Party",
+      "website": null,
+      "email": "albyforwashington@gmail.com",
+      "no_statement": false
+    },
+    "candidate-shaun-scott": {
+      "edition": "edition-04-king-seattle",
+      "page": 50,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=50",
+      "pamphlet_name": "Shaun Scott",
+      "party": "Prefers Democratic Party",
+      "website": "https://BolderWashington.org",
+      "email": "organizewithshaun@gmail.com",
+      "no_statement": false
+    },
+    "candidate-javier-valdez": {
+      "edition": "edition-04-king-seattle",
+      "page": 51,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=51",
+      "pamphlet_name": "Javier Valdez",
+      "party": "Prefers Democratic Party",
+      "website": "https://javiervaldez.com",
+      "email": "javiervaldez46senate@gmail.com",
+      "no_statement": false
+    },
+    "candidate-sandra-stephens": {
+      "edition": "edition-04-king-seattle",
+      "page": 51,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=51",
+      "pamphlet_name": "Sandra Stephens",
+      "party": "Prefers Republican Party",
+      "website": null,
+      "email": "Sandy.Stephens11@gmail.com",
+      "no_statement": false
+    },
+    "candidate-gerry-pollet": {
+      "edition": "edition-04-king-seattle",
+      "page": 52,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=52",
+      "pamphlet_name": "Gerry Pollet",
+      "party": "Prefers Democratic Party",
+      "website": "https://gerrypollet.com",
+      "email": "info@gerrypollet.com",
+      "no_statement": false
+    },
+    "candidate-will-dreher": {
+      "edition": "edition-04-king-seattle",
+      "page": 52,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=52",
+      "pamphlet_name": "Will Dreher",
+      "party": "Prefers Democratic Party",
+      "website": "https://willdreher.com",
+      "email": "info@willdreher.com",
+      "no_statement": false
+    },
+    "candidate-rodney-star-thornley": {
+      "edition": "edition-04-king-seattle",
+      "page": 53,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=53",
+      "pamphlet_name": "Rodney ‘Star’ Thornley",
+      "party": "Prefers Independent Party",
+      "website": "https://rthornley.com",
+      "email": "star1398105@yahoo.com",
+      "no_statement": false
+    },
+    "candidate-darya-farivar": {
+      "edition": "edition-04-king-seattle",
+      "page": 53,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=53",
+      "pamphlet_name": "Darya Farivar",
+      "party": "Prefers Democratic Party",
+      "website": "https://daryaforhouse.com",
+      "email": "info@daryaforhouse.com",
+      "no_statement": false
+    },
+    "candidate-colleen-melody": {
+      "edition": "edition-04-king-seattle",
+      "page": 55,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=55",
+      "pamphlet_name": "Colleen Melody",
+      "party": "Nonpartisan",
+      "website": "https://melodyforjustice.com/",
+      "email": "hello@melodyforjustice.com",
+      "no_statement": false
+    },
+    "candidate-scott-edwards": {
+      "edition": "edition-04-king-seattle",
+      "page": 55,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=55",
+      "pamphlet_name": "Scott Edwards",
+      "party": "Nonpartisan",
+      "website": "https://votescottedwards.com",
+      "email": "info@votescottedwards.com",
+      "no_statement": false
+    },
+    "candidate-david-stevens": {
+      "edition": "edition-04-king-seattle",
+      "page": 56,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=56",
+      "pamphlet_name": "David Stevens",
+      "party": "Nonpartisan",
+      "website": "https://JudgeStevensforWA.com",
+      "email": "DavidforJustice@yahoo.com",
+      "no_statement": false
+    },
+    "candidate-jaime-michelle-hawk": {
+      "edition": "edition-04-king-seattle",
+      "page": 56,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=56",
+      "pamphlet_name": "Jaime Michelle Hawk",
+      "party": "Nonpartisan",
+      "website": "https://www.judgehawk.com",
+      "email": "info@judgehawk.com",
+      "no_statement": false
+    },
+    "candidate-ian-birk": {
+      "edition": "edition-04-king-seattle",
+      "page": 57,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=57",
+      "pamphlet_name": "Ian Birk",
+      "party": "Nonpartisan",
+      "website": "https://www.ianbirk.com",
+      "email": "info@ianbirk.com",
+      "no_statement": false
+    },
+    "candidate-sean-odonnell": {
+      "edition": "edition-04-king-seattle",
+      "page": 57,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=57",
+      "pamphlet_name": "Sean O’Donnell",
+      "party": "Nonpartisan",
+      "website": "https://odonnellforjustice.com",
+      "email": "campaign@odonnellforjustice.com",
+      "no_statement": false
+    },
+    "candidate-theo-angelis": {
+      "edition": "edition-04-king-seattle",
+      "page": 58,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=58",
+      "pamphlet_name": "Theo Angelis",
+      "party": "Nonpartisan",
+      "website": "https://justiceangelis.com",
+      "email": "info@justiceangelis.com",
+      "no_statement": false
+    },
+    "candidate-dave-larson": {
+      "edition": "edition-04-king-seattle",
+      "page": 58,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=58",
+      "pamphlet_name": "Dave Larson",
+      "party": "Nonpartisan",
+      "website": "https://www.larsonforjustice.com",
+      "email": "campaign@larsonforjustice.com",
+      "no_statement": false
+    },
+    "candidate-debra-l-stephens": {
+      "edition": "edition-04-king-seattle",
+      "page": 59,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=59",
+      "pamphlet_name": "Debra L. Stephens",
+      "party": "Nonpartisan",
+      "website": "https://justicestephens.com",
+      "email": "debra@debrastephenslaw.com",
+      "no_statement": false
+    },
+    "candidate-todd-a-bloom": {
+      "edition": "edition-04-king-seattle",
+      "page": 59,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2004%C2%A0-%20King%20-%20Seattle.pdf#page=59",
+      "pamphlet_name": "Todd A. Bloom",
+      "party": "Nonpartisan",
+      "website": null,
+      "email": "electtoddbloom@gmail.com",
+      "no_statement": false
+    },
+    "candidate-suzan-delbene": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 24,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=24",
+      "pamphlet_name": "Suzan DelBene",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.delbeneforcongress.com",
+      "email": "info@delbeneforcongress.com",
+      "no_statement": false
+    },
+    "candidate-mary-silva": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 25,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=25",
+      "pamphlet_name": "Mary Silva",
+      "party": "Prefers Republican Party",
+      "website": "https://www.marysilvaforcongress.com/",
+      "email": "info@marysilvaforcongress.com",
+      "no_statement": false
+    },
+    "candidate-kim-schrier": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 26,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=26",
+      "pamphlet_name": "Kim Schrier",
+      "party": "Prefers Democratic Party",
+      "website": "https://drkimschrier.com",
+      "email": "info@drkimschrier.com",
+      "no_statement": false
+    },
+    "candidate-spencer-meline": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 27,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=27",
+      "pamphlet_name": "Spencer Meline",
+      "party": "Prefers Republican Party",
+      "website": "https://www.melineforcongress.com",
+      "email": "info@melineforcongress.com",
+      "no_statement": false
+    },
+    "candidate-zach-hall": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 33,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=33",
+      "pamphlet_name": "Zach Hall",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.electzachhall.com",
+      "email": "hello@electzachhall.com",
+      "no_statement": false
+    },
+    "candidate-michelle-bennett": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 33,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=33",
+      "pamphlet_name": "Michelle Bennett",
+      "party": "Prefers Republican Party",
+      "website": "https://ElectMichelleBennett.com",
+      "email": "michelle@votembennett.com",
+      "no_statement": false
+    },
+    "candidate-lisa-callan": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 34,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=34",
+      "pamphlet_name": "Lisa Callan",
+      "party": "Prefers Democratic Party",
+      "website": "https://electlisacallan.org",
+      "email": "elect.lisacallan@gmail.com",
+      "no_statement": false
+    },
+    "candidate-patrick-peacock": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 34,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=34",
+      "pamphlet_name": "Patrick Peacock",
+      "party": "Prefers Republican Party",
+      "website": "https://electpeacock.org",
+      "email": "patrick@electpeacock.org",
+      "no_statement": false
+    },
+    "candidate-brian-burnett": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 35,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=35",
+      "pamphlet_name": "Brian Burnett",
+      "party": "Prefers Republican Party",
+      "website": "https://www.burnettforstaterepresentative.com",
+      "email": "brian@burnettforstaterep.com",
+      "no_statement": false
+    },
+    "candidate-stacy-willoughby": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 35,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=35",
+      "pamphlet_name": "Stacy Willoughby",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.stacyforhouse.com",
+      "email": "stacy@stacyforhouse.com",
+      "no_statement": false
+    },
+    "candidate-mike-steele": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 36,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=36",
+      "pamphlet_name": "Mike Steele",
+      "party": "Prefers Republican Party",
+      "website": "https://votemikesteele.com",
+      "email": "mike@votemikesteele.com",
+      "no_statement": false
+    },
+    "candidate-maggie-adams": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 36,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=36",
+      "pamphlet_name": "Maggie Adams",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.adamsforwashington.com",
+      "email": "campaign@adamsforwashington.com",
+      "no_statement": false
+    },
+    "candidate-janice-zahn": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 37,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=37",
+      "pamphlet_name": "Janice Zahn",
+      "party": "Prefers Democratic Party",
+      "website": "https://janicezahn.org",
+      "email": "info@janicezahn.org",
+      "no_statement": false
+    },
+    "candidate-elle-nguyen": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 37,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=37",
+      "pamphlet_name": "Elle Nguyen",
+      "party": "Prefers Republican Party",
+      "website": "https://TheChoiceForChange.org",
+      "email": "electElle2021@gmail.com",
+      "no_statement": false
+    },
+    "candidate-my-linh-t-thai": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 38,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=38",
+      "pamphlet_name": "My-Linh T Thai",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.mylinhthai.com",
+      "email": "Electmylinh@gmail.com",
+      "no_statement": false
+    },
+    "candidate-michael-rosen": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 38,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=38",
+      "pamphlet_name": "Michael Rosen",
+      "party": "Prefers Independent Party",
+      "website": "https://rosenforwa.com",
+      "email": "michael@rosenforwa.com",
+      "no_statement": false
+    },
+    "candidate-manka-dhingra": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 39,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=39",
+      "pamphlet_name": "Manka Dhingra",
+      "party": "Prefers Democratic Party",
+      "website": "https://electmanka.com/",
+      "email": "info@electmanka.com",
+      "no_statement": false
+    },
+    "candidate-roger-goodman": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 40,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=40",
+      "pamphlet_name": "Roger Goodman",
+      "party": "Prefers Democratic Party",
+      "website": "https://rogergoodman.org",
+      "email": "roger@rogergoodman.org",
+      "no_statement": false
+    },
+    "candidate-joann-tolentino": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 40,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=40",
+      "pamphlet_name": "JoAnn Tolentino",
+      "party": "Prefers Republican Party",
+      "website": "https://votejoann.com",
+      "email": "jotolentino@protonmail.com",
+      "no_statement": false
+    },
+    "candidate-vanessa-kritzer": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 41,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=41",
+      "pamphlet_name": "Vanessa Kritzer",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.electvanessakritzer.com",
+      "email": "vanessa@electvanessakritzer.com",
+      "no_statement": false
+    },
+    "candidate-john-p-gibbons": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 41,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=41",
+      "pamphlet_name": "John P Gibbons",
+      "party": "Prefers Republican Party",
+      "website": null,
+      "email": "john98045@gmail.com",
+      "no_statement": false
+    },
+    "candidate-vandana-slatter": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 42,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=42",
+      "pamphlet_name": "Vandana Slatter",
+      "party": "Prefers Democratic Party",
+      "website": "https://vandanaslatter.com",
+      "email": "friendsofvandanaslatter@gmail.com",
+      "no_statement": false
+    },
+    "candidate-osman-salahuddin": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 43,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=43",
+      "pamphlet_name": "Osman Salahuddin",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.electosman.com",
+      "email": "osman@electosman.com",
+      "no_statement": false
+    },
+    "candidate-jeffery-poppe": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 43,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=43",
+      "pamphlet_name": "Jeffery Poppe",
+      "party": "Prefers Republican Party",
+      "website": "https://Poppe4WA.org",
+      "email": "Jeff4WA@outlook.com",
+      "no_statement": false
+    },
+    "candidate-amy-walen": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 44,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=44",
+      "pamphlet_name": "Amy Walen",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.voteamywalen.com/",
+      "email": "amy@amywalen.com",
+      "no_statement": false
+    },
+    "candidate-jessica-forsythe": {
+      "edition": "edition-05-king-north-eastside",
+      "page": 44,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2005%C2%A0-%20King%20-%20North%20and%20Eastside.pdf#page=44",
+      "pamphlet_name": "Jessica Forsythe",
+      "party": "Prefers Democratic Party",
+      "website": "https://voteforsythe.com",
+      "email": "info@voteforsythe.com",
+      "no_statement": false
+    },
+    "candidate-claire-wilson": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 35,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=35",
+      "pamphlet_name": "Claire Wilson",
+      "party": "Prefers Democratic Party",
+      "website": "https://claireforsenate.com",
+      "email": "claireforsenate30ld@gmail.com",
+      "no_statement": false
+    },
+    "candidate-michael-rutland": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 35,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=35",
+      "pamphlet_name": "Michael Rutland",
+      "party": "Prefers Republican Party",
+      "website": "https://Rutland4wa.com",
+      "email": "rutlandforwashington@gmail.com",
+      "no_statement": false
+    },
+    "candidate-jamila-e-taylor": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 36,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=36",
+      "pamphlet_name": "Jamila E. Taylor",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.electjamilataylor.com",
+      "email": "info@electjamilataylor.com",
+      "no_statement": false
+    },
+    "candidate-tiffany-bowyer": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 36,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=36",
+      "pamphlet_name": "Tiffany Bowyer",
+      "party": "Prefers Republican Party",
+      "website": "https://www.tiffanybowyer.com",
+      "email": "votetiffanyforwa@gmail.com",
+      "no_statement": false
+    },
+    "candidate-kristine-reeves": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 37,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=37",
+      "pamphlet_name": "Kristine Reeves",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.kristinereeves.com/",
+      "email": "info@kristinereeves.com",
+      "no_statement": false
+    },
+    "candidate-paul-mcdaniel": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 37,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=37",
+      "pamphlet_name": "Paul McDaniel",
+      "party": "Prefers Independent Party",
+      "website": "https://paul4washington.com",
+      "email": "vote@paul4washington.com",
+      "no_statement": false
+    },
+    "candidate-phil-fortunato": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 38,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=38",
+      "pamphlet_name": "Phil Fortunato",
+      "party": "Prefers Republican Party",
+      "website": "https://www.VoteFortunato.org",
+      "email": "phil@VoteFortunato.org",
+      "no_statement": false
+    },
+    "candidate-tamara-stramel": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 38,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=38",
+      "pamphlet_name": "Tamara Stramel",
+      "party": "Prefers Democratic Party",
+      "website": "https://togetherwithtamara.com",
+      "email": "togetherwithtamara@gmail.com",
+      "no_statement": false
+    },
+    "candidate-drew-stokesbary": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 39,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=39",
+      "pamphlet_name": "Drew Stokesbary",
+      "party": "Prefers Republican Party",
+      "website": "https://drewstokesbary.com",
+      "email": "drew@drewstokesbary.com",
+      "no_statement": false
+    },
+    "candidate-stephen-szczurko-walton": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 39,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=39",
+      "pamphlet_name": "Stephen Szczurko- Walton",
+      "party": "Prefers Democratic Party",
+      "website": "https://stephen4district31.com",
+      "email": "Stephen@stephen4district31.com",
+      "no_statement": false
+    },
+    "candidate-joshua-penner": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 40,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=40",
+      "pamphlet_name": "Joshua Penner",
+      "party": "Prefers Republican Party",
+      "website": "https://VotePenner.com",
+      "email": "Josh@VotePenner.com",
+      "no_statement": false
+    },
+    "candidate-john-bielka": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 40,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=40",
+      "pamphlet_name": "John Bielka",
+      "party": "Prefers Democrat Party",
+      "website": "https://Bielka31.com",
+      "email": "Johnbielka@icloud.com",
+      "no_statement": false
+    },
+    "candidate-claudia-kauffman": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 49,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=49",
+      "pamphlet_name": "Claudia Kauffman",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.voteclaudiakauffman.com",
+      "email": "info@voteclaudiakauffman.com",
+      "no_statement": false
+    },
+    "candidate-kristina-soltys": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 49,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=49",
+      "pamphlet_name": "Kristina Soltys",
+      "party": "Prefers Republican Party",
+      "website": "https://kristinaforsenate.com",
+      "email": "kristina@kristinaforsenate.com",
+      "no_statement": false
+    },
+    "candidate-debra-jean-entenman": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 50,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=50",
+      "pamphlet_name": "Debra Jean Entenman",
+      "party": "Prefers Democratic Party",
+      "website": "https://www.electdebraentenman.org",
+      "email": "INFO@electDebraEntenman.org",
+      "no_statement": false
+    },
+    "candidate-cobi-clark": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 50,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=50",
+      "pamphlet_name": "Cobi Clark",
+      "party": "Prefers Libertarian Party",
+      "website": "https://www.cobiclark.com/",
+      "email": "campaign@cobiclark.com",
+      "no_statement": false
+    },
+    "candidate-chris-stearns": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 51,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=51",
+      "pamphlet_name": "Chris Stearns",
+      "party": "Prefers Democratic Party",
+      "website": "https://chris4wa.com",
+      "email": "info@chris4wa.com",
+      "no_statement": false
+    },
+    "candidate-ted-cooke": {
+      "edition": "edition-06-king-south-southeast",
+      "page": 51,
+      "url": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2006%20-%20King%20-%20South%20and%20Southeast.pdf#page=51",
+      "pamphlet_name": "Ted Cooke",
+      "party": "Prefers Republican Party",
+      "website": "https://tedcooke.org",
+      "email": "Ted.Cooke@outlook.com",
+      "no_statement": false
+    }
+  }
+}

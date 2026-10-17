@@ -1,0 +1,854 @@
+{
+  "election": {
+    "name": "November 3, 2026 General Election",
+    "date": "2026-11-03",
+    "county": "King County, WA"
+  },
+  "source": {
+    "title": "King County Elections sample ballot, November 3, 2026 General Election",
+    "url": "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+    "local_path": "sources/pamphlet/king-county-sample-ballot-2026-11.pdf",
+    "parsed_at": "2026-10-17"
+  },
+  "measures": [
+    {
+      "id": "measure-ip26-645",
+      "ballot_number": "IP26-645",
+      "measure_type": "Initiative to the People",
+      "ballot_title": "Initiative Measure No. IP26-645 concerns state and local taxes. This measure would repeal a 9.9% tax on annual individual income over $1,000,000; prohibit taxes measured by individual income and taxes on individual income or the receipt of individual income; and define “income.” This measure would decrease funding for public K-12 education, higher education (including universities and community colleges), and human services (primarily healthcare). Should this measure be enacted into law?",
+      "ballot_page": 1
+    },
+    {
+      "id": "measure-il26-001",
+      "ballot_number": "IL26-001",
+      "measure_type": "Initiative to the Legislature",
+      "ballot_title": "Initiative Measure No. IL26-001 concerns parental rights relating to their children in public school. This measure would repeal amendments to a statute listing certain rights of parents and guardians of public-school children and re-enact the law as it was originally enacted by Initiative to the Legislature 2081. Should this measure be enacted into law?",
+      "ballot_page": 1
+    },
+    {
+      "id": "measure-il26-638",
+      "ballot_number": "IL26-638",
+      "measure_type": "Initiative to the Legislature",
+      "ballot_title": "Initiative Measure No. IL26-638 concerns participation in athletics at K-12 schools. This measure would prohibit students it defines as “biologically male” from competing in certain school athletic activities intended for female students only. It would require verification of biological sex by students’ healthcare providers. Should this measure be enacted into law?",
+      "ballot_page": 2
+    }
+  ],
+  "contests": [
+    {
+      "id": "contest-us-house-cd-1",
+      "office": "United States Representative",
+      "title": "US Representative, Congressional District 1",
+      "district_type": "cd",
+      "district_id": "5301",
+      "district_number": 1,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-suzan-delbene",
+        "candidate-mary-silva"
+      ]
+    },
+    {
+      "id": "contest-us-house-cd-7",
+      "office": "United States Representative",
+      "title": "US Representative, Congressional District 7",
+      "district_type": "cd",
+      "district_id": "5307",
+      "district_number": 7,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-pramila-jayapal",
+        "candidate-nirav-sheth"
+      ]
+    },
+    {
+      "id": "contest-us-house-cd-8",
+      "office": "United States Representative",
+      "title": "US Representative, Congressional District 8",
+      "district_type": "cd",
+      "district_id": "5308",
+      "district_number": 8,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-kim-schrier",
+        "candidate-spencer-meline"
+      ]
+    },
+    {
+      "id": "contest-us-house-cd-9",
+      "office": "United States Representative",
+      "title": "US Representative, Congressional District 9",
+      "district_type": "cd",
+      "district_id": "5309",
+      "district_number": 9,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-adam-smith",
+        "candidate-doug-basler"
+      ]
+    },
+    {
+      "id": "contest-ld-1-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 1",
+      "district_type": "ld",
+      "district_id": "53001",
+      "district_number": 1,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-davina-duerr",
+        "candidate-maggie-wang"
+      ]
+    },
+    {
+      "id": "contest-ld-1-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 1",
+      "district_type": "ld",
+      "district_id": "53001",
+      "district_number": 1,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-shelley-kloba",
+        "candidate-cliff-moon"
+      ]
+    },
+    {
+      "id": "contest-ld-5-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 5",
+      "district_type": "ld",
+      "district_id": "53005",
+      "district_number": 5,
+      "partisan": true,
+      "term_note": "short and full term",
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-zach-hall",
+        "candidate-michelle-bennett"
+      ]
+    },
+    {
+      "id": "contest-ld-5-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 5",
+      "district_type": "ld",
+      "district_id": "53005",
+      "district_number": 5,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-lisa-callan",
+        "candidate-patrick-peacock"
+      ]
+    },
+    {
+      "id": "contest-ld-11-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 11",
+      "district_type": "ld",
+      "district_id": "53011",
+      "district_number": 11,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-david-hackney",
+        "candidate-ashley-fedan"
+      ]
+    },
+    {
+      "id": "contest-ld-11-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 11",
+      "district_type": "ld",
+      "district_id": "53011",
+      "district_number": 11,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-steve-bergquist"
+      ]
+    },
+    {
+      "id": "contest-ld-12-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 12",
+      "district_type": "ld",
+      "district_id": "53012",
+      "district_number": 12,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-brian-burnett",
+        "candidate-stacy-willoughby"
+      ]
+    },
+    {
+      "id": "contest-ld-12-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 12",
+      "district_type": "ld",
+      "district_id": "53012",
+      "district_number": 12,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 2,
+      "candidates": [
+        "candidate-mike-steele",
+        "candidate-maggie-adams"
+      ]
+    },
+    {
+      "id": "contest-ld-30-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 30",
+      "district_type": "ld",
+      "district_id": "53030",
+      "district_number": 30,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-claire-wilson",
+        "candidate-michael-rutland"
+      ]
+    },
+    {
+      "id": "contest-ld-30-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 30",
+      "district_type": "ld",
+      "district_id": "53030",
+      "district_number": 30,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-jamila-e-taylor",
+        "candidate-tiffany-bowyer"
+      ]
+    },
+    {
+      "id": "contest-ld-30-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 30",
+      "district_type": "ld",
+      "district_id": "53030",
+      "district_number": 30,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-kristine-reeves",
+        "candidate-paul-mcdaniel"
+      ]
+    },
+    {
+      "id": "contest-ld-31-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 31",
+      "district_type": "ld",
+      "district_id": "53031",
+      "district_number": 31,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-phil-fortunato",
+        "candidate-tamara-stramel"
+      ]
+    },
+    {
+      "id": "contest-ld-31-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 31",
+      "district_type": "ld",
+      "district_id": "53031",
+      "district_number": 31,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-drew-stokesbary",
+        "candidate-stephen-szczurko-walton"
+      ]
+    },
+    {
+      "id": "contest-ld-31-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 31",
+      "district_type": "ld",
+      "district_id": "53031",
+      "district_number": 31,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-joshua-penner",
+        "candidate-john-bielka"
+      ]
+    },
+    {
+      "id": "contest-ld-32-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 32",
+      "district_type": "ld",
+      "district_id": "53032",
+      "district_number": 32,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-cindy-ryu",
+        "candidate-jesse-salomon"
+      ]
+    },
+    {
+      "id": "contest-ld-32-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 32",
+      "district_type": "ld",
+      "district_id": "53032",
+      "district_number": 32,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-keith-scully",
+        "candidate-danica-noble"
+      ]
+    },
+    {
+      "id": "contest-ld-32-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 32",
+      "district_type": "ld",
+      "district_id": "53032",
+      "district_number": 32,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-lauren-davis",
+        "candidate-imraan-siddiqi"
+      ]
+    },
+    {
+      "id": "contest-ld-33-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 33",
+      "district_type": "ld",
+      "district_id": "53033",
+      "district_number": 33,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-tina-l-orwall"
+      ]
+    },
+    {
+      "id": "contest-ld-33-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 33",
+      "district_type": "ld",
+      "district_id": "53033",
+      "district_number": 33,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-edwin-obras",
+        "candidate-chris-martinez"
+      ]
+    },
+    {
+      "id": "contest-ld-33-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 33",
+      "district_type": "ld",
+      "district_id": "53033",
+      "district_number": 33,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-mia-su-ling-gregerson",
+        "candidate-yuri-marinchik"
+      ]
+    },
+    {
+      "id": "contest-ld-34-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 34",
+      "district_type": "ld",
+      "district_id": "53034",
+      "district_number": 34,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-emily-alvarado"
+      ]
+    },
+    {
+      "id": "contest-ld-34-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 34",
+      "district_type": "ld",
+      "district_id": "53034",
+      "district_number": 34,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-brianna-k-thomas"
+      ]
+    },
+    {
+      "id": "contest-ld-34-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 34",
+      "district_type": "ld",
+      "district_id": "53034",
+      "district_number": 34,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-joe-fitzgibbon",
+        "candidate-mary-anito"
+      ]
+    },
+    {
+      "id": "contest-ld-36-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 36",
+      "district_type": "ld",
+      "district_id": "53036",
+      "district_number": 36,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-noel-c-frame",
+        "candidate-jillian-england"
+      ]
+    },
+    {
+      "id": "contest-ld-36-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 36",
+      "district_type": "ld",
+      "district_id": "53036",
+      "district_number": 36,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 3,
+      "candidates": [
+        "candidate-julia-grant-reed"
+      ]
+    },
+    {
+      "id": "contest-ld-36-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 36",
+      "district_type": "ld",
+      "district_id": "53036",
+      "district_number": 36,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-liz-berry"
+      ]
+    },
+    {
+      "id": "contest-ld-37-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 37",
+      "district_type": "ld",
+      "district_id": "53037",
+      "district_number": 37,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-chipalo-street",
+        "candidate-tatiana-brown"
+      ]
+    },
+    {
+      "id": "contest-ld-37-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 37",
+      "district_type": "ld",
+      "district_id": "53037",
+      "district_number": 37,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-kelabe-tewolde",
+        "candidate-sharon-tomiko-santos"
+      ]
+    },
+    {
+      "id": "contest-ld-37-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 37",
+      "district_type": "ld",
+      "district_id": "53037",
+      "district_number": 37,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-jaelynn-scott",
+        "candidate-evon-mccorkle"
+      ]
+    },
+    {
+      "id": "contest-ld-41-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 41",
+      "district_type": "ld",
+      "district_id": "53041",
+      "district_number": 41,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-janice-zahn",
+        "candidate-elle-nguyen"
+      ]
+    },
+    {
+      "id": "contest-ld-41-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 41",
+      "district_type": "ld",
+      "district_id": "53041",
+      "district_number": 41,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-my-linh-t-thai",
+        "candidate-michael-rosen"
+      ]
+    },
+    {
+      "id": "contest-ld-43-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 43",
+      "district_type": "ld",
+      "district_id": "53043",
+      "district_number": 43,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-jamie-pedersen",
+        "candidate-hannah-sabio-howell"
+      ]
+    },
+    {
+      "id": "contest-ld-43-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 43",
+      "district_type": "ld",
+      "district_id": "53043",
+      "district_number": 43,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-nicole-macri",
+        "candidate-alby-clendennin"
+      ]
+    },
+    {
+      "id": "contest-ld-43-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 43",
+      "district_type": "ld",
+      "district_id": "53043",
+      "district_number": 43,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-shaun-scott"
+      ]
+    },
+    {
+      "id": "contest-ld-45-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 45",
+      "district_type": "ld",
+      "district_id": "53045",
+      "district_number": 45,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-manka-dhingra"
+      ]
+    },
+    {
+      "id": "contest-ld-45-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 45",
+      "district_type": "ld",
+      "district_id": "53045",
+      "district_number": 45,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-roger-goodman",
+        "candidate-joann-tolentino"
+      ]
+    },
+    {
+      "id": "contest-ld-45-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 45",
+      "district_type": "ld",
+      "district_id": "53045",
+      "district_number": 45,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-vanessa-kritzer",
+        "candidate-john-p-gibbons"
+      ]
+    },
+    {
+      "id": "contest-ld-46-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 46",
+      "district_type": "ld",
+      "district_id": "53046",
+      "district_number": 46,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-javier-valdez",
+        "candidate-sandra-stephens"
+      ]
+    },
+    {
+      "id": "contest-ld-46-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 46",
+      "district_type": "ld",
+      "district_id": "53046",
+      "district_number": 46,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-gerry-pollet",
+        "candidate-will-dreher"
+      ]
+    },
+    {
+      "id": "contest-ld-46-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 46",
+      "district_type": "ld",
+      "district_id": "53046",
+      "district_number": 46,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-darya-farivar",
+        "candidate-rodney-star-thornley"
+      ]
+    },
+    {
+      "id": "contest-ld-47-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 47",
+      "district_type": "ld",
+      "district_id": "53047",
+      "district_number": 47,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-claudia-kauffman",
+        "candidate-kristina-soltys"
+      ]
+    },
+    {
+      "id": "contest-ld-47-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 47",
+      "district_type": "ld",
+      "district_id": "53047",
+      "district_number": 47,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 4,
+      "candidates": [
+        "candidate-debra-jean-entenman",
+        "candidate-cobi-clark"
+      ]
+    },
+    {
+      "id": "contest-ld-47-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 47",
+      "district_type": "ld",
+      "district_id": "53047",
+      "district_number": 47,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 5,
+      "candidates": [
+        "candidate-chris-stearns",
+        "candidate-ted-cooke"
+      ]
+    },
+    {
+      "id": "contest-ld-48-senator",
+      "office": "State Senator",
+      "title": "State Senator, Legislative District 48",
+      "district_type": "ld",
+      "district_id": "53048",
+      "district_number": 48,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 5,
+      "candidates": [
+        "candidate-vandana-slatter"
+      ]
+    },
+    {
+      "id": "contest-ld-48-rep-pos-1",
+      "office": "State Representative Position 1",
+      "title": "State Representative Position 1, Legislative District 48",
+      "district_type": "ld",
+      "district_id": "53048",
+      "district_number": 48,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 5,
+      "candidates": [
+        "candidate-osman-salahuddin",
+        "candidate-jeffery-poppe"
+      ]
+    },
+    {
+      "id": "contest-ld-48-rep-pos-2",
+      "office": "State Representative Position 2",
+      "title": "State Representative Position 2, Legislative District 48",
+      "district_type": "ld",
+      "district_id": "53048",
+      "district_number": 48,
+      "partisan": true,
+      "term_note": null,
+      "ballot_page": 5,
+      "candidates": [
+        "candidate-jessica-forsythe",
+        "candidate-amy-walen"
+      ]
+    },
+    {
+      "id": "contest-supreme-court-pos-1",
+      "office": "Supreme Court Justice Position 1",
+      "title": "State Supreme Court Justice Position 1",
+      "district_type": "statewide",
+      "district_id": "statewide",
+      "district_number": null,
+      "partisan": false,
+      "term_note": "unexpired 2-year term",
+      "ballot_page": 5,
+      "candidates": [
+        "candidate-colleen-melody",
+        "candidate-scott-edwards"
+      ]
+    },
+    {
+      "id": "contest-supreme-court-pos-3",
+      "office": "Supreme Court Justice Position 3",
+      "title": "State Supreme Court Justice Position 3",
+      "district_type": "statewide",
+      "district_id": "statewide",
+      "district_number": null,
+      "partisan": false,
+      "term_note": null,
+      "ballot_page": 5,
+      "candidates": [
+        "candidate-david-stevens",
+        "candidate-jaime-michelle-hawk"
+      ]
+    },
+    {
+      "id": "contest-supreme-court-pos-4",
+      "office": "Supreme Court Justice Position 4",
+      "title": "State Supreme Court Justice Position 4",
+      "district_type": "statewide",
+      "district_id": "statewide",
+      "district_number": null,
+      "partisan": false,
+      "term_note": null,
+      "ballot_page": 5,
+      "candidates": [
+        "candidate-ian-birk",
+        "candidate-sean-odonnell"
+      ]
+    },
+    {
+      "id": "contest-supreme-court-pos-5",
+      "office": "Supreme Court Justice Position 5",
+      "title": "State Supreme Court Justice Position 5",
+      "district_type": "statewide",
+      "district_id": "statewide",
+      "district_number": null,
+      "partisan": false,
+      "term_note": "unexpired 2-year term",
+      "ballot_page": 5,
+      "candidates": [
+        "candidate-theo-angelis",
+        "candidate-dave-larson"
+      ]
+    },
+    {
+      "id": "contest-supreme-court-pos-7",
+      "office": "Supreme Court Justice Position 7",
+      "title": "State Supreme Court Justice Position 7",
+      "district_type": "statewide",
+      "district_id": "statewide",
+      "district_number": null,
+      "partisan": false,
+      "term_note": null,
+      "ballot_page": 5,
+      "candidates": [
+        "candidate-debra-l-stephens",
+        "candidate-todd-a-bloom"
+      ]
+    }
+  ]
+}
