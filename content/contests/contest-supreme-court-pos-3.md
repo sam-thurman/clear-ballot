@@ -22,8 +22,14 @@ sources:
   publisher: King County Elections
   accessed: '2026-10-17'
   kind: official
+- id: sos-offices
+  title: Descriptions of Elected Offices
+  url: https://www.sos.wa.gov/elections/candidates/information/descriptions-elected-offices
+  publisher: Washington Secretary of State
+  accessed: '2026-10-17'
+  kind: official
 ---
 
 ## About this office
 
-<!-- TODO: session 2 -->
+The Washington Supreme Court is the highest court in the state; its justices hear appeals and decide cases from the Courts of Appeals and other lower courts.[^sos-offices] Nine justices are elected statewide to six-year terms.[^sos-offices] Judges in Washington are nonpartisan, must be in good standing to practice law in the state, must be registered Washington voters, and may not make statements that appear to commit them on legal issues that could come before them in court.[^sos-offices]

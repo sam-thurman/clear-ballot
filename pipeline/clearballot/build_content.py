@@ -17,7 +17,47 @@ import yaml
 
 from .paths import CONTENT, DATA
 
-SOS_OFFICES_URL = "https://www.sos.wa.gov/elections/candidates/descriptions-elected-offices"
+SOS_OFFICES_URL = "https://www.sos.wa.gov/elections/candidates/information/descriptions-elected-offices"
+SOS_OFFICES_SOURCE = {
+    "id": "sos-offices",
+    "title": "Descriptions of Elected Offices",
+    "url": SOS_OFFICES_URL,
+    "publisher": "Washington Secretary of State",
+    "accessed": "2026-10-17",
+    "kind": "official",
+}
+# Plain-English office notes; every sentence is drawn from sources/offices/sos-descriptions-of-elected-offices.txt.
+OFFICE_NOTES = {
+    "cd": (
+        "The U.S. House of Representatives and the U.S. Senate share responsibility for declaring war, "
+        "maintaining the armed forces, setting taxes, borrowing money, regulating commerce, and passing the "
+        "laws and budgets that run the federal government.[^sos-offices] Representatives serve two-year terms, "
+        "and all 435 seats are up for election in even-numbered years.[^sos-offices] A representative must be at "
+        "least 25 years old, a U.S. citizen for at least seven years, and a resident of the state, but does not "
+        "have to live in the district.[^sos-offices]"
+    ),
+    "senator": (
+        "State legislators propose and pass state laws, set the state budget, and decide how taxes are collected "
+        "to pay for state and local government.[^sos-offices] The state Senate has 49 members, one from each "
+        "legislative district, elected to four-year terms, with about half the seats up for election every two "
+        "years.[^sos-offices] The Senate's one exclusive duty is to confirm appointments made by the "
+        "governor.[^sos-offices] Legislators must be registered voters of their district.[^sos-offices]"
+    ),
+    "rep": (
+        "State legislators propose and pass state laws, set the state budget, and decide how taxes are collected "
+        "to pay for state and local government.[^sos-offices] The state House of Representatives has 98 members, "
+        "two from each legislative district, elected to two-year terms, so every House seat is up for election "
+        "in even-numbered years.[^sos-offices] Legislators must be registered voters of their district.[^sos-offices]"
+    ),
+    "statewide": (
+        "The Washington Supreme Court is the highest court in the state; its justices hear appeals and decide "
+        "cases from the Courts of Appeals and other lower courts.[^sos-offices] Nine justices are elected "
+        "statewide to six-year terms.[^sos-offices] Judges in Washington are nonpartisan, must be in good "
+        "standing to practice law in the state, must be registered Washington voters, and may not make "
+        "statements that appear to commit them on legal issues that could come before them in "
+        "court.[^sos-offices]"
+    ),
+}
 TODO = "<!-- TODO: session 2 -->"
 
 CANDIDATE_SECTIONS = ["Background", "Positions", "Affiliations and endorsements", "Record", "Funding"]
@@ -100,8 +140,14 @@ def build_contests(contests: dict, today: str) -> int:
                 }
             ],
         }
-        body = f"## About this office\n\n{TODO}\n"
-        fm, body = merge_existing(path, fm, body, {"kc-sample-ballot"})
+        fm["sources"].append(SOS_OFFICES_SOURCE)
+        kind = c["district_type"] if c["district_type"] != "ld" else ("senator" if c["office"] == "State Senator" else "rep")
+        body = f"## About this office\n\n{OFFICE_NOTES[kind]}\n"
+        fm, old_body = merge_existing(path, fm, body, {"kc-sample-ballot", "sos-offices"})
+        # The office note is generated; replace a stub or an earlier generated note, keep anything else.
+        if TODO in old_body or old_body.strip().startswith("## About this office"):
+            old_body = body
+        body = old_body
         write_markdown(path, fm, body)
         n += 1
     return n

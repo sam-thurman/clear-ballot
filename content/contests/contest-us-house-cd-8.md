@@ -22,8 +22,14 @@ sources:
   publisher: King County Elections
   accessed: '2026-10-17'
   kind: official
+- id: sos-offices
+  title: Descriptions of Elected Offices
+  url: https://www.sos.wa.gov/elections/candidates/information/descriptions-elected-offices
+  publisher: Washington Secretary of State
+  accessed: '2026-10-17'
+  kind: official
 ---
 
 ## About this office
 
-<!-- TODO: session 2 -->
+The U.S. House of Representatives and the U.S. Senate share responsibility for declaring war, maintaining the armed forces, setting taxes, borrowing money, regulating commerce, and passing the laws and budgets that run the federal government.[^sos-offices] Representatives serve two-year terms, and all 435 seats are up for election in even-numbered years.[^sos-offices] A representative must be at least 25 years old, a U.S. citizen for at least seven years, and a resident of the state, but does not have to live in the district.[^sos-offices]
