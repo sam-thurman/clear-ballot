@@ -45,7 +45,13 @@ finance:
   small_donor_share: 0.159
 finance_checked: '2026-10-17'
 record: null
-endorsements: []
+endorsements:
+- org: King County Republican Party
+  url: https://kcgop.org/
+  self_reported: false
+- org: 5th Legislative District Republicans
+  url: https://electpeacock.org
+  self_reported: true
 sources:
 - id: kc-sample-ballot
   title: King County Elections sample ballot, November 3, 2026 General Election
@@ -65,24 +71,41 @@ sources:
   publisher: Washington Public Disclosure Commission
   accessed: '2026-10-13'
   kind: finance
+- id: site
+  title: 'Campaign website: Patrick Peacock for State Representative (About, Priorities, Endorsements)'
+  url: https://electpeacock.org
+  publisher: Patrick Peacock campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: endorse-1
+  title: 'King County Republican Party: Endorsed Candidates'
+  url: https://kcgop.org/
+  publisher: King County Republican Party
+  accessed: '2026-10-17'
+  kind: endorsement
 ---
 
 ## Background
 
-<!-- TODO: session 2 -->
+In the Voters' Pamphlet, Patrick Peacock says he served 23 years in the Army as a human intelligence warrant officer and counter-intelligence agent.[^sos-pamphlet] He says he completed two combat tours in Afghanistan and received the Bronze Star and Combat Action Badge.[^sos-pamphlet] He says he is vice chair of the King County Republican Party and a senior industrial security specialist at Boeing.[^sos-pamphlet] He lists a Master of Business Administration with a finance emphasis from Webster University and a Bachelor of Arts in philosophy from the University of Washington.[^sos-pamphlet] He says his family has lived continuously in Hobart, Washington, since 1887.[^sos-pamphlet] He says his father, Dick Peacock, was a long-time president of the Maple Valley Historical Society.[^sos-pamphlet] Under "Elected Experience", the pamphlet entry reads "Not a career politician".[^sos-pamphlet]
 
 ## Positions
 
-<!-- TODO: session 2 -->
+- **Taxes and affordability:** In the pamphlet, Peacock says Washington is becoming increasingly unaffordable and that a state income tax would worsen the situation.[^sos-pamphlet] He says residents already pay some of the highest fuel taxes, and his website says he wants to roll back fuel taxes.[^sos-pamphlet][^site]
+- **Housing:** In the pamphlet, he says the state must prioritize affordable housing.[^sos-pamphlet] His website says he wants to cut red tape blocking new construction.[^site]
+- **Public safety:** In the pamphlet, he says the state must prioritize reducing crime.[^sos-pamphlet] His website says he will back officers and hold repeat offenders accountable.[^site]
+- **Education:** In the pamphlet, he says the state must prioritize quality education.[^sos-pamphlet] His website says schools should focus on reading, math, and real-world skills and respect parents as partners.[^site]
+- **Employers:** In the pamphlet, he says the state must encourage employers not to leave.[^sos-pamphlet] His website says he wants to lower the cost of doing business.[^site]
+- **State government:** In the pamphlet, he says what he calls Washington's one-party rule has failed to deliver on these issues and it is time for a change.[^sos-pamphlet]
 
 ## Affiliations and endorsements
 
-<!-- TODO: session 2 -->
+Peacock's party preference on the ballot is "Prefers Republican Party".[^kc-sample-ballot] The King County Republican Party lists Peacock among its endorsed candidates on its website.[^endorse-1] In the pamphlet, Peacock says he is endorsed by the 5th LD and King County Republicans.[^sos-pamphlet] His campaign website lists self-reported endorsements from the King County Republican Party, the 5th LD Republicans, Patriots of Liberty, and former state Rep. Chad Magendanz.[^site] In the pamphlet, Peacock says he is vice chair of the King County Republican Party.[^sos-pamphlet]
 
 ## Record
 
-<!-- TODO: session 2 -->
+Under "Elected Experience", the pamphlet entry for Peacock reads "Not a career politician" and lists no elected office.[^sos-pamphlet] His campaign website does not list any prior elected office.[^site]
 
 ## Funding
 
-<!-- TODO: session 2 -->
+According to PDC filings, Peacock's campaign had raised $12,185 and spent $11,299.12 as of October 13, 2026.[^finance] About 15.9% of contribution dollars came from small donors, meaning gifts of $100 or less plus the lump sums campaigns report as small contributions.[^finance] The top contributors, at $1,200 each, are Monroe Machined Products, Inc., Candy Peacock (listed as retired), and Richard Peacock (listed as retired).[^finance] Lori Basler and Doug Basler, each listed as an owner at Prologue Digital, also gave $1,200 each.[^finance]

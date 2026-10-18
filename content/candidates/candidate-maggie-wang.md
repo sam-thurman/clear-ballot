@@ -25,7 +25,13 @@ finance:
   small_donor_share: null
 finance_checked: '2026-10-17'
 record: null
-endorsements: []
+endorsements:
+- org: King County Republican Party
+  url: https://kcgop.org/
+  self_reported: false
+- org: Snohomish County Republican Party
+  url: https://www.maggieforolympia.com
+  self_reported: true
 sources:
 - id: kc-sample-ballot
   title: King County Elections sample ballot, November 3, 2026 General Election
@@ -45,24 +51,40 @@ sources:
   publisher: Washington Public Disclosure Commission
   accessed: '2026-10-13'
   kind: finance
+- id: site
+  title: 'Campaign website: Maggie Wang for State House (Home, About, Priorities, Endorsements)'
+  url: https://www.maggieforolympia.com
+  publisher: Maggie Wang campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: endorse-1
+  title: 'King County Republican Party: Endorsed Candidates'
+  url: https://kcgop.org/
+  publisher: King County Republican Party
+  accessed: '2026-10-17'
+  kind: endorsement
 ---
 
 ## Background
 
-<!-- TODO: session 2 -->
+In the Voters' Pamphlet, Maggie Wang describes herself as an immigrant, business owner, wife, mother, and "proud American".[^sos-pamphlet] She says she arrived from Taiwan in 1989.[^sos-pamphlet] She says she operated a fashion design hair salon for eight years beginning in 1981.[^sos-pamphlet] She also says she owned and operated a downtown Redmond restaurant for twenty-six years.[^sos-pamphlet] Under community service, she lists volunteering as an election observer at King County Elections since 2022.[^sos-pamphlet] The pamphlet lists no information under "Education".[^sos-pamphlet] Her campaign website says she wants to serve Bothell, Brier, Lake Forest Park, Kenmore, Kirkland, and Woodinville.[^site]
 
 ## Positions
 
-<!-- TODO: session 2 -->
+- **Taxes and affordability:** In the pamphlet, Wang says she will be a voice for affordability and lower taxes.[^sos-pamphlet] Her website says she will fight to stop new tax increases and make the state more affordable for working families, seniors, and small businesses.[^site]
+- **Government spending:** Her website says she supports auditing state spending, cutting what it calls wasteful programs, and increasing transparency.[^site] It also lists increasing transparency in state data collection and reporting as a priority.[^site]
+- **Public safety:** In the pamphlet, Wang says she will be a voice for public safety and safer neighborhoods.[^sos-pamphlet] Her website says she supports law enforcement and first responders.[^site]
+- **Parental rights and schools:** In the pamphlet, Wang says she will be a voice for parental rights.[^sos-pamphlet] Her website says schools should focus on education, parental involvement, and preparing students for success, and that she opposes what it calls "divisive political ideologies" in government and education.[^site]
+- **Small business:** In the pamphlet, Wang says she wants an economy where small businesses thrive.[^sos-pamphlet]
 
 ## Affiliations and endorsements
 
-<!-- TODO: session 2 -->
+Wang's party preference on the ballot is "Prefers Republican Party".[^kc-sample-ballot] The King County Republican Party lists Wang among its endorsed candidates on its website.[^endorse-1] In the pamphlet, Wang also says she is endorsed by the King County Republican Party.[^sos-pamphlet] Her campaign website lists a self-reported endorsement from the Snohomish County Republican Party.[^site] Her website also lists a self-reported endorsement from Arthur Coday Jr., whom it identifies as chair of the Snohomish County GOP's 1st District group.[^site]
 
 ## Record
 
-<!-- TODO: session 2 -->
+The pamphlet lists no information under "Elected Experience" for Wang.[^sos-pamphlet] Her campaign website does not list any prior elected office.[^site]
 
 ## Funding
 
-<!-- TODO: session 2 -->
+According to PDC filings, Wang's campaign had raised $11,189.51 and spent $6,891.60 as of October 13, 2026.[^finance] The PDC summary used by this site lists no itemized top contributors for the campaign.[^finance] No small-donor share could be computed from the filings.[^finance]
