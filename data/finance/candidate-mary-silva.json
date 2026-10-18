@@ -49,7 +49,7 @@
         "occupation": "N/A"
       }
     ],
-    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
+    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, counting only contributions (Schedule A lines 11-12) and excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
     "small_donor_share": 0.125,
     "small_donor_note": "share of total receipts reported as unitemized individual contributions (gifts of $200 or less)",
     "incumbent_challenge": "C"

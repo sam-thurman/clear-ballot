@@ -115,6 +115,12 @@ def top_contributors(c: httpx.Client, committee_id: str, n: int = 5) -> list[dic
         # the earmarked gifts already itemized under the real donor's name.
         if row.get("memo_code") == "X" or "CONDUIT" in (row.get("contributor_occupation") or "").upper() or name.strip().upper() in ("ACTBLUE", "WINRED"):
             continue
+        # Schedule A also carries non-contribution receipts: line 14 (other receipts, e.g. interest) and
+        # line 15 (offsets to operating expenditures, e.g. vendor refunds). Keep only contributions
+        # (lines 11A/11B/11C individuals and PACs, 12 transfers from other committees).
+        line = (row.get("line_number") or "").upper()
+        if not (line.startswith("11") or line.startswith("12")):
+            continue
         key = (name.strip().upper(), (row.get("contributor_employer") or "").strip().upper())
         a = agg.setdefault(key, {"name": name.strip(), "amount": 0.0, "count": 0, "employer": row.get("contributor_employer") or None, "occupation": row.get("contributor_occupation") or None})
         a["amount"] += float(row.get("contribution_receipt_amount") or 0)
@@ -176,7 +182,7 @@ def main() -> int:
                             "as_of": t["coverage_end_date"] or today,
                             "last_report": t["last_report"],
                             "top_contributors": top,
-                            "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
+                            "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, counting only contributions (Schedule A lines 11-12) and excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
                             "small_donor_share": round(unitemized / receipts, 3) if receipts > 0 else None,
                             "small_donor_note": SMALL_DONOR_NOTE,
                             "incumbent_challenge": fc.get("incumbent_challenge"),

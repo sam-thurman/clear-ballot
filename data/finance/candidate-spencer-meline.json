@@ -14,20 +14,6 @@
     "last_report": "OCTOBER QUARTERLY",
     "top_contributors": [
       {
-        "name": "MELINE, SPENCER HARRISON",
-        "amount": 70000.0,
-        "count": 2,
-        "employer": "SELF",
-        "occupation": "BUSINESS OWNER"
-      },
-      {
-        "name": "MELINE, SPENCER",
-        "amount": 15010.0,
-        "count": 2,
-        "employer": "SELF",
-        "occupation": "BUSINESS OWNER"
-      },
-      {
         "name": "MELINE SERVICES",
         "amount": 6500.0,
         "count": 2,
@@ -47,9 +33,23 @@
         "count": 2,
         "employer": "UNIFIED DOOR AND HARDWARE",
         "occupation": "ACCOUNTS PAYABLE"
+      },
+      {
+        "name": "HERRIED, BENJAMIN",
+        "amount": 3500.0,
+        "count": 1,
+        "employer": "SELF",
+        "occupation": "BUSINESS OWNER"
+      },
+      {
+        "name": "CHRISTIANSEN, BRIANNA",
+        "amount": 3500.0,
+        "count": 2,
+        "employer": "LOCKHEED MARTIN",
+        "occupation": "ENGINEER"
       }
     ],
-    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
+    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, counting only contributions (Schedule A lines 11-12) and excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
     "small_donor_share": 0.031,
     "small_donor_note": "share of total receipts reported as unitemized individual contributions (gifts of $200 or less)",
     "incumbent_challenge": "C"

@@ -14,23 +14,9 @@
     "last_report": "OCTOBER QUARTERLY",
     "top_contributors": [
       {
-        "name": "WELLS FARGO",
-        "amount": 48532.13,
-        "count": 5,
-        "employer": null,
-        "occupation": null
-      },
-      {
         "name": "314 ACTION IMPACT SLATE",
         "amount": 12407.53,
         "count": 2,
-        "employer": null,
-        "occupation": null
-      },
-      {
-        "name": "GMMB INC.",
-        "amount": 11695.43,
-        "count": 1,
         "employer": null,
         "occupation": null
       },
@@ -47,9 +33,23 @@
         "count": 2,
         "employer": null,
         "occupation": null
+      },
+      {
+        "name": "OSI SYSTEMS INC PAC OSI PAC",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
+      },
+      {
+        "name": "U.S. ANESTHESIA PARTNERS, INC. PAC D/B/A/ USAP PAC",
+        "amount": 10000.0,
+        "count": 2,
+        "employer": null,
+        "occupation": null
       }
     ],
-    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
+    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, counting only contributions (Schedule A lines 11-12) and excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
     "small_donor_share": 0.06,
     "small_donor_note": "share of total receipts reported as unitemized individual contributions (gifts of $200 or less)",
     "incumbent_challenge": "I"

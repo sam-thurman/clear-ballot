@@ -28,13 +28,6 @@
         "occupation": "RETIRED"
       },
       {
-        "name": "BASLER, DOUGLAS MICHAEL",
-        "amount": 760.0,
-        "count": 1,
-        "employer": "EZTVSPOTS.COM",
-        "occupation": "PRESIDENT"
-      },
-      {
         "name": "FICKS, JESSE",
         "amount": 520.51,
         "count": 1,
@@ -47,9 +40,16 @@
         "count": 1,
         "employer": "AT&T",
         "occupation": "ENGINEER"
+      },
+      {
+        "name": "ROSEMARY, JAMES",
+        "amount": 360.25,
+        "count": 2,
+        "employer": "NEW TECH WEB INC",
+        "occupation": "INTERNET MARKETING"
       }
     ],
-    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
+    "top_contributors_note": "aggregated from the 100 largest itemized receipts to the principal campaign committee, counting only contributions (Schedule A lines 11-12) and excluding conduit (ActBlue/WinRed) roll-ups and memo entries",
     "small_donor_share": 0.158,
     "small_donor_note": "share of total receipts reported as unitemized individual contributions (gifts of $200 or less)",
     "incumbent_challenge": "C"
