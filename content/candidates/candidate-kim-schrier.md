@@ -22,16 +22,8 @@ finance:
   cash_on_hand: 3584515.33
   as_of: '2026-09-30'
   top_contributors:
-  - name: WELLS FARGO
-    amount: 48532.13
-    employer: null
-    occupation: null
   - name: 314 ACTION IMPACT SLATE
     amount: 12407.53
-    employer: null
-    occupation: null
-  - name: GMMB INC.
-    amount: 11695.43
     employer: null
     occupation: null
   - name: RADIOLOGY PARTNERS, INC. PAC
@@ -39,6 +31,14 @@ finance:
     employer: null
     occupation: null
   - name: AMERICAN COLLEGE OF CARDIOLOGY POLITICAL ACTION COMMITTEE
+    amount: 10000.0
+    employer: null
+    occupation: null
+  - name: OSI SYSTEMS INC PAC OSI PAC
+    amount: 10000.0
+    employer: null
+    occupation: null
+  - name: U.S. ANESTHESIA PARTNERS, INC. PAC D/B/A/ USAP PAC
     amount: 10000.0
     employer: null
     occupation: null
@@ -260,7 +260,37 @@ record:
     roll_call_url: https://clerk.house.gov/evs/2025/roll070.xml
     question: On Passage
   pamphlet_cited_bills: []
-endorsements: []
+endorsements:
+- org: Planned Parenthood Action Fund
+  url: https://drkimschrier.com/endorsements/
+  self_reported: true
+- org: Washington State Labor Council
+  url: https://drkimschrier.com/endorsements/
+  self_reported: true
+- org: League of Conservation Voters
+  url: https://drkimschrier.com/endorsements/
+  self_reported: true
+- org: Washington Education Association
+  url: https://drkimschrier.com/endorsements/
+  self_reported: true
+- org: Sierra Club
+  url: https://drkimschrier.com/endorsements/
+  self_reported: true
+- org: Washington State Building and Construction Trades Council
+  url: https://drkimschrier.com/endorsements/
+  self_reported: true
+- org: WFSE, AFSCME Council 28
+  url: https://drkimschrier.com/endorsements/
+  self_reported: true
+- org: Alliance for Gun Responsibility
+  url: https://drkimschrier.com/endorsements/
+  self_reported: true
+- org: Giffords PAC
+  url: https://drkimschrier.com/endorsements/
+  self_reported: true
+- org: Washington Machinists Council
+  url: https://drkimschrier.com/endorsements/
+  self_reported: true
 sources:
 - id: kc-sample-ballot
   title: King County Elections sample ballot, November 3, 2026 General Election
@@ -292,24 +322,75 @@ sources:
   publisher: Federal Election Commission
   accessed: '2026-09-30'
   kind: finance
+- id: site
+  title: 'Campaign website: Home'
+  url: https://drkimschrier.com
+  publisher: Kim Schrier campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-about
+  title: 'Campaign website: About Kim'
+  url: https://drkimschrier.com/about-kim/
+  publisher: Kim Schrier campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-endorsements
+  title: 'Campaign website: Endorsements'
+  url: https://drkimschrier.com/endorsements/
+  publisher: Kim Schrier campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-economy
+  title: 'Campaign website: Economy + Trade'
+  url: https://drkimschrier.com/economy/
+  publisher: Kim Schrier campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-healthcare
+  title: 'Campaign website: Healthcare'
+  url: https://drkimschrier.com/healthcare/
+  publisher: Kim Schrier campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-climate
+  title: 'Campaign website: Climate Change and the Environment'
+  url: https://drkimschrier.com/climate-change-and-the-environment/
+  publisher: Kim Schrier campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-safety
+  title: 'Campaign website: Public Safety'
+  url: https://drkimschrier.com/public-safety/
+  publisher: Kim Schrier campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
 ---
 
 ## Background
 
-<!-- TODO: session 2 -->
+Kim Schrier has served in the U.S. House for Washington's 8th Congressional District since 2019, according to Congress.gov, which lists her as a Democrat.[^congress-member] In the Voters' Pamphlet, Schrier says she serves on the Committee on Energy and Commerce and its subcommittees on Health and on Energy, Commerce, Manufacturing, and Trade.[^sos-pamphlet] She says she was a pediatrician in Issaquah for 17 years.[^sos-pamphlet] She lists a pediatric residency at Stanford University (2000), a medical degree from the UC Davis School of Medicine (1997), and a bachelor's degree in astrophysics from UC Berkeley (1991).[^sos-pamphlet] In the pamphlet, she lists community service in Green River habitat restoration, work with the Mountains to Sound Greenway, and the King County Clinic, which provides free medical care.[^sos-pamphlet] Her campaign website says she has Type 1 diabetes and that she decided to run for office over changes to the health care system.[^site-about]
 
 ## Positions
 
-<!-- TODO: session 2 -->
+- **Cost of living:** In the Voters' Pamphlet, Schrier says she has introduced legislation to suspend the gas tax through the end of the year.[^sos-pamphlet] Her website says she opposed the Kroger and Albertsons merger and led a bill to protect children's data from large technology companies.[^site]
+- **Health care:** Schrier says she has passed bills to cap insulin costs, let Medicare negotiate prescription prices, and cap out-of-pocket costs for seniors.[^sos-pamphlet] Her website says she wants to undo cuts to Medicaid and restore premium tax credits, and that doctors and patients, not insurance companies, should make health care decisions.[^site]
+- **Housing:** Schrier says she has introduced legislation to create more affordable housing.[^sos-pamphlet]
+- **Clean energy and climate:** Schrier says she has introduced legislation to spur clean energy development.[^sos-pamphlet] Her website says she supports action to reduce carbon emissions and access to public lands.[^site-climate]
+- **Farms and trade:** Schrier says she is standing up for family farms by working to reverse India's apple tariffs and seeking foreign market access in the Farm Bill.[^sos-pamphlet] Her website says she supported the USMCA trade agreement and wants worker protections in trade agreements.[^site-economy]
+- **Community projects:** Schrier says she secured over $60 million for community projects in the 8th District, including a school-based health clinic in Graham, veterans' housing in Ellensburg, and Highway 2 improvements.[^sos-pamphlet]
+- **Public safety:** Schrier says she secured funding for body cameras and a King County rapid DNA system for law enforcement.[^sos-pamphlet] Her website says she co-sponsored the Invest to Protect Act for small police departments.[^site-safety]
+- **Executive power:** Schrier says she is in Congress to put a check on what she calls the administration's unchecked power.[^sos-pamphlet]
 
 ## Affiliations and endorsements
 
-<!-- TODO: session 2 -->
+Schrier's ballot listing says "Prefers Democratic Party."[^kc-sample-ballot] In the Voters' Pamphlet, she lists self-reported endorsements from Planned Parenthood Action Fund, the Washington State Labor Council, and the League of Conservation Voters.[^sos-pamphlet] She also lists mayors across the district, including Mike Poirier of Wenatchee, Rich Elliott of Ellensburg, Dan Rankin of Darrington, and Nancy Backus of Auburn.[^sos-pamphlet] Her campaign website's self-reported endorsement list adds the Washington Education Association, the Sierra Club, and the Washington State Building and Construction Trades Council.[^site-endorsements] It also lists WFSE AFSCME Council 28, the Alliance for Gun Responsibility, Giffords PAC, and the Washington Machinists Council.[^site-endorsements] The site lists more organizations and additional mayors.[^site-endorsements]
 
 ## Record
 
-<!-- TODO: session 2 -->
+Congress.gov lists 23 bills Schrier introduced in the 119th Congress as of October 17, 2026.[^congress-sponsored] One, H.R. 3657, the Hydropower Licensing Transparency Act, became Public Law 119-112 on September 25, 2026.[^congress-sponsored] Other examples include H.R. 8127, the Permanent Housing Affordability Act; H.R. 3995, the State Public Option Act; and H.R. 3889, the National Prescribed Fire Act of 2025.[^congress-sponsored] H.R. 7377, the Know Before You Drive Act, was forwarded by a subcommittee to the full committee; the remaining bills were referred to committee.[^congress-sponsored]
+
+On the shortlist of appropriations and budget-reconciliation measures, Schrier voted nay on H.R. 1968, the Full-Year Continuing Appropriations and Extensions Act, 2025.[^congress-member] A continuing appropriations act is a bill that keeps federal agencies funded for a set period, usually at existing levels.[^congress-member] She voted nay on H.R. 1, the 2025 budget reconciliation act; reconciliation is a fast-track process for bills that change federal spending or taxes.[^congress-member] She voted nay on H.R. 5371, the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026.[^congress-member] She voted yea on H.R. 6938, the Commerce, Justice, Science; Energy and Water; and Interior and Environment Appropriations Act, 2026.[^congress-member] She voted nay on H.R. 7147, the Homeland Security and Further Additional Continuing Appropriations Act, 2026.[^congress-member] She voted yea on H.R. 7148, the Consolidated Appropriations Act, 2026.[^congress-member] She voted nay on S. 2, the Secure America Act, a reconciliation bill.[^congress-member] She voted yea on H.R. 6500, the Continuing Appropriations and Extensions Act, 2027.[^congress-member]
 
 ## Funding
 
-<!-- TODO: session 2 -->
+According to FEC filings, Schrier's campaign raised $3,611,410.18 and spent $1,848,517.52 through September 30, 2026, and had $3,584,515.33 in cash on hand.[^finance] About 6.0 percent of receipts came from small donors, meaning unitemized individual contributions of $200 or less.[^finance] The largest contributor listed was 314 Action Impact Slate ($12,407.53), a political committee.[^finance] Four PACs gave $10,000 each: the Radiology Partners, Inc. PAC, the American College of Cardiology PAC, the OSI Systems Inc PAC, and the U.S. Anesthesia Partners, Inc. PAC.[^finance] No employer or occupation was filed for these contributors.[^finance]

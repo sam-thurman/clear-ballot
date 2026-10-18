@@ -260,7 +260,37 @@ record:
     roll_call_url: https://clerk.house.gov/evs/2025/roll070.xml
     question: On Passage
   pamphlet_cited_bills: []
-endorsements: []
+endorsements:
+- org: King County Democrats
+  url: https://electadamsmith.com/endorsements/
+  self_reported: true
+- org: Washington State Labor Council
+  url: https://electadamsmith.com/endorsements/
+  self_reported: true
+- org: Washington Education Association
+  url: https://electadamsmith.com/endorsements/
+  self_reported: true
+- org: Washington State Building and Construction Trades Council
+  url: https://electadamsmith.com/endorsements/
+  self_reported: true
+- org: International Association of Machinists and Aerospace Workers Local 751
+  url: https://electadamsmith.com/endorsements/
+  self_reported: true
+- org: AFSCME Council 28, Washington Federation of State Employees (WFSE)
+  url: https://electadamsmith.com/endorsements/
+  self_reported: true
+- org: Planned Parenthood Action Fund
+  url: https://electadamsmith.com/endorsements/
+  self_reported: true
+- org: Human Rights Campaign PAC
+  url: https://electadamsmith.com/endorsements/
+  self_reported: true
+- org: Sierra Club
+  url: https://electadamsmith.com/endorsements/
+  self_reported: true
+- org: Amalgamated Transit Union
+  url: https://electadamsmith.com/endorsements/
+  self_reported: true
 sources:
 - id: kc-sample-ballot
   title: King County Elections sample ballot, November 3, 2026 General Election
@@ -292,24 +322,57 @@ sources:
   publisher: Federal Election Commission
   accessed: '2026-09-30'
   kind: finance
+- id: site
+  title: 'Campaign website: Home'
+  url: https://www.electadamsmith.com
+  publisher: Adam Smith campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-about
+  title: 'Campaign website: Meet Adam'
+  url: https://electadamsmith.com/meet-adam/
+  publisher: Adam Smith campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-priorities
+  title: 'Campaign website: Priorities'
+  url: https://electadamsmith.com/priorities/
+  publisher: Adam Smith campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-endorsements
+  title: 'Campaign website: Endorsements'
+  url: https://electadamsmith.com/endorsements/
+  publisher: Adam Smith campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
 ---
 
 ## Background
 
-<!-- TODO: session 2 -->
+Adam Smith has served in the U.S. House for Washington's 9th Congressional District since 1997, according to Congress.gov, which lists him as a Democrat.[^congress-member] In the Voters' Pamphlet, he lists service as a Washington State Senator from 1991 to 1996.[^sos-pamphlet] He says he was a prosecutor for the City of Seattle from 1993 to 1995 and an attorney at Cromwell, Mendoza and Belur.[^sos-pamphlet] He lists a law degree from the University of Washington (1990) and a bachelor's degree from Fordham University (1987).[^sos-pamphlet] Smith says he grew up in the city of SeaTac and that he and his wife, Sara, raised two children in the district.[^sos-pamphlet] His campaign website says his father was a ramp serviceman at Sea-Tac Airport and a Machinists' Union member, and that the family now lives in Bellevue.[^site-about] In the pamphlet, he lists membership on the University of Washington Evans School Honorary Advisory Board, the Council on Foreign Relations, and the Borgen Project Board of Directors.[^sos-pamphlet] He says he is the past chairman and top Democrat on the House Armed Services Committee.[^sos-pamphlet]
 
 ## Positions
 
-<!-- TODO: session 2 -->
+- **Housing:** In the Voters' Pamphlet, Smith says the cost of housing must come down and homeownership must become achievable again.[^sos-pamphlet] His website says he wrote the End Hedge Fund Control of American Homes Act, which it says would force private-equity firms to sell their single-family homes.[^site-priorities]
+- **Jobs and unions:** Smith says he wants to protect unions, expand job training and workforce development programs, and create good-paying jobs.[^sos-pamphlet] His website says he supports raising the federal minimum wage to $20 an hour and co-sponsored the PRO Act.[^site-priorities]
+- **Health care:** Smith says all people should have access to quality, affordable health care and that the system should be restructured toward a single-payer plan like Medicare for All.[^sos-pamphlet]
+- **Military families:** Smith says he has prioritized support for service members and their families.[^sos-pamphlet]
+- **Executive power and oversight:** His website says he is working to protect SNAP benefits, health care subsidies, and Washington's vote-by-mail system from the Trump administration.[^site-priorities] It says he co-sponsored War Powers Resolutions on Venezuela and brokered an investigation of military operations in the Caribbean.[^site-priorities]
+- **Government ethics:** His website says he supports banning stock trading by members of Congress and co-sponsors the Supreme Court Ethics and Transparency Act.[^site-priorities]
+- **Abortion:** His website says he co-sponsors the Ensuring Women's Right to Reproductive Freedom Act, which it describes as protecting interstate travel for abortion.[^site-priorities]
+- **Environment:** His website lists protecting Puget Sound and supporting a clean energy future among his priorities.[^site][^site-about]
 
 ## Affiliations and endorsements
 
-<!-- TODO: session 2 -->
+Smith's ballot listing says "Prefers Democratic Party."[^kc-sample-ballot] In the Voters' Pamphlet, he lists membership in the Council on Foreign Relations and former membership in the Federal Way Kiwanis Club and the Tom Lantos Human Rights Commission.[^sos-pamphlet] The Voters' Pamphlet statement does not list endorsements.[^sos-pamphlet] His campaign website lists self-reported endorsements including the King County Democrats, the Washington State Labor Council, the Washington Education Association, and the Washington State Building and Construction Trades Council.[^site-endorsements] It also lists the Machinists Local 751, WFSE AFSCME Council 28, Planned Parenthood Action Fund, the Human Rights Campaign PAC, the Sierra Club, and the Amalgamated Transit Union.[^site-endorsements] The site lists more organizations, along with Governor Bob Ferguson, other statewide officials, state legislators, and mayors.[^site-endorsements]
 
 ## Record
 
-<!-- TODO: session 2 -->
+Congress.gov lists 23 measures Smith introduced in the 119th Congress as of October 17, 2026, including 21 bills and two House resolutions.[^congress-sponsored] Examples include H.R. 9657, the Protecting American Homes from Hedge Funds Act; H.R. 5531, the Career and Technical Education Access Act; and H.R. 5859, the Behavioral Health Crisis Care Centers Act of 2025.[^congress-sponsored] All 23 measures were referred to committee.[^congress-sponsored]
+
+On the shortlist of appropriations and budget-reconciliation measures, Smith voted nay on H.R. 1968, the Full-Year Continuing Appropriations and Extensions Act, 2025.[^congress-member] A continuing appropriations act is a bill that keeps federal agencies funded for a set period, usually at existing levels.[^congress-member] He voted nay on H.R. 1, the 2025 budget reconciliation act; reconciliation is a fast-track process for bills that change federal spending or taxes.[^congress-member] He voted nay on H.R. 5371, the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026.[^congress-member] He voted yea on H.R. 6938, the Commerce, Justice, Science; Energy and Water; and Interior and Environment Appropriations Act, 2026.[^congress-member] He voted nay on H.R. 7147, the Homeland Security and Further Additional Continuing Appropriations Act, 2026.[^congress-member] He voted nay on H.R. 7148, the Consolidated Appropriations Act, 2026.[^congress-member] He voted nay on S. 2, the Secure America Act, a reconciliation bill.[^congress-member] He is recorded as absent, meaning not voting, on H.R. 6500, the Continuing Appropriations and Extensions Act, 2027.[^congress-member]
 
 ## Funding
 
-<!-- TODO: session 2 -->
+According to FEC filings, Smith's campaign raised $2,119,801.39 and spent $2,075,036.85 through September 30, 2026, and had $615,517.36 in cash on hand.[^finance] About 5.3 percent of receipts came from small donors, meaning unitemized individual contributions of $200 or less.[^finance] The largest contributor listed was Mehdi Allhassani ($14,000.00), filed as a manager at Palantir Technologies.[^finance] Four contributors gave $10,000 each.[^finance] They were the Carpenters Legislative Improvement Committee (United Brotherhood of Carpenters and Joiners), the Amazon.com Services LLC Separate Segregated Fund, the Laborers' Political League, and the Baker Donelson Bearman Caldwell & Berkowitz PC PAC.[^finance]

@@ -1,0 +1,33 @@
+SOURCE: Congress.gov member page: Smith, Adam
+URL: https://www.congress.gov/member/adam-smith/S000510
+RETRIEVED: 2026-10-17
+NOTE: www.congress.gov member page is behind a Cloudflare bot check; this record was retrieved from the same publisher's API endpoint https://api.congress.gov/v3/member/S000510
+
+Name: Adam Smith
+Bioguide ID: S000510
+State: Washington
+Birth year: 1965
+Current member: True
+Official website: https://adamsmith.house.gov/
+Office: 2264 Rayburn House Office Building, Washington 20515; phone (202) 225-8901
+Party history:
+  - Democratic from 1997
+Terms of service:
+  - House of Representatives, Washington district 9, Congress 105, 1997-1999
+  - House of Representatives, Washington district 9, Congress 106, 1999-2001
+  - House of Representatives, Washington district 9, Congress 107, 2001-2003
+  - House of Representatives, Washington district 9, Congress 108, 2003-2005
+  - House of Representatives, Washington district 9, Congress 109, 2005-2007
+  - House of Representatives, Washington district 9, Congress 110, 2007-2009
+  - House of Representatives, Washington district 9, Congress 111, 2009-2011
+  - House of Representatives, Washington district 9, Congress 112, 2011-2013
+  - House of Representatives, Washington district 9, Congress 113, 2013-2015
+  - House of Representatives, Washington district 9, Congress 114, 2015-2017
+  - House of Representatives, Washington district 9, Congress 115, 2017-2019
+  - House of Representatives, Washington district 9, Congress 116, 2019-2021
+  - House of Representatives, Washington district 9, Congress 117, 2021-2023
+  - House of Representatives, Washington district 9, Congress 118, 2023-2025
+  - House of Representatives, Washington district 9, Congress 119, 2025-None
+Leadership roles:
+Sponsored legislation count (all congresses): 239
+Cosponsored legislation count (all congresses): 5056
