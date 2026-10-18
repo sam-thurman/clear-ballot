@@ -428,7 +428,37 @@ record:
     roll_call_url: https://clerk.house.gov/evs/2025/roll070.xml
     question: On Passage
   pamphlet_cited_bills: []
-endorsements: []
+endorsements:
+- org: Washington State Labor Council, AFL-CIO
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  self_reported: true
+- org: Washington Federation of State Employees (WFSE), AFSCME Council 28
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  self_reported: true
+- org: UFCW Local 3000
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  self_reported: true
+- org: National Education Association
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  self_reported: true
+- org: Washington State Building and Construction Trades Council
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  self_reported: true
+- org: International Association of Machinists and Aerospace Workers 751
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  self_reported: true
+- org: Sierra Club
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  self_reported: true
+- org: Planned Parenthood Action Fund
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  self_reported: true
+- org: OneAmerica Votes
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  self_reported: true
+- org: King County Democrats
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  self_reported: true
 sources:
 - id: kc-sample-ballot
   title: King County Elections sample ballot, November 3, 2026 General Election
@@ -460,24 +490,59 @@ sources:
   publisher: Federal Election Commission
   accessed: '2026-09-30'
   kind: finance
+- id: site
+  title: 'Campaign website: Home'
+  url: https://www.pramilaforcongress.com
+  publisher: Pramila Jayapal campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-about
+  title: 'Campaign website: About Pramila'
+  url: https://www.pramilaforcongress.com/bio
+  publisher: Pramila Jayapal campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-results
+  title: 'Campaign website: Real Results'
+  url: https://www.pramilaforcongress.com/real-results
+  publisher: Pramila Jayapal campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-endorsements
+  title: 'Campaign website: 2026 Endorsements'
+  url: https://www.pramilaforcongress.com/2026-endorsements
+  publisher: Pramila Jayapal campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
 ---
 
 ## Background
 
-<!-- TODO: session 2 -->
+Pramila Jayapal has served in the U.S. House for Washington's 7th Congressional District since 2017, according to Congress.gov, which lists her as a Democrat.[^congress-member] In the Voters' Pamphlet, she lists service as a Washington State Senator from 2015 to 2017.[^sos-pamphlet] She lists prior work as founder and executive director of OneAmerica, director of the PATH Fund for Technology Transfer, a financial analyst, and an author.[^sos-pamphlet] Her campaign website says OneAmerica is an immigration advocacy organization in Washington State and that she led it for 12 years.[^site-about] She lists a bachelor's degree in English and economics from Georgetown University and a master's degree in business administration from Northwestern University.[^sos-pamphlet] In the pamphlet, she says she serves on the House Judiciary, Foreign Affairs, and Budget committees and is ranking member of the Immigration Subcommittee.[^sos-pamphlet] She says she is chair emerita of the Congressional Progressive Caucus and co-chair of the Monopoly Busters Caucus and the Trans Equality Task Force.[^sos-pamphlet] Her website says she was born in India and came to the United States at age 16, and that she lives in West Seattle.[^site-about]
 
 ## Positions
 
-<!-- TODO: session 2 -->
+- **Health care:** In the Voters' Pamphlet, Jayapal says she is leading the fight for the Medicare for All Act, which she describes as making universal health care a right.[^sos-pamphlet]
+- **Higher education:** Jayapal says she leads legislation to make higher education tuition-free.[^sos-pamphlet] Her website says the College for All Act would make public colleges free for families earning up to $125,000 and community college free for everyone.[^site-about]
+- **Housing:** Jayapal says she leads legislation to guarantee housing as a human right.[^sos-pamphlet]
+- **Wages and workers:** Jayapal says she leads legislation to expand workers' rights and raise the federal minimum wage.[^sos-pamphlet] Her website lists the PRO Act and the Raise the Wage Act, which it says would set a $15 federal minimum wage.[^site-results]
+- **Taxes:** Jayapal says she leads legislation to establish an "ultra-millionaire" wealth tax.[^sos-pamphlet]
+- **Immigration:** Jayapal says she supports what she calls humane immigration reform and has worked to hold ICE and CBP accountable for actions she describes as lawless.[^sos-pamphlet] Her website lists the Dignity for Detained Immigrants Act, which it says would end the use of private, for-profit detention centers.[^site-about]
+- **Government ethics and privacy:** Jayapal says she leads bipartisan bills to ban stock trading by members of Congress and to protect Americans from government spying.[^sos-pamphlet] She also says she is working to get money out of politics and reform the Supreme Court.[^sos-pamphlet]
+- **Corporate consolidation:** Jayapal says she established the Monopoly Busters Caucus to fight consolidation, corporate greed, and price-gouging.[^sos-pamphlet]
+- **War powers:** Jayapal says she authored a War Powers Resolution to end what she calls Trump's illegal war in Iran.[^sos-pamphlet]
+- **Climate:** Jayapal says she has worked to fight climate change.[^sos-pamphlet] Her website says she supports a transition to a 100 percent clean energy economy.[^site-about]
 
 ## Affiliations and endorsements
 
-<!-- TODO: session 2 -->
+Jayapal's ballot listing says "Prefers Democratic Party."[^kc-sample-ballot] In the Voters' Pamphlet, she lists membership in the Congressional Progressive Caucus, Congressional Equality Caucus, Congressional Asian Pacific American Caucus, and Pro-Choice Caucus.[^sos-pamphlet] She says she has never taken corporate PAC money.[^sos-pamphlet] In the pamphlet, she lists self-reported endorsements from the Washington State Labor Council, WFSE, UFCW 3000, NEA/WEA, and the Washington State Building & Construction Trades Council.[^sos-pamphlet] She also lists self-reported endorsements from Planned Parenthood, the Sierra Club, and the King County Democrats.[^sos-pamphlet] Her campaign website's self-reported endorsement list adds the Machinists District 751, OneAmerica Votes, Moms Demand Action, Giffords PAC, SEIU 925, National Nurses United, and the UAW.[^site-endorsements] The site lists more than 40 organizations in total, including several legislative district Democratic groups.[^site-endorsements]
 
 ## Record
 
-<!-- TODO: session 2 -->
+Congress.gov lists 51 measures Jayapal introduced in the 119th Congress as of October 17, 2026, including 34 bills and 17 resolutions.[^congress-sponsored] Examples include H.R. 3069, the Medicare for All Act; H.R. 4457, the Housing Is a Human Right Act of 2025; and H.R. 8085, the Ultra-Millionaire Tax Act of 2026.[^congress-sponsored] Her House Concurrent Resolution 89, directing the removal of U.S. forces from hostilities with Iran under the War Powers Resolution, failed in the Senate by a 49-50 vote on September 24, 2026.[^congress-sponsored] Most of her other measures were referred to committee without further action.[^congress-sponsored]
+
+On the shortlist of appropriations and budget-reconciliation measures, Jayapal voted nay on H.R. 1968, the Full-Year Continuing Appropriations and Extensions Act, 2025.[^congress-member] A continuing appropriations act is a bill that keeps federal agencies funded for a set period, usually at existing levels.[^congress-member] She voted nay on H.R. 1, the 2025 budget reconciliation act; reconciliation is a fast-track process for bills that change federal spending or taxes.[^congress-member] She voted nay on H.R. 5371, the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026.[^congress-member] She voted yea on H.R. 6938, the Commerce, Justice, Science; Energy and Water; and Interior and Environment Appropriations Act, 2026.[^congress-member] She voted nay on H.R. 7147, the Homeland Security and Further Additional Continuing Appropriations Act, 2026.[^congress-member] She voted nay on H.R. 7148, the Consolidated Appropriations Act, 2026.[^congress-member] She voted nay on S. 2, the Secure America Act, a reconciliation bill.[^congress-member] She voted nay on H.R. 6500, the Continuing Appropriations and Extensions Act, 2027.[^congress-member]
 
 ## Funding
 
-<!-- TODO: session 2 -->
+According to FEC filings, Jayapal's campaign raised $2,851,517.32 and spent $3,096,286.36 through September 30, 2026, and had $1,767,955.73 in cash on hand.[^finance] About 39.2 percent of receipts came from small donors, meaning unitemized individual contributions of $200 or less.[^finance] The largest contributors listed were Pramila's Progressive Power PAC ($59,750.00) and Steve Romein ($14,000.00), whose employer and occupation were filed as "not employed."[^finance] Three contributors gave $10,000 each: the International Union of Bricklayers & Allied Craftworkers PAC, Indivisible Action, and the UAW Voluntary Community Action Program.[^finance]

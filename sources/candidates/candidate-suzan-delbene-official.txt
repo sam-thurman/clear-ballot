@@ -1,0 +1,26 @@
+SOURCE: Congress.gov member page: DelBene, Suzan K.
+URL: https://www.congress.gov/member/suzan-delbene/D000617
+RETRIEVED: 2026-10-17
+NOTE: www.congress.gov member page is behind a Cloudflare bot check; this record was retrieved from the same publisher's API endpoint https://api.congress.gov/v3/member/D000617
+
+Name: Suzan K. DelBene
+Bioguide ID: D000617
+State: Washington
+Birth year: 1962
+Current member: True
+Official website: https://delbene.house.gov
+Office: 2311 Rayburn House Office Building, Washington 20515; phone (202) 225-6311
+Party history:
+  - Democratic from 2012
+Terms of service:
+  - House of Representatives, Washington district 1, Congress 112, 2012-2013
+  - House of Representatives, Washington district 1, Congress 113, 2013-2015
+  - House of Representatives, Washington district 1, Congress 114, 2015-2017
+  - House of Representatives, Washington district 1, Congress 115, 2017-2019
+  - House of Representatives, Washington district 1, Congress 116, 2019-2021
+  - House of Representatives, Washington district 1, Congress 117, 2021-2023
+  - House of Representatives, Washington district 1, Congress 118, 2023-2025
+  - House of Representatives, Washington district 1, Congress 119, 2025-None
+Leadership roles:
+Sponsored legislation count (all congresses): 155
+Cosponsored legislation count (all congresses): 3367
