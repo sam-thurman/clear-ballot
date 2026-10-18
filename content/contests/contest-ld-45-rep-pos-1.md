@@ -22,8 +22,14 @@ sources:
   publisher: King County Elections
   accessed: '2026-10-17'
   kind: official
+- id: sos-offices
+  title: Descriptions of Elected Offices
+  url: https://www.sos.wa.gov/elections/candidates/information/descriptions-elected-offices
+  publisher: Washington Secretary of State
+  accessed: '2026-10-17'
+  kind: official
 ---
 
 ## About this office
 
-<!-- TODO: session 2 -->
+State legislators propose and pass state laws, set the state budget, and decide how taxes are collected to pay for state and local government.[^sos-offices] The state House of Representatives has 98 members, two from each legislative district, elected to two-year terms, so every House seat is up for election in even-numbered years.[^sos-offices] Legislators must be registered voters of their district.[^sos-offices]
