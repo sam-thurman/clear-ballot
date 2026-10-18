@@ -161,7 +161,16 @@ record:
     chamber: House
     date: '2026-03-12'
     url: https://app.leg.wa.gov/billsummary?BillNumber=5998&Year=2026
-endorsements: []
+endorsements:
+- org: Washington Small Business Council
+  url: https://www.burnettforstaterepresentative.com/#page-3
+  self_reported: true
+- org: Chelan County Republican Central Committee
+  url: https://www.burnettforstaterepresentative.com/#page-3
+  self_reported: true
+- org: Chelan County Sheriff's Office Supervisor Group
+  url: https://www.burnettforstaterepresentative.com/#page-3
+  self_reported: true
 sources:
 - id: kc-sample-ballot
   title: King County Elections sample ballot, November 3, 2026 General Election
@@ -193,24 +202,54 @@ sources:
   publisher: Washington State Legislature
   accessed: '2026-10-17'
   kind: legislative
+- id: site
+  title: 'Campaign website: Home'
+  url: https://www.burnettforstaterepresentative.com/
+  publisher: Brian Burnett campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-about
+  title: 'Campaign website: About Brian'
+  url: https://www.burnettforstaterepresentative.com/#page-1
+  publisher: Brian Burnett campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-priorities
+  title: 'Campaign website: Priorities'
+  url: https://www.burnettforstaterepresentative.com/#page-2
+  publisher: Brian Burnett campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-endorsements
+  title: 'Campaign website: Endorsements'
+  url: https://www.burnettforstaterepresentative.com/#page-3
+  publisher: Brian Burnett campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
 ---
 
 ## Background
 
-<!-- TODO: session 2 -->
+Brian Burnett is the state representative for the 12th Legislative District, Position 1.[^leg-member] The Legislature's member page lists him as a Republican and as Assistant Minority Whip, a House Republican leadership position.[^leg-member] It lists him as assistant ranking minority member of the Early Learning & Human Services Committee and a member of the Appropriations, Civil Rights & Judiciary, and Community Safety committees.[^leg-member] In the Voters' Pamphlet, Burnett says he has served as state representative since 2024, was Chelan County Sheriff from 2011 to 2022, and was a Chelan County precinct committee officer from 2011 to 2018.[^sos-pamphlet] He says he is a past president of the Washington Association of Sheriffs & Police Chiefs and the Washington State Sheriffs Association.[^sos-pamphlet] He says he works as Director of Law Enforcement Services for Seattle's Finest Security.[^sos-pamphlet] He lists training at the FBI National Academy, a sergeants academy, the Washington State SWAT Basic Academy, and the Washington State Basic Law Enforcement Academy.[^sos-pamphlet] He lists community roles as camp director for Royal Family Kids, a summer camp for foster children, and board member of the NCW Chaplains Foundation and UVCares.[^sos-pamphlet] On his campaign website, Burnett says he has been married to his wife April for 39 years and has seven children and twelve grandchildren.[^site-about]
 
 ## Positions
 
-<!-- TODO: session 2 -->
+- **Public safety:** In the Voters' Pamphlet, Burnett says he focuses on reducing crime and on "victim-centered justice that holds criminals accountable."[^sos-pamphlet] His website says he supports giving law enforcement "the tools they need to do their jobs effectively."[^site-priorities]
+- **Taxes and spending:** He says he prioritizes taxpayer dollars.[^sos-pamphlet] His website says state government "should live within its means" and that he supports responsible budgeting and greater accountability.[^site-priorities]
+- **Parental rights and property rights:** He says he works to protect "your rights, your property, and your role as a parent."[^sos-pamphlet] His website says he wants parents to "remain central in decisions involving their children."[^site-priorities]
+- **Local control:** He says he supports returning decision-making to local communities rather than "one-size-fits-all mandates" from the state.[^sos-pamphlet][^site-priorities]
+- **Small business:** He says he supports reducing regulatory burdens on small businesses.[^sos-pamphlet][^site-priorities]
 
 ## Affiliations and endorsements
 
-<!-- TODO: session 2 -->
+Burnett's party preference on the ballot is "Prefers Republican Party."[^kc-sample-ballot] The Legislature's member page lists his party as Republican.[^leg-member] His website lists three self-reported organizational endorsements: the Washington Small Business Council, the Chelan County Republican Central Committee, and the Chelan County Sheriff's Office Supervisor Group.[^site-endorsements] The website also lists self-reported endorsements from former State Representatives Clyde Ballard and Cary Condotta, former Congressman Dave Reichert, Chelan County Commissioner Shon Smith, and more than 30 current or former county sheriffs.[^site-endorsements] The website lists more endorsements.[^site-endorsements]
 
 ## Record
 
-<!-- TODO: session 2 -->
+The Legislature lists Burnett as prime sponsor, meaning the legislator who introduced the measure, of seven bills and three House resolutions in the 2025-26 session.[^leg-sponsored] The bills include HB 1797 on the Department of Children, Youth, and Families and law enforcement, SHB 1969 on law enforcement aviation support, and HB 2387 on elected sheriffs.[^leg-sponsored] None of the seven bills passed the House; the three resolutions, including HR 4695 on the Apple Blossom Festival, were adopted.[^leg-sponsored]
+
+On the shortlist bills, Burnett voted nay (no) on ESHB 1296, the bill amending the parental-rights statute created by Initiative 2081.[^leg-member] He voted nay on ESSB 6346, the bill creating the 9.9 percent tax on income over $1 million.[^leg-member] He voted nay on ESSB 5167, the 2025-27 operating budget, and on ESSB 5998, the 2026 supplemental operating budget.[^leg-member] He voted nay on all five 2025 revenue bills.[^leg-member] Those were ESSB 5813 (capital gains and estate tax changes), ESSB 5814 (sales tax on certain services), and ESHB 2081 (business and occupation tax surcharges).[^leg-member] They also included ESSB 5794 (repeal of certain tax preferences) and SHB 2077 (tax on certain zero-emission vehicle credit sales).[^leg-member] HB 1699, SB 5097, and SB 5012, the girls' sports bills, died in committee and never received a floor vote.[^leg-member]
 
 ## Funding
 
-<!-- TODO: session 2 -->
+According to Public Disclosure Commission filings, Burnett's campaign had raised $156,449.99 and spent $124,725.71 as of October 13, 2026.[^finance] About 1.7 percent of contribution dollars came from small donors, meaning gifts of $100 or less plus unitemized gifts of $25 or less.[^finance] The largest contributor is the House Republican Organizational Committee at $64,000.[^finance] The filings list $2,595 in "small contributions," the lump sum campaigns report for unitemized gifts of $25 or less.[^finance] The next largest contributors, at $2,400 each, are Associated Builders and Contractors, Aristotle International, Inc. FBO, and the Associated General Contractors of Washington BUILD PAC.[^finance]
