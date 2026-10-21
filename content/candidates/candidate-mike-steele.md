@@ -165,7 +165,55 @@ record:
     chamber: House
     date: '2026-03-12'
     url: https://app.leg.wa.gov/billsummary?BillNumber=5998&Year=2026
-endorsements: []
+endorsements:
+- org: Washington State Labor Council, AFL-CIO
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: House Republican Organizational Committee
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Washington State Medical Association
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Associated General Contractors of Washington
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: APRNs of Washington State
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Washington State Building & Construction Trades Council
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Children's Campaign Fund
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Mainstream Republicans of Washington
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Washington Association of Nurse Anesthesiology
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Washington Farm Bureau
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Washington State Fraternal Order of Police
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Northwest Regional Council of SMART
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: International Union of Operating Engineers Local 302
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Public School Employees of Washington, PSE SEIU Local 1948
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Retired Public Employees Council of Washington
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
+- org: Washington State School Retirees' Association
+  url: https://www.votemikesteele.com/endorsements/
+  self_reported: true
 sources:
 - id: kc-sample-ballot
   title: King County Elections sample ballot, November 3, 2026 General Election
@@ -197,24 +245,56 @@ sources:
   publisher: Washington State Legislature
   accessed: '2026-10-17'
   kind: legislative
+- id: site
+  title: 'Campaign website: Home'
+  url: https://votemikesteele.com
+  publisher: Mike Steele campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-about
+  title: 'Campaign website: About Mike'
+  url: https://www.votemikesteele.com/about/
+  publisher: Mike Steele campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-priorities
+  title: 'Campaign website: Priorities'
+  url: https://www.votemikesteele.com/priorities/
+  publisher: Mike Steele campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-endorsements
+  title: 'Campaign website: Endorsements'
+  url: https://www.votemikesteele.com/endorsements/
+  publisher: Mike Steele campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
 ---
 
 ## Background
 
-<!-- TODO: session 2 -->
+Mike Steele is the state representative for the 12th Legislative District, Position 2.[^leg-member] The Legislature's member page lists him as a Republican and as ranking minority member of the House Capital Budget Committee.[^leg-member] It also lists him on the Consumer Protection & Business and Education committees and the Legislative Ethics Board.[^leg-member] In the Voters' Pamphlet, Steele says he has been a state representative since 2016, was a past deputy minority leader, and served two terms on the Chelan City Council.[^sos-pamphlet] He says he has worked in the White House Office of Political Affairs and as staff to Washington State House Republican leadership.[^sos-pamphlet] He says he is executive director of the Lake Chelan Chamber of Commerce and chief financial officer of his family's sixth-generation apple and cherry orchard.[^sos-pamphlet] He says he was salutatorian at Manson High School and graduated from Pacific Lutheran University with degrees in business administration and political science.[^sos-pamphlet] He lists community roles as past president of the Rotary Club of Chelan and the Lake Chelan Health and Wellness Foundation and trustee of the Community Foundation of NCW.[^sos-pamphlet] He also lists himself as a trustee of the Association of Washington Business and past chair of the Washington State Chamber of Commerce Executives.[^sos-pamphlet] On his website, Steele says he was born and raised in North Central Washington and grew up in Manson working in his family's apple orchard.[^site-about]
 
 ## Positions
 
-<!-- TODO: session 2 -->
+- **Small business:** In the Voters' Pamphlet, Steele says he has spent his legislative and professional careers "advocating for the needs of small businesses."[^sos-pamphlet] His website says he supports "reducing red tape and lowering tax burdens" so local businesses can grow.[^site-priorities]
+- **Budget:** His website says he supports "responsible budgeting and practical fiscal policies that protect taxpayers."[^site-priorities]
+- **Education and workforce:** His website says he supports expanding STEM programs, funding community colleges and career and technical programs, and creating youth employment and work-based training opportunities.[^site-priorities]
+- **Minimum wage:** His website says increases to the minimum wage "must be approached thoughtfully" with consideration for small businesses, job creation, and cost of living.[^site-priorities]
+- **Health care:** His website says he supports "expanding affordable healthcare options" while improving transparency, choice, and cost containment.[^site-priorities]
+- **Transportation:** His website says he has worked to secure transportation funding and opposes policies that would "significantly increase transportation and energy costs" in the district.[^site-priorities]
+- **Tourism:** His website says tourism should remain a legislative priority and that he helped secure funding for a statewide tourism initiative.[^site-priorities]
 
 ## Affiliations and endorsements
 
-<!-- TODO: session 2 -->
+Steele's party preference on the ballot is "Prefers Republican Party."[^kc-sample-ballot] The Legislature's member page lists his party as Republican.[^leg-member] In the Voters' Pamphlet, he lists himself as a trustee of the Association of Washington Business and past president of the Rotary Club of Chelan.[^sos-pamphlet] His website's self-reported endorsements include the Washington State Labor Council, the House Republican Organizational Committee, the Washington State Medical Association, and the Associated General Contractors of Washington.[^site-endorsements] They also include APRNs of Washington State, the Washington State Building & Construction Trades Council, the Children's Campaign Fund, Mainstream Republicans of Washington, the Washington Farm Bureau, and the Washington State Fraternal Order of Police.[^site-endorsements] The website lists more organizational and individual endorsements.[^site-endorsements]
 
 ## Record
 
-<!-- TODO: session 2 -->
+The Legislature lists Steele as prime sponsor, meaning the legislator who introduced the measure, of eight bills and three House resolutions in the 2025-26 session.[^leg-sponsored] Four of the bills became law: HB 1156 on volunteer firefighters, HB 1157 on family access to vital records, HB 1842 on captive insurers for public utility districts, and 2SHB 1701 on liquor licensee premises.[^leg-sponsored] The other four bills, including HB 1151 on ninth grade success grants, did not pass the House; the three resolutions were adopted.[^leg-sponsored]
+
+On the shortlist bills, Steele voted nay (no) on ESHB 1296, the bill amending the parental-rights statute created by Initiative 2081.[^leg-member] He voted nay on ESSB 6346, the bill creating the 9.9 percent tax on income over $1 million.[^leg-member] He voted nay on ESSB 5167, the 2025-27 operating budget, and on ESSB 5998, the 2026 supplemental operating budget.[^leg-member] He voted nay on all five 2025 revenue bills.[^leg-member] Those were ESSB 5813 (capital gains and estate tax changes), ESSB 5814 (sales tax on certain services), and ESHB 2081 (business and occupation tax surcharges).[^leg-member] They also included ESSB 5794 (repeal of certain tax preferences) and SHB 2077 (tax on certain zero-emission vehicle credit sales).[^leg-member] HB 1699, SB 5097, and SB 5012, the girls' sports bills, died in committee and never received a floor vote.[^leg-member]
 
 ## Funding
 
-<!-- TODO: session 2 -->
+According to Public Disclosure Commission filings, Steele's campaign had raised $158,569.00 and spent $156,805.82 as of October 15, 2026.[^finance] About 2.6 percent of contribution dollars came from small donors, meaning gifts of $100 or less plus unitemized gifts of $25 or less.[^finance] The largest contributor is the House Republican Organizing Committee at $5,000.[^finance] The filings list $4,095 in "small contributions," the lump sum campaigns report for unitemized gifts of $25 or less.[^finance] The next largest contributors, at $2,400 each, are ABC PAC WA, Amazon Services LLC, and Airbnb.[^finance]

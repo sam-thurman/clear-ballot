@@ -181,7 +181,37 @@ record:
     chamber: House
     date: '2026-03-12'
     url: https://app.leg.wa.gov/billsummary?BillNumber=5998&Year=2026
-endorsements: []
+endorsements:
+- org: 11th District Democrats
+  url: https://hackney4the11th.com/endorsements
+  self_reported: true
+- org: King County Democrats
+  url: https://hackney4the11th.com/endorsements
+  self_reported: true
+- org: Washington State Labor Council
+  url: https://hackney4the11th.com/endorsements
+  self_reported: true
+- org: UFCW 3000
+  url: https://hackney4the11th.com/endorsements
+  self_reported: true
+- org: Washington State Nurses Association
+  url: https://hackney4the11th.com/endorsements
+  self_reported: true
+- org: SEIU 925
+  url: https://hackney4the11th.com/endorsements
+  self_reported: true
+- org: AFT Washington
+  url: https://hackney4the11th.com/endorsements
+  self_reported: true
+- org: NWRC SMART (Sheet Metal Workers)
+  url: https://hackney4the11th.com/endorsements
+  self_reported: true
+- org: Retired Public Employees Council of Washington
+  url: https://hackney4the11th.com/endorsements
+  self_reported: true
+- org: Alliance for Gun Responsibility Victory Fund
+  url: https://hackney4the11th.com/endorsements
+  self_reported: true
 sources:
 - id: kc-sample-ballot
   title: King County Elections sample ballot, November 3, 2026 General Election
@@ -213,24 +243,56 @@ sources:
   publisher: Washington State Legislature
   accessed: '2026-10-17'
   kind: legislative
+- id: site
+  title: 'Campaign website: Home'
+  url: https://hackney4the11th.com
+  publisher: David Hackney campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-about
+  title: 'Campaign website: Meet David'
+  url: https://hackney4the11th.com/meet-david
+  publisher: David Hackney campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-priorities
+  title: 'Campaign website: Priorities'
+  url: https://hackney4the11th.com/priorities
+  publisher: David Hackney campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
+- id: site-endorsements
+  title: 'Campaign website: Endorsements'
+  url: https://hackney4the11th.com/endorsements
+  publisher: David Hackney campaign
+  accessed: '2026-10-17'
+  kind: candidate-site
 ---
 
 ## Background
 
-<!-- TODO: session 2 -->
+David Hackney has been a state representative for the 11th Legislative District, Position 1, since 2021, according to his Voters' Pamphlet statement.[^sos-pamphlet] The Legislature's member page lists him as a Democrat and as vice chair of the House Consumer Protection & Business Committee.[^leg-member] It also lists him on the Environment & Energy and Transportation committees and on the Legislative Ethics Board.[^leg-member] In the pamphlet, Hackney lists a BS from Cornell University, an MPA from Harvard University, and a JD from Harvard Law School.[^sos-pamphlet] He says he worked as an Assistant United States Attorney, a United Nations war crimes prosecutor, and senior counsel for global human resources at The Nature Conservancy.[^sos-pamphlet] He also lists work as a consultant for the Seattle City Attorney's Office.[^sos-pamphlet] On his campaign website, Hackney says he was born in Cleveland, Ohio, spent 11 years at the Department of Justice, and tried more than 20 criminal jury trials.[^site-about] He lists past community roles with the Tukwila Children's Foundation, the Alliance for Gun Responsibility, Tabor 100, Habitat for Humanity, and the Washington State Human Rights Commission.[^sos-pamphlet]
 
 ## Positions
 
-<!-- TODO: session 2 -->
+- **Cost of living:** In the Voters' Pamphlet, Hackney says his "singular focus" is finding direct ways to lower costs for everyday people, "from housing to healthcare."[^sos-pamphlet]
+- **Housing:** Hackney's website says one of his bills created a real estate tax exemption for sales of property designated as affordable housing.[^site-priorities] It says he supports "transit-friendly and multifamily builds" and more housing for smaller communities.[^site-priorities]
+- **Environment:** He says his bill requiring building owners to meet green energy performance standards passed, and that he co-chairs the bipartisan Hydrogen Caucus.[^site-priorities]
+- **Health care:** He says the Legislature "can and should do more" to lower health care costs and that he supports policies to grow the health care workforce and reduce burnout.[^site-priorities]
+- **Education:** He says the state should address students' internet access, resources for alternative learning, and financial and material support for teachers.[^site-priorities]
+- **Gun safety:** He says he has pursued legislation such as banning high-capacity magazines.[^site-priorities]
+- **Public safety:** He says he supports mental health resources, punishment focused on rehabilitation, better resources for jails and prisons, and funding for youth mentoring groups such as Choose 180 and Community Passageways.[^site-priorities]
 
 ## Affiliations and endorsements
 
-<!-- TODO: session 2 -->
+Hackney's party preference on the ballot is "Prefers Democratic Party."[^kc-sample-ballot] The Legislature's member page lists his party as Democrat.[^leg-member] In the Voters' Pamphlet, Hackney self-reports endorsements from Governor Bob Ferguson, Attorney General Nick Brown, the 11th District Democrats, and the Washington State Labor Council.[^sos-pamphlet] His website's self-reported endorsements also include King County Executive Girmay Zahilay, Speaker Laurie Jinkins, the King County Democrats, UFCW 3000, the Washington State Nurses Association, SEIU 925, and AFT Washington.[^site-endorsements] The website lists more endorsements.[^site-endorsements]
 
 ## Record
 
-<!-- TODO: session 2 -->
+The Legislature lists Hackney as prime sponsor, meaning the legislator who introduced the bill, of 15 bills in the 2025-26 session.[^leg-sponsored] They include ESHB 1149 on cruelty to animals, HB 1268 on virtual currency kiosks, and HB 2541 on peace officer use of force.[^leg-sponsored] ESHB 1149 became law in 2025; the other 14 bills remained in House committees or the Rules Committee.[^leg-sponsored]
+
+On the shortlist bills, Hackney voted yea (yes) on ESHB 1296, the bill amending the parental-rights statute created by Initiative 2081.[^leg-member] He voted yea on ESSB 6346, the bill creating the 9.9 percent tax on income over $1 million.[^leg-member] He voted yea on ESSB 5167, the 2025-27 operating budget, and on ESSB 5998, the 2026 supplemental operating budget.[^leg-member] On the 2025 revenue bills, he voted yea on ESSB 5813 (capital gains and estate tax changes), ESSB 5794 (repeal of certain tax preferences), and SHB 2077 (tax on certain zero-emission vehicle credit sales).[^leg-member] He voted nay (no) on ESSB 5814 (sales tax on certain services) and ESHB 2081 (business and occupation tax surcharges).[^leg-member] HB 1699, SB 5097, and SB 5012, the girls' sports bills, died in committee and never received a floor vote.[^leg-member]
 
 ## Funding
 
-<!-- TODO: session 2 -->
+According to Public Disclosure Commission filings, Hackney's campaign had raised $215,153.34 and spent $157,975.93 as of October 16, 2026.[^finance] About 0.9 percent of contribution dollars came from small donors, meaning gifts of $100 or less plus unitemized gifts of $25 or less.[^finance] The largest single entry in the filings is $94,268.82 listed as "miscellaneous receipts."[^finance] The top named contributors, at $2,400 each, are Bradford Smith (president, Microsoft), Amazon.com Services LLC, BECU, and the Credit Union Legislative Action Fund.[^finance]
